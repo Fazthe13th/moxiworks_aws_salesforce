@@ -1,0 +1,58 @@
+//company
+internal_key character varying(250) NOT NULL,
+  -company_legalname character varying(250),
+  -companypublickey character varying(250),
+  parent_company_legal_name character varying(250),
+  parent_company_key character varying(250),
+  -company_addressline1 character varying(250),
+  -company_addressline2 character varying(250),
+  -company_city character varying(250),
+  -company_state character varying(250),
+  -company_zipcode character varying(250),
+  -company_webpage character varying(250),
+  -agent_count character varying(250),
+  -company_phone character varying(250),
+  -company_moxi_hub boolean,
+  -company_moxi_dms boolean,
+  -company_moxi_engage boolean,
+  -company_moxi_present boolean,
+  -company_moxi_websites boolean,
+  -company_moxi_talent boolean,
+  -company_moxi_insights boolean,
+  -show_in_product_marketing boolean,
+  -advertise_your_listing boolean,
+  -ayl_emails boolean,
+  -advertise_your_services boolean,
+  -ays_emails boolean,
+  -direct_marketing boolean,
+  sfdc_account_id character varying(250),
+  created_date timestamp without time zone,
+  modified_date timestamp without time zone,
+  -company_name character varying(250),
+  office_name character varying(250),
+  region_name character varying(250),
+
+  company_legalname
+  company_name
+  companypublickey
+  company_addressline1
+  company_addressline2
+  company_city
+  company_state
+  company_zipcode
+  company_webpage
+  agent_count
+  company_phone
+  company_moxi_hub
+  company_moxi_dms
+  company_moxi_engage
+  company_moxi_present
+  company_moxi_websites
+  company_moxi_talent
+  company_moxi_insights
+  show_in_product_marketing
+  advertise_your_listing
+  ayl_emails
+  advertise_your_services
+  ays_emails
+  direct_marketing

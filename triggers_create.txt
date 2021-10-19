@@ -1,0 +1,70 @@
+------moxiworksagents------
+create or replace function t_moxiworksagents_updated_date() 
+RETURNS trigger AS
+$BODY$
+begin
+new.updated_date := current_timestamp::timestamp(0) without time zone;
+RETURN NEW;
+END;
+$BODY$
+  LANGUAGE plpgsql;
+  
+create trigger t_moxiworksagents_updated_date
+before update on moxiworksagents
+for each row
+execute procedure t_moxiworksagents_updated_date();
+------moxiworksagents------
+
+
+------moxiworksagents_delta------
+create or replace function t_moxiworksagents_delta_updated_date() 
+RETURNS trigger AS
+$BODY$
+begin
+new.updated_date := current_timestamp::timestamp(0) without time zone;
+RETURN NEW;
+END;
+$BODY$
+  LANGUAGE plpgsql;
+  
+create trigger t_moxiworksagents_delta_updated_date
+before update on moxiworksagents_delta
+for each row
+execute procedure t_moxiworksagents_delta_updated_date();
+------moxiworksagents_delta------
+
+
+------moxiworkscompany------
+create or replace function t_moxiworkscompany_updated_date() 
+RETURNS trigger AS
+$BODY$
+begin
+new.updated_date := current_timestamp::timestamp(0) without time zone;
+RETURN NEW;
+END;
+$BODY$
+  LANGUAGE plpgsql;
+  
+create trigger t_moxiworkscompany_updated_date
+before update on moxiworkscompany
+for each row
+execute procedure t_moxiworkscompany_updated_date();
+------moxiworkscompany------
+
+
+------moxiworkscompany_delta------
+create or replace function t_moxiworkscompany_delta_updated_date() 
+RETURNS trigger AS
+$BODY$
+begin
+new.updated_date := current_timestamp::timestamp(0) without time zone;
+RETURN NEW;
+END;
+$BODY$
+  LANGUAGE plpgsql;
+  
+create trigger t_moxiworkscompany_delta_updated_date
+before update on moxiworkscompany_delta
+for each row
+execute procedure t_moxiworkscompany_delta_updated_date();
+------moxiworkscompany_delta------

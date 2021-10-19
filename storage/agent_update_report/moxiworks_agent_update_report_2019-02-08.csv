@@ -1,0 +1,834 @@
+agent_uuid,userid,agent_username,firstname,lastname,officename_display,officepublickey,company_legalname,companypublickey,Status
+001468ea-2e19-4981-88b0-1fb3b55a1513,2422963,ALLISON@PACUNION.COM,Allison F.,Kalhammer,Compass | 1699 Van Ness,13101483,Compass,1412092,Update
+00cb1607-accf-49e7-8af9-8d3728a61039,4623917,82470@LNF,Meagan,McDaniel,Roanoke,9889785,"Long & Foster Real Estate, Inc.",1259026,Update
+00dba8ab-7a18-492d-b68f-2dc35862dc94,4983465,00U8U4Q49E5CVRP0O1T7,Brooke,Stamas,Palm Harbor,14290818,Coldwell Banker Residential Brokerage NRT,3145525,Update
+00f9d1f1-6702-4083-8d1b-509b12fc3b70,1537645,MARGARET4HOMES@AOL.COM,Margaret,Guerrettaz,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+00faf49e-4ce0-4268-a4f3-77e065855e15,3969055,00U4ZS7209Z3WACER1T7,Michael,Gaudreau,Field Strategy,14712267,Coldwell Banker Residential Brokerage NRT,3145525,Update
+01046ea6-c52b-42ae-8021-e7e4f69cab88,3874880,##_249_#81608@LNF,Samadara,Smith,Takoma Park Old Town,9786150,"Long & Foster Real Estate, Inc.",1259026,Update
+01098c1e-5054-404d-8746-5dfb91d8753a,3633162,DAVID.KHOSRAVI@CAMOVES.COM,David,Khosravi,Calabasas,12105600,Coldwell Banker Residential Brokerage NRT,3145525,Update
+014900e4-ba4d-49f0-8f12-14aa81b7450f,5060603,ANGELA.BRYANT-BROWN@ROG,Angela L,Bryant,Pikesville  Md,13765734,Realty ONE Group,1732426,Update
+015b62df-2d01-4707-90e4-37ac63ad32f5,3021173,##_664_#00US6ZL7ZSPMULXBM1T6,Edward,Henderson,Columbia,14124015,Coldwell Banker Residential Brokerage NRT,3145525,Update
+016ce3ba-14ae-4544-9c22-7414542c0857,5071332,WILL.EASTER@ROG,Will,Easter,Winston-Salem  Nc,15109041,Realty ONE Group,1732426,Update
+01d4b58c-89e9-4600-b8a0-d9bd9b4a299a,5064199,00U9OHMM1URNZCASI1T7,Amy,Chen,Chestnut Hill - Hammond,13820019,Coldwell Banker Residential Brokerage NRT,3145525,Update
+020e1844-2811-497c-84c1-3d50e66302ff,4035428,00U55DC25TNV8KNLS1T7,Julius,Scott,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+02b9dd40-b25e-4830-956c-f8fa077ca1c6,1531678,76858@LNF,Melissa,Farley,Chevy Chase/Uptown,9807864,"Long & Foster Real Estate, Inc.",1259026,Update
+0344f757-6aea-4020-8e3c-b5393b365dce,4436366,00U5Y1SR9PGXSUTGO1T7,Kristin,Susa,East Regional,14073678,Coldwell Banker Residential Brokerage NRT,3145525,Update
+03d6cb41-d6b2-4619-9855-07a131827fa8,4051450,##_189_#00U56C9JJM6BUWBYV1T7,Jennifer,Richardson,"Manchester, Nh",13902927,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0419c895-cf74-48e2-9587-c043912d5079,5069143,00US77OAIJHAKOJKU1T6,Patrick,Banks,Heights,14604684,Coldwell Banker Residential Brokerage NRT,3145525,Update
+04c19d5b-0b9b-4b37-9a0d-c905bd0bcfbe,5070797,00U9QRWTPT8EHKXOZ1T7,Greg,Mouser,Heights,14604684,Coldwell Banker Residential Brokerage NRT,3145525,Update
+04d88cc7-b91e-44a2-88e9-67c4823c37b9,5070894,00U9QTLVUHNAUAY5K1T7,Luna,Song,Pleasanton,11680203,Coldwell Banker Residential Brokerage NRT,3145525,Update
+050d8942-0c0c-4f04-ad58-84d2613db5d1,3006580,00US7CLWRQZSM2IPJ1T6,Will,Sahakian,Boston-Back Bay,13814097,Coldwell Banker Residential Brokerage NRT,3145525,Update
+053fc05f-0c55-4538-9aee-db6b5b9e4714,5016786,00U95EY6UE9UJKUQV1T7,Elizabeth,Montero,Kendall,14253312,Coldwell Banker Residential Brokerage NRT,3145525,Update
+05447b75-5f9c-431f-bc90-96a40fd1df5d,3021767,00UU6CZDAAL1ZUJGY1T6,Dinny,Dwyer,Winnetka,14392479,Coldwell Banker Residential Brokerage NRT,3145525,Update
+05fe41e1-4b3d-4360-bf20-e85367cfe0fc,4146365,SUE.WALSH@FOURSEASONSSIR.COM,Sue,Walsh,Vergennes,13684800,Four Seasons Sotheby's International,3190498,Update
+0694136e-cd48-46b8-b0fb-ac64224a5fc0,2837626,00US77YF0TEBKAQ461T6,Oates Dickinson,Team,Haddonfield,14575074,Coldwell Banker Residential Brokerage NRT,3145525,Update
+06ca0d32-9c6b-461b-bbdd-91a28d97429c,3668425,##_143_#00U455TP8QVUVYVCV1T7,Silver,Panlasigui,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0768b60f-010d-482c-b4a2-a21aec6d383c,5000978,LAURENMAGUIREREALTOR@GMAIL.COM,Lauren,Maguire,Leading Edge,15733812,Leading Edge Real Estate,3240205,Update
+079455c0-f498-428b-882b-69b9fec1585d,4849640,JSAMARTIN@SMITHANDASSOCIATES.COM,Julie,Samartin,Bay To Bay,15485088,Smith & Associates,3232315,Update
+07a26bcb-b17b-4301-971a-d74281ed8284,4879502,00UTR2SM7I8VPI3ZH1T6,Nancy,Nunez,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+07e58053-4709-46c3-a7d9-2774c7397409,1180165,BSTEINER,Brian,Steiner,Seattle-Northgate,8316507,Windermere Solutions LLC,1234567,Update
+07ef1ec8-9e5b-4f76-a650-9e62bbaf9b52,5067607,84635@LNF,CLIFTON,BOND,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+081ef41d-15b4-4654-828f-f96223b89f84,4972916,JSCHARFF,Jeffory J.,Scharff,Sacramento - Central,15454491,Intero Real Estate,3220480,Update
+08bded07-e8a4-4ee4-87bf-ed033598aeff,1536800,SUSIE.HAMILTON@CBNORCAL.COM,Susie,Hamilton,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0900d2ab-341a-4778-af40-d5bd024697b0,1487925,##_589_#RONALDBONOAN@HH.INC,Ronald,Bonoan,Lakewood,9316338,Howard Hanna,1585672,Update
+0971160c-c27d-4e65-b61e-fddc9838555a,1499523,66835@LNF,Jackie,Adorno,Media,9877941,"Long & Foster Real Estate, Inc.",1259026,Update
+0ae7ea1b-1122-4752-945e-d668f7bff080,3685278,00US7GVMDWAM4DI8I1T6,Tammy,Jerome,Studio City,12181599,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0beb5d26-c25e-45f1-a292-ac4b8d14e595,1551377,DENISEPATRYAS@BOULDERCO.COM,Denise,Patryas,Re/Max Of Boulder - Canyon Blvd,12052302,"RE/MAX of Boulder, Inc.",2860696,Update
+0bf91eea-ea12-442e-906d-79e9611a02c5,5067483,84511@LNF,MARCIA,ROSTIEN,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+0c0d3740-6916-45ef-8851-d649e305ccff,1537407,JOHN.BOWMAN@CBNORCAL.COM,Joseph,Bowman,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0c7396f4-70b1-435b-bd27-d1647f9a5a99,4815445,##_10_#KWETHINGTON@INTERO.COM,Keagan,Wethington,Union City,15467322,Intero Real Estate,3220480,Update
+0c9f220d-5984-4bea-a7f4-77c7c98ff9d9,4927875,00U8EM4CLA8N6TMMA1T7,Kristin,Jaman,Malibu West,12194430,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0d1bafde-f744-4f82-9644-db2cafd9e394,5046430,LHAMMER,Lauren,Hammer,Kirkland,8197080,Windermere Solutions LLC,1234567,Update
+0dda5a74-6e1f-44b5-a9d4-a9888a3ebea8,3728627,JUDY.BEAL@ROG,Judy,Beal,Lone Tree  Co,13739085,Realty ONE Group,1732426,Update
+0e940c24-b25a-4e76-99cb-7c551c5bd917,5063294,00U9OKM2D1U8HJXBI1T7,Kenneth,Vaughn,Tucson-Williams Centre,12167781,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0eab1688-620e-47bc-89a8-521a48da070d,3046414,00US7AN6EEDEL1X0C1T6,Nissa,Mesnekoff,Coral Gables,14250351,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0f3ce5fc-bab3-4c7b-89f3-efb1e12c0c09,2672366,DAVIDEUBANKS@HH.INC,David,Eubanks,Rocky River,9271923,Howard Hanna,1585672,Update
+1002cf19-0ea9-43ba-9814-2b13339d266b,5067563,84591@LNF,CHEDDY,MATTHEWS,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+110f97d1-58e2-4813-aa25-7cdb6644a734,4976211,00U8RRVGPWG2SY8OG1T7,Christian,Lipinski,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+118c5acd-6e9f-4fc4-8085-207a2a94217e,3021881,00UV6GL96JOJKRPMH1T6,Cathy,Cocolas,Mount Pleasant,14646138,Coldwell Banker Residential Brokerage NRT,3145525,Update
+11f6c3b3-8295-4f73-a9d3-a3fdd5c3641e,1563208,VIRGINIA.DURAN@CBNORCAL.COM,Virginia,Duran,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1202b0b5-3cb9-4767-8b24-c85993da2e2f,1486981,RENEEBRICKER@HH.INC,Renee,Bricker,Wadsworth,9282780,Howard Hanna,1585672,Update
+12b8c355-56cc-44ef-a19b-70fde6ee9490,4815343,AMAKHIJANI@INTERO.COM,Aarti,Makhijani,Union City,15467322,Intero Real Estate,3220480,Update
+13fc0edf-4b5a-4159-a663-8c8bdc00e284,3055159,JASON.FUENTES@CBNORCAL.COM,Jason,Fuentes,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+140be6f3-718b-49c5-82f1-26499a27a39d,4782126,##_388_#DOUGLAS.GOSSOM@ROG,Doug,Gossom,Dallas  Tx,15366648,Realty ONE Group,1732426,Update
+14bfda9c-6211-471a-929f-625b4930a43a,4895849,83174@LNF,Jill,Leonard,Frederick,9803916,"Long & Foster Real Estate, Inc.",1259026,Update
+14e47e8d-65ce-4f9a-9f1d-578352fe96fb,4915056,BRIAN.PHELT@ROG,Brian,Phelt,San Antonio  Tx,15597606,Realty ONE Group,1732426,Update
+152adf8f-802d-432b-ad43-bfc7b8abdc05,4565458,00U6DKYDOZLFK0VIF1T7,Amber,Miller Palnik,Metro,14312532,Coldwell Banker Residential Brokerage NRT,3145525,Update
+15317cde-e74a-44ae-9bf5-cada3481cb00,5072647,ANTHONY.COOL@ROG,Anthony,Cool,Tempe Office,13707501,Realty ONE Group,1732426,Update
+1552edcc-0f27-444f-a445-49060e795494,1466459,PPAISVIC,Victor,Pais,Lyon Re West Roseville / Rocklin,8563257,Lyon Real Estate,1490992,Update
+1556dc63-8e1f-48cd-8734-f8278eaa44b1,2689697,##_997_#COREY.CONDIT@ROG,Corey,Condit,Scottsdale Office,13705527,Realty ONE Group,1732426,Update
+15d054b9-8538-4248-8927-636ff87fc932,4815435,##_10_#ATABINAS@INTEROREALESTATE.COM,Anthony,Tabinas,Union City,15467322,Intero Real Estate,3220480,Update
+15fe82c1-4067-4b3c-b32e-9cc09a07d6bc,1530581,ASHLEYLOGAN@HH.INC,Ashley,Logan,Ann Arbor,9389376,Howard Hanna,1585672,Update
+15ff145f-3cf0-4a76-a5ca-9fb9d1c3be83,5007130,SONIA.BONET@ROG,Sonia,Torres-Bonet,Greenville  Sc,15169248,Realty ONE Group,1732426,Update
+16047a73-3026-4439-892e-cb455d08b397,3575051,00US7B4ZI0A7OKZYG1T6,Michael,Veprinsky,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1649237d-0ff6-4977-82a3-fefe0ff575b3,5000109,00U8ZPOL72PZD5JAG1T7,Natalie,Galvan,Irvine,12101652,Coldwell Banker Residential Brokerage NRT,3145525,Update
+16b9a762-e234-4815-80b8-959feb0186e1,5037212,00U9G8PXRTGNGDU8X1T7,Jane,Rees,Sarasota Central,14269104,Coldwell Banker Residential Brokerage NRT,3145525,Update
+16d5be0d-29a2-44fb-94d5-4b3d7312312b,1585908,SHEILA.BRADSHAW@CAMOVES.COM,SHEILA,BRADSHAW,Internet Sales Oc,15773292,Coldwell Banker Residential Brokerage NRT,3145525,Update
+178550b3-553a-4274-8117-9f5355baaf7a,4739758,PHILISA.GATLIN@CL,Philisa,Bridges-Gatlin,"Smyrna, Tn",13629528,Crye-Leike Real Estate Services,3140002,Update
+17993926-1a1e-4c95-83a5-2fa1db298d1e,2691441,##_341_#JODI.CHERMACK@ROG,Jodi,Chermack,Phoenix  Az,13703553,Realty ONE Group,1732426,Update
+179cf941-51b3-4628-a35e-100f2264e2a1,5061120,00U9N1NZEM67ORMEZ1T7,Debra,Brizak,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+17b7dd0d-2211-429a-984a-0704f62d3980,3575191,00U1FRNLA6SZGTITB1T7,Farhang,Dadgari,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+17df1b46-bb69-436c-a455-67c91d291d16,3037850,##_399_#00US79D3IH2GJPUYZ1T6,Troy,Koenig,Minnetonka,14444790,Coldwell Banker Residential Brokerage NRT,3145525,Update
+18000e39-fa2b-4515-9f3e-ca33df72beb2,5063447,JEFFREY.TABARES@ROG,Jeffrey,Tabares,Lutz  Fl,13741059,Realty ONE Group,1732426,Update
+183a6069-6534-4c72-8440-9bb30fcd9b00,3035685,00US73C4AF4C2WAA11T6,Bob,Weibrecht,Fenton,14465517,Coldwell Banker Residential Brokerage NRT,3145525,Update
+18ac4cd4-c9aa-4417-956c-0471b830b8bc,3574913,00US7DD9ZWVNSK9NJ1T6,Vick,Melancon,El Dorado Hills,11693034,Coldwell Banker Residential Brokerage NRT,3145525,Update
+18ef5185-7d10-4e47-b87c-2ae43b88529c,2689446,##_507_#CHONG.CHONG@ROG,Chong,Chong,Las Vegas  Nv,13748955,Realty ONE Group,1732426,Update
+191545ec-0980-44c3-9fba-22a3e21fcf2d,4690454,82654@LNF,Bree,Bell,Vienna/Oakton,9741735,"Long & Foster Real Estate, Inc.",1259026,Update
+191a66a8-a49f-42da-9c31-822b9e2e760f,1537556,MOHANJIT.THANDI@CBNORCAL.COM,Mohanjit,Thandi,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1939c126-c00e-43c8-8ceb-c55b3a731418,5070880,00U9QS604N9PKJCQF1T7,Anthony,Escribens,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+19c826df-ed6e-4f34-b757-fe7136022836,1487843,##_465_#RICHARDMISENCIK@HH.INC,Richard,Misencik,Avon,9306468,Howard Hanna,1585672,Update
+1a5aa0cb-5a57-4227-926a-bec37f8987a0,1537431,TTOFFEY@AOL.COM,TED,Toffey,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1a6ab169-a896-41cb-9926-ad95b6161f1d,5019047,00U9690IY7ZWRBSJL1T7,Michael,Seidel,Timonium,14132898,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1a76f21f-ecd9-4a43-aac4-5416d06d7d8a,3000593,##_197_#00US7BUVLBSORMQEO1T6,Karl,Seppa,Leominster,13835811,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1b1097a7-7244-4612-beaa-4a4e1ad3b674,5070897,00U9QT8195SPRKKBF1T7,Darcy,Linares,Ramsey / Upper Saddle River,14024328,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1b5ca114-918f-477f-90dc-b7ff50967741,5070867,00U9QHHFQ8D0X7NZH1T7,Nina,Gabriel,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1b6eeafc-cfe8-4423-aa4f-83c61077ad30,5057652,CMASSO@KOENIGRUBLOFF.COM,Carlos,Masso,Chicago - Michigan Avenue,15506802,"HomeServices of Illinois, LLC",3233104,Update
+1b817af0-acad-4a85-8157-78690e66b787,1957815,##_340_#80206@LNF,Steve,Fox,Fredericksburg,9755553,"Long & Foster Real Estate, Inc.",1259026,Update
+1bbad71d-3674-4135-837a-a635edf92ef3,2753768,JOHNTOPOR@HH.INC,John,Topor,Utica/New Hartford,13414362,Howard Hanna,1585672,Update
+1bc542bf-9250-456d-9c06-b70053c88527,5066575,00U9PF9IDZ8NC5BEK1T7,Kathleen,Higginbotham,Annapolis Church Circle,14121054,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1bdfbd72-fa58-4995-b019-dc7edd63a317,4981815,00U8TOTKROG7HMII81T7,Christine,Chandler,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1c4d8f64-67bb-43eb-97b7-843ee741af1d,5067558,84586@LNF,DWAYNE,WHITMORE,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+1cbd4feb-9110-40eb-a698-6e2cde2395d1,3037611,##_844_#00US770I6OVVNCZW71T6,Kemar,Byfield,Flower Mound,14490192,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1ce67945-9a6a-473a-91a7-c18877757c84,4950488,00U8JZGO1OZH5MNHH1T7,Marianne,Hee,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1d37cc68-c5d9-4a58-ad2e-574dcf3888df,5050944,84479@LNF,Wendie,Barbee,Greater Silver Spring,9843396,"Long & Foster Real Estate, Inc.",1259026,Update
+1d4fb037-22f5-422f-8091-5865c89d2745,4591527,ROGER.HAAF@ROG,Roger,Haaf,Sacramento  Ca,13733163,Realty ONE Group,1732426,Update
+1d71708d-d9c0-4a06-945c-eeca4e8ef6a2,5049334,00U9KUZ1B8GOQKMGH1T7,Sumit,Gahlawat,Cranberry Township,14069730,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1ed3079b-ca2e-4838-a2e5-1be0ee17c01e,3575656,00US7G2PMH0EGIQEC1T6,Katherine,House,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1ee43cc3-f48b-491d-80a1-28614b1b2d81,1846979,##_10_#ACHAPLEAU,Allison,Chapleau,Commercial,12541854,Compass,1431028,Update
+1f30ea57-048d-459e-aab7-2343fcc7a08b,4894115,00U865MT0ITUJHS6F1T7,Stacey,Nelson,Westlake,14590866,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1fd1abd5-e822-499c-a937-0bf86d2b5f12,1540145,CRISTI.DUNNE@CBNORCAL.COM,Van Dahlen,Dunne,Morgan Hill,11674281,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1feff22b-234a-46f7-b8ec-ec16d6962712,1497029,48472@LNF,Solomon,Ndimbalan,Rockville/King Farm,9793059,"Long & Foster Real Estate, Inc.",1259026,Update
+2019e236-df67-4c24-bfe0-2479b9522bd5,3031348,00US7A8K4LBP2ZEE01T6,Diana,LaGasse,Derry,13900953,Coldwell Banker Residential Brokerage NRT,3145525,Update
+201bd689-0753-4311-815b-7461c59cc147,4962544,00U8OWW3ZPMJGQPER1T7,Amanda,Kohler,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+205d6f57-8e70-458e-95d6-39e7433495a1,3575058,00US7EAO93CTOJQCK1T6,Anni,Thomas,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+20980ed1-69ec-4858-9b68-7cb75981ae26,4986660,00U8GBFMLXCF6N79M1T7,Velinda,Graves,Lake Conroe / Willis,14617515,Coldwell Banker Residential Brokerage NRT,3145525,Update
+211f0172-b7de-4202-92ca-152f878f2a4e,1537460,REBECCA@VANDAHLENS.COM,Van Dahlen Dunne,Van Dahlen,Morgan Hill,11674281,Coldwell Banker Residential Brokerage NRT,3145525,Update
+21346995-b30e-40d5-86aa-1b4a7c074b58,2752830,CHRISTOPHERSILVERI@HH.INC,Christopher,Silveri,Guilderland,13330467,Howard Hanna,1585672,Update
+217ea0e5-eb15-40b8-b163-042f5230d3d4,3881594,##_495_#00U1AD60X3QWOSD7Q1T7,Peggy,Roberts,Siesta Key,14271078,Coldwell Banker Residential Brokerage NRT,3145525,Update
+220c03c2-e5b0-42bb-9d33-5167a0e311da,4648177,00U6QKBFUROODNTDM1T7,Ronnie,Gallion,Polaris Regional,14313519,Coldwell Banker Residential Brokerage NRT,3145525,Update
+22bc4e2a-80df-4f7a-847f-cf04b51cc5c6,1537261,ALAN.TAVANA@CBNORCAL.COM,Alan,Tavana,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+22e7e3cf-cf2f-4beb-b77b-c7615727f323,3574949,00US7F48KXGXXQRUE1T6,Ashley,Gidel,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+233b133f-d81d-42c8-9b59-105cbf1f1493,4597801,00U6JVN2DMUV3TQ591T7,Carolyn,Augur,Orange Post Rd,13957212,Coldwell Banker Residential Brokerage NRT,3145525,Update
+233dcac9-8fd5-4819-9fc5-c94fa03f6910,4957877,00U8MO7W05JVSQQDE1T7,Robert,Klein,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2417f106-af95-4004-9093-14214b35a7bb,5027323,00U9BQPBRBY2KSSKW1T7,Deborah,Fortkiewicz,Clinton,14051964,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2479c8fd-0ab0-4f73-b286-98baffa28328,5068200,00U9PRHPB4P5XRNVD1T7,Ann Marie,Dimitroff,North Hills,14075652,Coldwell Banker Residential Brokerage NRT,3145525,Update
+25184cfb-6f76-4cc5-b544-944322091f67,5070903,00U9QUV474PMFPZAK1T7,Andres,Castaneda,Boston-Back Bay,13814097,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2518561c-6652-45b1-a0c8-fecfe259e5c6,4751928,##_254_#00U7FC4FK2AYB5YD51T7,Elaine,Love,Minnetonka,14444790,Coldwell Banker Residential Brokerage NRT,3145525,Update
+25779d82-d13e-4e5d-b157-db15b51b67b8,4255953,KWORLEY@FM,Katie,Roebuck,Stonehenge Sales Office,12912966,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+25c10439-a841-4fb8-a5c4-82fff2108d87,5062329,00U9O9H2UX69HOGXX1T7,James,Holmes,Mission Viejo,12110535,Coldwell Banker Residential Brokerage NRT,3145525,Update
+25c9f0eb-8a9e-48dc-b495-81a775f50f0f,2958626,SUZANNE.FARNUM@ROG,Suzanne,Farnum,Las Vegas  Nv,13747968,Realty ONE Group,1732426,Update
+26183e95-87d9-437a-b522-965ed6365c36,5064205,00U9OT2636YGRY77G1T7,Jeanne,Rhodes,Wall Township,14064795,Coldwell Banker Residential Brokerage NRT,3145525,Update
+263e01ca-ff36-4fcd-912c-beefbc7c95be,1537333,BARBARA.MULHOLLAND@CBZHOMES.COM,-Barbara,Mulholland,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+264f77d1-bf5d-4ded-ab24-4d60f4f7707d,4849500,OHIOTIS@SMITHANDASSOCIATES.COM,Olympia,Hiotis,4th Street,15486075,Smith & Associates,3232315,Update
+265c9d50-d297-4122-97e6-2ce543aeaeaa,4901292,00U87YK2RD6GY6JAA1T7,Patrick,Fellinger,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+26a5ecfd-fbbd-4530-a2e0-e269ea784cde,4988286,00U8VG9TB6HFR4GUA1T7,Rachel,Bergman,Chesterfield West,14463543,Coldwell Banker Residential Brokerage NRT,3145525,Update
+26c0b7eb-15c7-4c30-9d77-0b310a151f0d,3575126,00US7F6MSIAC8JY5V1T6,Iris,Azimi-Scheuerman,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2731f61b-1a72-4714-b38b-ca5c6fe78fa2,4783438,DPERSIJN@INTERO.COM,Dana,Persijn,Hollister,15256104,Intero Real Estate,3220480,Update
+27424b02-59ef-4c83-a9a8-5cf7af306762,4986680,00U8UWZT7PERBDNP11T7,Robert,Wizeman,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2755ec6b-e2df-4cff-aa95-6ac47f4e0e2d,3575312,##_892_#00U379RDFV1A84FZ61T7,Patricia,Alexander,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+28075d38-9e5d-480f-9886-857ccb21aef6,5043679,00U9I7Q2YFKJPKM4F1T7,Youkyung,Lee,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2812f997-7790-4755-a856-61e0883c32a6,3011321,00US736K3LIUOFTBO1T6,Jill,Higgins,New Albany/Gahanna,14315493,Coldwell Banker Residential Brokerage NRT,3145525,Update
+286dff08-ff89-4bd8-94e0-3c8723d2d406,5028149,00U9CFK5DVQ7MDHUG1T7,Kwang,Han,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2874d329-1577-466d-b8b7-73564a3d9ea3,2487022,ELAINE.FALKENBERG@RAVEIS.COM,Elaine,Falkenberg,Darien,12790578,William Raveis Real Estate,3077671,Update
+2880eb5d-10da-4b06-8a11-ae9597c571a6,3024052,00U1BND7UVAGFQVCJ1T7,Gary,Vinci,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+28fb0b4e-10ae-4b1c-98d5-84dc06118e52,4875529,##_540_#00U8247K7BIGZTNQV1T7,Pal,Singh,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+292a5c6f-60fd-4bbc-b3b7-28fc18e90e02,5032005,00U9E2V9NYCOEBNQL1T7,Randy,Goldstein,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+29362a51-eeb9-4963-9c6b-c618887314fd,3575534,00US7F8IVQXQU7MKB1T6,Jeffrey,Barry,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+29a42177-6bb9-4bf4-a689-d99efdeeb883,5049282,00US7A5V9MU6GTF1C1T6,Cheryl,Billings,Beverly,13847655,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2a7ac268-a5b4-4d6a-8253-ce82b256f77d,5067547,84575@LNF,MAUREEN,LIND,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+2b2b5dfe-56e6-4244-92fd-e34b111920f6,5021702,00U97FRS1LEGUSKUT1T7,Patricia,Rodriguez,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2b437c10-209d-44fc-b489-c32ad91fb97c,4272688,JOSEPH.FICK@PACUNIONLA.COM,Joseph,Fick,Malibu,15088314,Compass,2993248,Update
+2b5718d8-7459-4d4a-ae6d-6aab9ecdbc5b,1545410,RALPH.BELTRAN@CBZHOMES.COM,Ralph,Beltran,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2b9c885f-f71b-416e-ab63-0e326c4f9625,5067489,84517@LNF,BONNIE,DULEY,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+2bae4c13-0f91-4cd3-9609-fbba71d6a038,5070874,00U9QRSOUOT1D8BL01T7,Maryse,Dunbar,Irving / Las Colinas,14501049,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2bbf1a5c-4bc7-454c-9ea1-fdb3459e9ebe,3027255,##_808_#00U28Y3FXMMTL4VU71T7,Angelo Rafael,martinez,Orlando,14225676,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2bd5ba7f-a70b-479d-b521-e9a8ba5387a8,4765813,STEFANIF@INTEROREALESTATE.COM,Stefani,Fernandez,San Jose - Willow Glen,15264987,Intero Real Estate,3220480,Update
+2be77bff-3546-4b74-a9f7-34ec0d59eeb1,3574702,00US7F92TSDFDV1WW1T6,Pavel,Arustamov,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2c246731-07f0-4d9e-8f96-5401e9799c82,4189942,##_10_#TSHIVVERS,Taj,Shivvers,Hillsboro,7919733,Windermere Solutions LLC,1234567,Update
+2ca206ec-d0dd-4c7e-8a47-f22f6a10e953,2029144,GREG.PERALTA@CBNORCAL.COM,Gregory,Peralta,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2ca5e28c-5512-4f13-a052-04c228103851,1546523,SERAH.HUFFMAN@CBNORCAL.COM,Serah,Park,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2cf4961e-0b45-48fe-9f02-1e8a6deaffbf,5057387,00U9MTTS6UNAMLRGQ1T7,Joey,Merullo,Cambridge-Mass Ave,13821006,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2d0195ea-88d8-461b-98ef-f87573d23f55,4694452,00U72GZ8ZMFFWHSV11T7,Shari,Sirkin,Southbury,13959186,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2d5d089e-1de2-4f72-a556-2c9fad1e832c,3108816,##_478_#00U3H9GW2NAPODNCH1T7,Nick,Perry,Cranberry Township,14069730,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2d9afc89-df0f-4902-9951-2d8ea812029e,1578233,##_666_#79021@LNF,Kathryn,Hanley,Urban Pace,12558633,"Long & Foster Real Estate, Inc.",1259026,Update
+2e19af5e-6857-477a-a144-5966a81e1b12,5018191,##_10_#JHAY@GOLYON.COM,Jason,Hay,Lyon Re Elk Grove,8868240,Lyon Real Estate,1490992,Update
+2e7046fd-3eee-4cd5-b658-2cd7d1e933ed,5061194,00U9NWE2FKZIMNC381T7,Karen,Bailey Meyer,Hinsdale,14378661,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2eafac1d-951b-43a3-aee6-84113298f541,4410374,00U5VTL7BZ6HUSBA31T7,Lisa,Diaz,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2ef12888-a5c7-443a-ae79-fe8afa21a98a,1571206,JACOBGLATZ@HH.INC,Jacob,Glatz,Crocker Road,9318312,Howard Hanna,1585672,Update
+2f644d43-53bc-4d05-819f-18d62010c4dc,2691727,##_409_#JAN.ROSALES@ROG,Jan-Miquel,Rosales,Rancho Cucamonga  Ca,13730202,Realty ONE Group,1732426,Update
+2f68dcc1-052c-41a6-b1ff-998f56f54d84,5067492,84520@LNF,LAURA,ANTHONY,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+2f8338f1-762e-4e34-8faf-37c9d296b84a,4355125,##_214_#00U5PZAARHXSB9JDG1T7,Phillip,Morey,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+31187011-3c38-4145-a373-40c7f5a16c18,5070824,00U9QCHTD2UYWG9IE1T7,Michele,Lloyd-Sealey,Perimeter,14186196,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3122f90a-7de1-4440-abc7-009f5c662811,5061136,00U9N4CQQOCRXI3XJ1T7,Nancy,Schiavone,Princeton,14061834,Coldwell Banker Residential Brokerage NRT,3145525,Update
+316382ea-cbfb-439d-a7b2-d40128c864c1,1923297,##_805_#JENNIFERHARRISON@HH.INC,Jennifer,Harrison,Pepper Pike,9291663,Howard Hanna,1585672,Update
+3188f67b-7c47-4b12-96a4-88148571b902,5068192,00U9PQ7C4IHHU7VJK1T7,Thea,Georgieva,Tampa Westshore,14298714,Coldwell Banker Residential Brokerage NRT,3145525,Update
+31d6d91c-be0d-4839-bd0f-d75b1ff4c92a,5068357,PAM.KATZ@RAVEIS.COM,Pam,Katz,Madison,12815253,William Raveis Real Estate,3077671,Update
+321be064-5532-43d8-b74d-755516e5bb64,1536837,JACKIE.PETERS@CBNORCAL.COM,Jackie,Peters,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+32273c73-ef23-403d-a426-2041b80971f5,2561340,##_233_#CHRISTOPHER.PHAM@CBNORCAL.COM,Christopher,Pham,Internet Sales,15415011,Coldwell Banker Residential Brokerage NRT,3145525,Update
+322c5211-4935-4550-9cc3-126a98089396,1537081,JSCAGLIONE@CBNORCAL.COM,John,Scaglione,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+323d7658-3be7-4458-ae90-78f30961f365,5055876,84489@LNF,Christopher,Long,Charlottesville - Old Ivy,11186703,"Long & Foster Real Estate, Inc.",1259026,Update
+3256ac3e-5efd-4432-b591-3f25a1dc1b14,5061140,00U9N4CXVO8RKOO031T7,Omar,Morsy,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+325f8ab6-9b61-47c5-8f40-3670eccc8c06,5028170,00U9CKA8J9QDVF95N1T7,Azalea,Saldivar,South Austin,14589879,Coldwell Banker Residential Brokerage NRT,3145525,Update
+32dec8d2-fe6d-4b95-b2a4-726b24db5e8e,4838558,RENEEPITRELLI@HH.INC,Renee,Pitrelli,New Castle,9208755,Howard Hanna,1585672,Update
+32f7e25e-5e34-4629-8076-35d1f3723667,4605008,00U6L8Z2MTLVQP5CC1T7,Sheeva,Zarandian,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+33387c27-d816-4a10-8177-3d5e2056c331,4475681,SYLVIA.CORRALEJO@ROG,Sylvia,Corralejo,Valencia  Ca,13735137,Realty ONE Group,1732426,Update
+3345ac86-d9a0-492c-88cf-54b7c507fba9,5072645,ALLISON.CROW@ROG,Allison,Crow,West Des Moines  Ia,15774279,Realty ONE Group,1732426,Update
+334f2ba9-896d-4f81-b17c-78a7b322ba52,4935419,00U8GGUP81DNSITKI1T7,Michelle,Rice,Waltham,13844694,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3447d908-1022-4355-9b05-d8d3c0575b07,5066068,84737@LNF,Thomas,Kennedy,Woodley Park,9769371,"Long & Foster Real Estate, Inc.",1259026,Update
+344e3e70-e155-41b1-a93d-dbb8ff0d1b45,5066572,00U9PIPOOTJA2ES3F1T7,Robert,Brandon,Laguna Niguel,12103626,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3469f9fa-7370-4698-9202-1c111d3e39e5,2752055,##_631_#WENDYCOYDE@HH.INC,Wendy,Coyde,Grand Island,13299870,Howard Hanna,1585672,Update
+348cf35a-2b9d-4b12-a6df-76e290984163,4692404,##_186_#00U718C63ZHIEVOL31T7,Carolyn,Caliri,Plantation Lakeside,14221728,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3497a11b-9d3b-4bb8-9b80-1478c91fca82,3041138,00US7BD8BVUT9F2OQ1T6,Catherine,DeBenedictis,Madison,14039133,Coldwell Banker Residential Brokerage NRT,3145525,Update
+34ea30f1-53cc-4140-bd43-c134b8f8a75b,4842122,CAMMIE.BLESIUS@ROG,Cammie,Blesius,Laguna Niguel  Ca,15039951,Realty ONE Group,1732426,Update
+3562092f-c60a-4506-9fb3-dd566b475f8b,5067517,84545@LNF,TIM,LETAVISH,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+356805cc-509e-40e8-bcd5-4e0a694d8f75,4885888,KDUVALLMEYER@ASCENTREALESTATE.COM,Karen,Duvall Meyer,Liberty Station,15649917,Ascent Real Estate,3237049,Update
+3569a741-06b0-48fd-bc78-61b628273f2e,2468612,ADAM.LASZKIEWICZ@RAVEIS.COM,Adam,Laszkiewicz,Southbury,12836967,William Raveis Real Estate,3077671,Update
+357270f7-eeec-4414-9b1f-34ef3ea3573c,4388330,##_431_#00U5T9EYLFIGKMVV61T7,Meehae,Yoon,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+35a87660-169e-4208-9828-2c9cd1c10594,4940189,MNERBY@INTERO.COM,Michael,Nerby,Sacramento - Central,15454491,Intero Real Estate,3220480,Update
+35d9625b-2ebd-4120-9822-e9fc49675f7d,5067580,84608@LNF,KELLY,HALL,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+3642b39c-2d26-4c92-8e50-c1b5d57e3b9e,5072462,DIANANAPOLIELLO@MICHAELSAUNDERS.COM,Diana,Napoliello,Michael Saunders & Company,15197871,Michael Saunders & Company,3212590,Update
+3679b2dd-3596-4bff-8cac-576dd40aca34,5063266,00U9OGPWCHYRPJWMY1T7,Menatalla,Effat,Ballantyne,14627385,Coldwell Banker Residential Brokerage NRT,3145525,Update
+36b7d5b6-8217-404e-97c0-f7c095e147d3,1509169,##_711_#KENTWHITLEY@HH.INC,Kent,Whitley,Shaker Heights,9262053,Howard Hanna,1585672,Update
+36e3d76e-5a5f-426a-9d16-67beb15f816c,3014011,##_904_#00UMJTD2R9JBYKARZ1T6,Sue,Finnie,Longmeadow,13878252,Coldwell Banker Residential Brokerage NRT,3145525,Update
+36e7eb4e-a953-48f8-ac8b-6f49bfceb4f6,3042215,00US76FSFZY5FLLBE1T6,LINDA MILLER and,JACLYN MIHM,Hampton,14070717,Coldwell Banker Residential Brokerage NRT,3145525,Update
+374039f5-02ce-4e0c-8422-89f3b3442821,5070024,HECTOR.LEGER@ROG,Hector,Leger,Lutz  Fl,13741059,Realty ONE Group,1732426,Update
+38ff6cda-2fbd-4bbf-b0e3-18ef7df8e358,3028153,##_795_#00U2KD365G1FIPY9O1T7,Sana,Anwar,Highland,14407284,Coldwell Banker Residential Brokerage NRT,3145525,Update
+395dc7ad-b4e9-4127-8bb9-2cf99f2358cd,3803615,EKEPLER,Erik,Kepler,Edmonds,8330325,Windermere Solutions LLC,1234567,Update
+39b9b3ad-0b3e-468b-ae10-668ab06461a3,3021909,##_651_#00UVFE3I6TBPMTWGR1T6,Amy,Davis,Minnetonka,14444790,Coldwell Banker Residential Brokerage NRT,3145525,Update
+39bb452d-e32d-49bf-8a11-91b212195200,5067495,84523@LNF,SONYA,FRASER,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+3ab6568d-aa41-48bf-87a6-98efdfc4f3f7,2752607,KIMBERLYBAYUSE@HH.INC,Kimberly,Bayuse,Lancaster,13295922,Howard Hanna,1585672,Update
+3b4f427e-f5fa-4ee7-9f55-bc6879b82508,3891297,##_705_#PHILWARREN@HH.INC,Phil,Warren,Hammondsport - Howard Hanna Lake Group,14969874,Howard Hanna,1585672,Update
+3b969826-48b2-4ad9-a100-2a00f5866e35,5063735,CRISTA.DEGRAZIO@ROG,Crista,DeGrazio,Collegeville  Pa,15768357,Realty ONE Group,1732426,Update
+3b9b935a-f970-4d1f-8e1f-4a9c551f1dc1,4940191,DAVIDO@INTERO.COM,David,Olcomendy,Sacramento - Central,15454491,Intero Real Estate,3220480,Update
+3c344194-27ad-4a06-a2f5-b4ae5c2bbb4f,1583284,REDT4U@AOL.COM,David,Tapper,Burlingame - North,11710800,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3c402be2-bd93-443d-b642-c3a3a56f8126,4402315,AMBER.FILLINGIM@ROG,Amber,Fillingim,Vernal  Ut,15170235,Realty ONE Group,1732426,Update
+3ce0dd56-92c0-42fc-8287-669b098f8f9d,1534757,PMCCARTY@CBZHOMES.COM,Phil,McCarty,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3d4aa63b-70dc-4f55-b698-daa1aaae39e6,3015979,00US79EWPBO96DSW41T6,Nanci,Kehoe,Westlake,14590866,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3d697662-2316-4457-868a-7de0440c915a,2545526,MONICA.SMITH@RAVEIS.COM,Monica,Smith,Hingham,12798474,William Raveis Real Estate,3077671,Update
+3d80bd98-ec14-44fc-9c9a-4f73ce88de85,4864201,##_327_#00U7Z5BAV0MHEXUVG1T7,Anders,Byrd,Halsted,14369778,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3dd72024-e97b-40f8-97ae-5aca51e0df6d,1585680,79277@LNF,Sameera,Merzaie,Manassas,9740748,"Long & Foster Real Estate, Inc.",1259026,Update
+3e27198f-a549-403a-b39f-7bf58908f6a9,5066529,00U9O4Z92NVQN1USX1T7,Carolyn,Prozzo,Wall Township,14064795,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3e3df581-5e2f-424c-a177-b22e1034cbbe,3575457,00US7EZEEBAHPFXV81T6,Joseph,Randazzo,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3e74d13a-2585-4557-a565-6f610180f9f8,5069974,THERESAODOM@MICHAELSAUNDERS.COM,Theresa,Odom,Michael Saunders & Company,15191949,Michael Saunders & Company,3212590,Update
+3ed99de4-bd7c-4d6a-8a72-6db9fb9232d0,1496471,43981@LNF,Susan,Azar,Cherry Hill/Haddonfield,9885837,"Long & Foster Real Estate, Inc.",1259026,Update
+3f470d11-c072-4449-a675-5f0824519630,1537433,DAVID@DJLONGGROUP.COM,David,Long,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3f6c6782-2117-451a-9d16-526510669165,5063282,00U9OINR4QBSQCLKZ1T7,Helene,Bottos,Libertyville,14395440,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3f9a09ff-999c-4c79-8c3f-d5552e46270a,5070099,MARKLOWENSTERN,Mark,Lowenstern,Tahoe City,13143924,Compass,1412092,Update
+3fe047dc-2948-4626-a56d-1e2389a9dd34,1625086,##_375_#MICHELLE.MINGO@RANDREALTY.COM,Michelle,Mingo,White Plains,13000809,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+409a55b0-e353-4af2-8949-9b16a9e840a1,5057701,JOHN.ALBA@CARRINGTONRES.COM,John,Alba,Ny - East Meadow,15075483,Carrington Real Estate,3207067,Update
+40d08a47-9f51-4238-942f-e324f8a88c8f,1579226,AARON.SCHEUERMAN@CBNORCAL.COM,Aaron,Scheuerman,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+40e3739b-8f00-4c1a-8427-78aab22d7659,4941635,00U8HR1OON9VZ9ATD1T7,Bryan,Smith,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+40fb3a5a-e1b3-46b4-bbbb-89c7586635c3,2468792,GAY.MARGLIN@RAVEIS.COM,Gay,Marglin,Briarcliff Manor-Legends Realty Group,12853746,William Raveis Real Estate,3077671,Update
+41047413-0b58-42b7-b20e-79b7edf6f55e,3022107,00UWHC7ROIJV8W3SL1T6,Eric,Eversgerd,Plano,14503023,Coldwell Banker Residential Brokerage NRT,3145525,Update
+411af983-a43b-42ae-a0f9-9ade76f7e8b3,5067609,84637@LNF,PAULA,BELANGE,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+41610f80-e40b-4d67-9e03-2b53d6de8d91,1537287,BSABHLOK@CBNORCAL.COM,Bimla,Sabhlok,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+418e1197-ffa9-4234-ad3d-908cf8556744,5046617,84420@LNF,Kathy,Pfanders,"Blue Bell, Pa",9872019,"Long & Foster Real Estate, Inc.",1259026,Update
+41f7a7e7-d386-4990-b188-a50934e2b67b,3005571,00US73D3Y0XSFMR2O1T6,Jennifer,Young,Lake St. Louis/Wentzville,14469465,Coldwell Banker Residential Brokerage NRT,3145525,Update
+422bfd7f-072c-472b-b08c-531687a44b94,1601503,EMILIAARAU@PACUNIONLA.COM,Emilia,Arau,Sunset Strip,12544815,Compass,2993248,Update
+42689866-8ebd-454e-b8d5-e457c00499d1,4758649,##_10_#KBURNS@C21SCHEETZ.COM,Kelly,Burns,96th St.,15495945,C21 Scheetz Realty,3230737,Update
+426e4d77-7013-471a-aa8f-8920f45c761c,2558493,##_837_#JERRI.BOLDIN@CL,Jerri,Boldin,Murfreesboro - Broad,13612749,Crye-Leike Real Estate Services,3140002,Update
+430ff1f8-16bb-4fb1-ada8-7b29e21f7f35,3002494,##_269_#00US77ZMJAXUUTNW81T6,William,Bonos,Orange Post Rd,13957212,Coldwell Banker Residential Brokerage NRT,3145525,Update
+431574c9-973a-4559-8ff9-1b6bcdd02c0c,1619082,##_889_#79873@LNF,Rena,McMahon,Reisterstown,9865110,"Long & Foster Real Estate, Inc.",1259026,Update
+43897b13-928c-4a50-88d8-e25cfd5b92cf,5062320,00U9O9791E2VDXXYH1T7,Henry,Sauer,North Hills,14075652,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4392b352-6b04-4e08-96e8-bbde4a40af31,4694442,00U72D714RC87O8SL1T7,John,Manibusan,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+43bbc536-8975-4eff-9a6f-505d0e8bcf3f,1506324,##_975_#CHARLESTOMBLIN@HH.INC,Ron,Tomblin,Canton,9281793,Howard Hanna,1585672,Update
+43e3f708-a910-421c-8ab1-e469b306ee5f,4966591,00U8QK9M36LOZOQPB1T7,Omar,Lopez,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4449f9e8-8369-4429-b10c-a5acfffc856f,4742892,##_367_#00U7CYGBPIIXS0AU71T7,Cathryn,Montez,Murrieta,12140145,Coldwell Banker Residential Brokerage NRT,3145525,Update
+444cdce9-a5fc-4e5f-a0c5-1b10f0ff6b11,1553781,RACHELPM,Rachel,Broughton,Hood River,7933551,Windermere Solutions LLC,1234567,Update
+4452f609-ca4a-4bcd-a15d-2ff22e25dead,1578697,NAHID.GARMANI@CBNORCAL.COM,Nahid,Ghahremanizadeh,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4488309a-974a-4d56-8714-4fca7981e1c1,4256208,JPPRAISLER,JP,Praisler,Portland- Raleigh Hills,8171418,Windermere Solutions LLC,1234567,Update
+456e1bef-1410-4ce1-83da-6daa946d57c4,5019001,00U967GK4PJORB0BV1T7,Lisa,Colucci,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4594026b-33bb-444c-9a57-d8df9247e88d,4815433,MSOLORZANO@INTERO.COM,Martha,Solorzano,Union City,15467322,Intero Real Estate,3220480,Update
+4597cc3a-a270-4af9-acd7-4a6a2219d68f,3041657,##_310_#00US7AZF5TF0QBAS61T6,Sangeeta,Harjani,Warren,14049003,Coldwell Banker Residential Brokerage NRT,3145525,Update
+45d444c0-ba3f-4270-aa4d-f674d89dd5d5,4871326,##_724_#CHRISMACINNES@HH.INC,Chris,MacInnes,Ann Arbor,9389376,Howard Hanna,1585672,Update
+4682557b-8a7e-4ae9-a57c-91be21ea364b,3040718,00USNBGEIAJHBAC5V1T6,Laurie,Chang Murphy,Diamond Head - Kahala,14568165,Coldwell Banker Residential Brokerage NRT,3145525,Update
+469e2853-49be-44cd-9e3e-ec404b450d03,1569240,GYORK@COLDWELLBANKER.COM,Gail,York,Newport Beach,12111522,Coldwell Banker Residential Brokerage NRT,3145525,Update
+46b5c329-edf6-4480-a208-853ca9f04c46,5000099,00U8ZOKKDZKSTQOYV1T7,Anastasia,Antonopoulos,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+46ca3c04-ce91-40e7-88f4-8bc65e70642d,5061179,00U9NVCOM2TZFGMEX1T7,Elise,Denbow,Evergreen,14524737,Coldwell Banker Residential Brokerage NRT,3145525,Update
+46dd7012-a75f-4ece-9f32-377a17a1c905,1541887,HEMANG.SHAH@CBZHOMES.COM,Hemang,Shah,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+473ee6ce-d110-44d5-9b06-3a04d0f0807e,1568791,##_617_#DANIELLEALLORE@HH.INC,Danielle,Allore,Jackson,9394311,Howard Hanna,1585672,Update
+47727b66-60e6-4d11-978a-02acd5c1b8ab,5061153,00U9N5UP28NSSZMA01T7,Olivia,Johnson,Orange Post Rd,13957212,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4806e45e-089a-4b2f-91b7-282bb24ada1a,5070016,MATTHEW.DARNELL@ROG,Matthew,Darnell,Winston-Salem  Nc,15109041,Realty ONE Group,1732426,Update
+483b011d-93ce-4fe7-b07a-e9043c6a535d,1537071,CHRIS.BURNHAM@CBNORCAL.COM,Chris,Burnham,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4891910f-27cd-4980-98df-08d75d0f6665,1559909,##_472_#ANDREASHEMO@HH.INC,Andrea,Shemo,Lakewood,9316338,Howard Hanna,1585672,Update
+48fae71b-e917-4b35-a2b9-0df28c7adeb2,2753762,SUSANALBERICO@HH.INC,Susan Schwartz,Alberico,Utica/New Hartford,13414362,Howard Hanna,1585672,Update
+4a3667f0-1ae4-4869-b371-4e6365c9aad2,5062275,00U9HYNI2IOKJABUC1T7,Solomon,Caba,Leeward,14571126,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4b105314-9cc2-4a97-a079-c86d3e69f67a,1542112,ASORGER@CBNORCAL.COM,Ann,Sorger,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4b1d9ca4-4239-48f2-908d-428a0663a1b8,4811853,##_10_#KSCHEXNAYDER@KOENIGRUBLOFF.COM,Krystyna,Schexnayder,Chicago - Michigan Avenue,15506802,"HomeServices of Illinois, LLC",3233104,Update
+4b44d50e-80df-4fbe-b05f-6a90398703a0,4300139,AGNES.GUIDICE@ROG,Agnes,Guidice,Rocklin  Ca,13731189,Realty ONE Group,1732426,Update
+4b5c1c04-b9ad-4aac-a40d-d07c93f20db6,4940127,SCHOE@INTERO.COM,Sunok,Choe,Walnut Creek - Tice Valley,15470283,Intero Real Estate,3220480,Update
+4bf6eb93-01f0-4eab-97f6-7a77c74b30be,4981068,ANA.HERRERA@ROG,Ana,Herrera,Miami  Fl,15664722,Realty ONE Group,1732426,Update
+4c1782a2-9fcb-4edd-bdbd-06bf68b0e02e,1537114,CHRIS.LUSSIER@CBNORCAL.COM,Christopher,Lussier,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4c375c10-4d63-48c9-bb16-5ce37ce10846,4927894,00U8EP5HIET19NMMV1T7,Ali,Perkdas,Calabasas,12105600,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4c79f1fe-4801-4668-b7fc-9cf6e439f7be,2705130,TASHANDAWILLIAMS@HH.INC,Tashanda,Williams,Insurance - Oh,9251196,Howard Hanna,1585672,Update
+4d6da398-b51c-45ec-ad82-84480da52500,3026780,00U23X46J77MM7YOC1T7,Jennifer,Fusarelli,Orange Post Rd,13957212,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4d7a360a-3903-47dc-af96-f2ed5020413f,2837756,##_205_#AMANDA.BOWERING@CBBURNET.COM,Amanda,Bowering,Minnetonka,14444790,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4de5c360-ee64-48ae-b92b-6377f65e3419,4869556,00U7ZUJYI4C9LLM3V1T7,David,Garcia Jr.,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4e2ca849-9d7c-49ec-a11d-b7c55b58e26c,3026293,##_397_#00U1XPPL7S0RX7FP81T7,Trung,Nham,Northwest,14393466,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4e560eca-2b1a-40d8-b8dd-734c03cf8766,5070819,00U9QBTRVW7IS6YYA1T7,Mark,Whigham,Sandy Springs,14182248,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4e606141-c5e2-44f5-8e2d-1e7f21998de9,5055554,MATTMETZGER@JOHNGREENEREALTOR.COM,Matt,Metzger,Naperville,15145560,john greene Realtor,3214168,Update
+4e684397-60df-41ea-a814-9077237583e4,5046427,DEBBIE.RAWLS@CL,Debbie,Rawls,Jonesboro,13601892,Crye-Leike Real Estate Services,3140002,Update
+4e93679d-d9ab-4d60-8878-909fad9d68c8,1475121,##_10_#SEEMONI,Simone,Koga,1400 Van Ness,12043419,Compass,1431028,Update
+4ec4cdfe-8d82-4430-8522-97f328090689,1601376,MARKPETRILLO@HH.INC,Mark,Petrillo,Shenango Valley,9209742,Howard Hanna,1585672,Update
+4f3ba4a1-7cfe-4f1c-9b54-ea60571c1d20,3005525,00US7AOALWFDYOC8B1T6,Christine,Baranofsky,Derry,13900953,Coldwell Banker Residential Brokerage NRT,3145525,Update
+50440fd4-dc6c-4caf-8742-20cae603c57b,1546419,JULIE.MOORE@CBNORCAL.COM,Julie,Moore,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+506cd009-12fc-4602-a022-ab6f966b5d80,3014713,##_954_#00US7363UAI0HWWFO1T6,Steven,Comstock,Polaris Regional,14313519,Coldwell Banker Residential Brokerage NRT,3145525,Update
+50769d52-59d5-4a93-a7e0-94d02867fa6a,5072652,STACI.YOUNG1@ROG,Staci,Young,Lone Tree  Co,13739085,Realty ONE Group,1732426,Update
+50910d29-86ae-48db-b95a-0d7809ad9327,4462612,JANE.WHITE@VERANI.COM,Jane,White,Londonderry,15132729,BHHS Verani Realty,3184975,Update
+50d83470-36ea-4675-aa17-1d087ac3528f,2689244,STEVEN.NAGY@ROG,Steven,Nagy,Scottsdale Office,13705527,Realty ONE Group,1732426,Update
+51b9c298-c8c5-4149-aaa8-e415db6ec5ee,1537073,KIM.NICHOLSON@CBNORCAL.COM,Kimberly,Nicholson,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5275fba4-be40-4908-8f67-a301ad5e03c1,5066564,00U9PHPP49D6INDFE1T7,Ty,Stewart,Chambersburg,14099340,Coldwell Banker Residential Brokerage NRT,3145525,Update
+529aa682-f141-4ba2-b999-4d69ad3d34b2,5021699,##_556_#00U95KOU7RBU7CKJO1T7,Marie,Sierra,Orlando,14225676,Coldwell Banker Residential Brokerage NRT,3145525,Update
+52e5bb00-88eb-4d57-b8f7-266326612a66,3016908,00UMT33NTXVSWK8VI1T6,Charles,Reichardt,Midtown,14640216,Coldwell Banker Residential Brokerage NRT,3145525,Update
+53e9dda8-1bf6-4dd8-92d5-87feb1b2c81d,5069614,KRISTI.ROBERTS@ROG,Kristi,Roberts,Glendale Office,13699605,Realty ONE Group,1732426,Update
+547d0243-cf0c-4de5-8359-c8722e6aa9e0,4913405,00U8ANS69RE9RL0HW1T7,Sonia,Lander,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+54d47037-c26e-444d-9d21-ea80662c7979,1517328,##_470_#CAROLINEHUGHES@HH.INC,Caroline,Hughes,Avon,9306468,Howard Hanna,1585672,Update
+54e3fcf7-8bbd-4fb0-ae1d-8118d51ac1e4,1532498,##_290_#TERRABOYD@HH.INC,Terra,Boyd,Amherst,9304494,Howard Hanna,1585672,Update
+55c138ea-cf5e-4af7-8185-6947c3d60787,4816925,00U7QW6YKXNUISPAD1T7,Nanci,Tuchman - Stern,Boca Resort And Beach,14211858,Coldwell Banker Residential Brokerage NRT,3145525,Update
+55c39b84-4b5f-4579-918b-b13dfbbbe6e0,1603630,##_897_#JBELL@FM,Jeanette,Bell,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+560fb12e-f3b0-46a1-b9e8-ca2abbb30bda,4538351,00U68HMQTAY8VSHK71T7,SCOTT,BARBOUR,Coral Springs,14217780,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5631fd7b-64a7-4cf2-9766-19db03727118,4865670,00U7ZGV483WVLLE5N1T7,Paul,Cochran,Wall Township,14064795,Coldwell Banker Residential Brokerage NRT,3145525,Update
+56bb1b3d-b5da-4ca1-a08c-6bea44e3d486,1606326,##_10_#HGROTHE,Thiercof,Grothe  Group,Marin,11282442,Compass,1431028,Update
+5728b225-e2a5-4ab3-bb7f-f05ef27bcf8a,5043627,00U9I4YS24DEHWIG41T7,Kenosha,Bewley,Weston,14222715,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5770913d-df4b-4bcb-9c34-33e2fcd73c80,4894137,00U865KFS1KULWVFK1T7,Gil,Wildridge,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+57ba2bee-568a-4c18-86f4-16201bcded5f,3013133,##_171_#00US617PVFT8LOZWK1T6,Andrea,Stevenson,Greater Summerville,14639229,Coldwell Banker Residential Brokerage NRT,3145525,Update
+58a29810-15fe-4de5-a1f9-56c1e2749ad5,1537037,BILLPOWERS@SBCGLOBAL.NET,Bill,Powers,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+59016638-b3b5-49a0-b98b-95d31a908f9a,5044188,84415@LNF,Bailey,Duplessie,Grove,9847344,"Long & Foster Real Estate, Inc.",1259026,Update
+59234f61-40ef-4777-8a32-6c36a861b006,5070898,00U9QT81VUGGVTH861T7,Matthew,Gregorin,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+59a0c480-2836-41ae-8c4e-236473ef67f7,1520144,75559@LNF,Jennifer,Dastalfo,West Chester,11115639,"Long & Foster Real Estate, Inc.",1259026,Update
+59a11b3c-2092-44ac-9e0f-a6f4aedc0180,2557497,FARANAK.NIAZMANDI@CBNORCAL.COM,Faranak,Niazmandi,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+59ae1ba0-fcd3-4f98-9cba-e7a77248ffe4,3032678,00US7AVGIYRXKC6SS1T6,Wendy,Kestner,Bernardsville,14034198,Coldwell Banker Residential Brokerage NRT,3145525,Update
+59c733fe-d965-44d4-b18c-64e97951ccb0,5072203,SHURD@GOLYON.COM,Sharlaine,Hurd,Lyon Re El Dorado Hills,8866266,Lyon Real Estate,1490992,Update
+5a023fc5-59f5-41eb-80c3-2d1db30e80f8,1504439,THEMALIBU,M/V,Malibu,Services Company,7951317,Windermere Solutions LLC,1234567,Update
+5a139f55-5ae1-4552-98da-de64ef403d4f,2693943,AMBER.CARRION@ROG,Amber,Carrion,Las Vegas  Nv,13747968,Realty ONE Group,1732426,Update
+5b03617c-ea45-48e6-8f95-d765b7205a65,3941035,##_386_#ROBIN.VERNER@ROG,Robin,Verner,Henderson  Nv,13745994,Realty ONE Group,1732426,Update
+5bc38e6a-779c-4be7-91e0-689a2c390748,4535469,##_362_#00U64G8PSAZMN4BOF1T7,Clifford,Love,Minnetonka,14444790,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5c5dcf37-2d50-4d1a-b10d-a204349d3998,2143022,DAVID@YOSTGROUP.COM,Margaret & David,Yost,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5c979c0c-3f0d-4cfa-a559-78314bdcbf70,4882481,00U841WH40YVCNNUW1T7,Carla,Abreu,Wayne,14581983,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5cbf059b-d768-4a4d-af91-cf351848dd12,5046283,KRYSTAL.PRINISKI@ROG,Krystal,Priniski,Prescott  Az,13702566,Realty ONE Group,1732426,Update
+5d6f9cfe-ee75-433e-8326-5fb3612f270a,1537268,KERRY.MCCARTY@CBZHOMES.COM,Kerry,McCarty,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5da08a91-6ef2-4f4b-8e7f-29fe784d3fe4,5067605,84633@LNF,BARB,VAN HORN,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+5fafa1a9-5d52-4b13-8e25-68b8b16a93b5,4887389,00U84FX0WCUCBHXNI1T7,Angela,Speliopoulos,Avon,13923654,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5fc7ce05-115f-4259-bc05-37e4a6060188,5026471,00U9BIKVKY5M8UJS41T7,Bryan,Templeton,Laguna Beach,12102639,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5fead750-9f6e-47dd-9934-575b3e8ae7c4,5068189,00U9PPZJPT8F47JOF1T7,Jacquelyn,Helm,La Jolla Prospect @ Girard,12123366,Coldwell Banker Residential Brokerage NRT,3145525,Update
+60dda6e4-6fd1-4c74-baea-40f9d77ec31c,4432127,00U5XPJ9MDXDIBUID1T7,Tatia,Pallacovitch,Newtown,13954251,Coldwell Banker Residential Brokerage NRT,3145525,Update
+60e2207c-e704-466c-94a7-2d56b7828ec4,4961012,00U8ODQXO7ALJGXGS1T7,Jasmine,Inabinet,Buckhead West Paces Ferry,14180274,Coldwell Banker Residential Brokerage NRT,3145525,Update
+60eb427e-6cc6-4f6f-869d-253e4245a5ee,2694761,WHITNEY.JACIR@ROG,Whitney,Jacir,Rocklin  Ca,13731189,Realty ONE Group,1732426,Update
+613a6fc0-24ce-4598-8f29-fb52f7e82e96,1577200,MLEBASTCHI@COLDWELLBANKER.COM,Meg,Lebastchi,La Jolla Prospect @ Girard,12123366,Coldwell Banker Residential Brokerage NRT,3145525,Update
+619c7f57-d91a-45ec-849a-224664bcbf03,5050409,00U9L5HZ761GJLIBH1T7,Stephanie,Penaranda,Kendall,14253312,Coldwell Banker Residential Brokerage NRT,3145525,Update
+61f69c15-d429-4345-8522-8baf0b180ad7,5067505,84533@LNF,DOMINIC,CANTALUPO,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+61fb9e6e-2ca5-4f8d-9f2f-c4ac568b1ed5,1536727,LAURA.WEBER@CBZHOMES.COM,Laura,Weber,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+62aa8757-843a-48d9-8ba8-38315bc157da,1487160,LAURELHEATER@HH.INC,Laurel,Heater,Chagrin Falls,9288702,Howard Hanna,1585672,Update
+62af75c7-4b60-41c4-928a-4ed265932016,5068470,JREYES@INTERO.COM,Josè,Reyes,Menlo Park,15260052,Intero Real Estate,3220480,Update
+6364a4b0-0281-4c4f-93ed-7c0cabc9428c,4849657,LMENDEZ@SMITHANDASSOCIATES.COM,Larry,Mendez,Bay To Bay,15485088,Smith & Associates,3232315,Update
+63d00cfe-5cab-4434-93a5-ebd1492a5712,4151489,##_940_#00U5CX899CEINWMZM1T7,Jacqueline,Powell,Destin / 30a,14238507,Coldwell Banker Residential Brokerage NRT,3145525,Update
+63db7ffe-dd16-4aba-8eee-10eb9b07ae0f,5071733,00U9R1VHUXBPBMDBT1T7,Samantha,Edwards,Des Peres / Kirkwood,14464530,Coldwell Banker Residential Brokerage NRT,3145525,Update
+642abf65-fcb7-4eb8-a964-cd892453642c,5061109,00US74JDO3O95WTCM1T6,April,Rockey,Union Centre Regional,14333259,Coldwell Banker Residential Brokerage NRT,3145525,Update
+64602889-3caf-4cf2-991b-d4be826b03ac,4816924,00U7QWFMKX3JV5OFJ1T7,Veronica,Wimberly,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+64fc4be6-d5bf-4f15-bdc1-57d948dd4492,3005618,##_862_#00US7ACJLKCVGPZLA1T6,Kenneth,Pettis,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+657b59c9-3b99-49c2-9d91-730bcb8c1477,2753890,PATRICIACURTIS@HH.INC,Patty,Curtis,Skaneateles/Fingerlakes,13420284,Howard Hanna,1585672,Update
+65a32f04-dd07-446b-9ceb-d066658ba79d,5072933,NATE.LAMONDS@ROG,Nathanial,Lamonds,Winston-Salem  Nc,15109041,Realty ONE Group,1732426,Update
+661f89e3-77f5-440e-a439-f9588e722183,5055361,00U9M42V60KAD51ZU1T7,Sonya,Cabral,Bolton,13831863,Coldwell Banker Residential Brokerage NRT,3145525,Update
+66578dbe-d2db-4805-9924-78fbff0bf052,1496618,45194@LNF,Dan,Carson,Bel Air Central,9799968,"Long & Foster Real Estate, Inc.",1259026,Update
+6692c96b-9097-4438-9aac-ecfa3c5216c0,5068467,JCHAO@INTERO.COM,Jerry,Chao,Cupertino,15252156,Intero Real Estate,3220480,Update
+669ba45d-46de-4a70-ab4a-6e795bcbcfbd,4308263,##_303_#00U5LTWMCWLRZHRUD1T7,Edgar,Lopez,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+67609935-b5a4-4ae0-af18-24147ee64d28,3006485,##_914_#00US73N20986RELPK1T6,Kathleen,Radcliff,Metro,14312532,Coldwell Banker Residential Brokerage NRT,3145525,Update
+68201d6e-781c-486e-b152-e26769e99c74,2691945,AUDREY.TOLLEY@ROG,Audrey,Tolley,Phoenix  Az,13703553,Realty ONE Group,1732426,Update
+682b26f8-28ac-4df2-a062-9ee4bfb53f8e,3574813,00US7EZIF3RZNUD3T1T6,Twilynn,Collins,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6837b53f-8b81-485c-95ed-faab323a2e5a,4935403,00U8GCOYXA7OGZ0VU1T7,Jin,Namgung,Johns Creek / Duluth,14185209,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6842aa97-eb68-4daa-a9ea-b86ad8ef8596,4581096,##_10_#KRISTINK@WINDERMERE.COM,Kristin,Klopatek,Post Falls,7977966,Windermere Solutions LLC,1234567,Update
+68544633-f2b1-43b8-8892-d735694a2334,4901432,KIMBERLERIZZO@HH.INC,Kimberle,Rizzo,Oceanfront,9928278,Howard Hanna,1585672,Update
+68678fe9-d4ad-4881-9ee0-6cffb088e735,5033756,00U9F4I3MFZMXFLIL1T7,Kelly,Ray,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6891976c-e4be-4a6f-98bc-cbe9b3393b80,5054045,00U9LVWPU0ATMI7IX1T7,Donna,Podesta,Wall Township,14064795,Coldwell Banker Residential Brokerage NRT,3145525,Update
+689a6bf7-2daf-419c-8791-fa0f58e2e76a,4366245,MAGGIE.KERKHOFF@VERANI.COM,Maggie,Kerkhoff,Londonderry,15132729,BHHS Verani Realty,3184975,Update
+68ec9831-85ae-463f-9675-8e291064ba33,4410764,##_10_#JOSEPHGARCIA,Joseph,Garcia,Martin Road,11258754,Coldwell,2529316,Update
+6991c41f-3a39-49c4-b1dd-199c31b7c8e0,3030959,00US61BMWUVSSW1131T6,Jan,Brownfield,Perimeter,14186196,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6a25931d-b4e5-4ced-b2b7-416cbb338d15,1537486,TIFFANY.LOFTON@CBNORCAL.COM,Tiffany,Lloyd-Lofton,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6a51b475-5e64-473d-80da-f3fbda949840,5056425,00U9MJXQXFCGNOTQO1T7,Kiarra,Harris-Girard,Dakota County / Eagan,14437881,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6a58fe14-cc39-4c4b-9478-5a441d3479cd,3036082,00US7494ZLVBHALEJ1T6,Stacie,Fryrear,Des Peres / Kirkwood,14464530,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6ab9c8c0-b66d-4855-a4c9-c90564016181,3575558,00U2XNY9VM8JVT0IE1T7,Darren,Stevens,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6b1cc2c5-8fca-4f07-b4d5-cd51444811a6,5055384,00U9MBRBYGMGQMPLR1T7,Colleen,Smith,Baltimore Fells Point,14129937,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6b1da82e-f8a6-45fd-8ccb-f24e49bef73b,5070884,00U9QUMK6R3K3COIO1T7,Lawrence,Shevick,Boston-Back Bay,13814097,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6b59c399-6e72-4e22-83af-838c3a360f4c,4983466,##_961_#00U8U53FUXVX4BFZZ1T7,Gina,Garcia,Racine,14415180,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6c310480-ef0d-46bc-8319-65d2af1902c7,5048262,00U9KGU2LCEX4G4HJ1T7,Melissa,Foerster,Southwest Metro,14519802,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6c4825d3-6088-4dd6-91eb-35ab67c025b2,4928208,##_803_#AMANDAFAGAN@HH.INC,Amanda,Fagan,Churchland,9916434,Howard Hanna,1585672,Update
+6c759e79-d050-4154-9b19-9ae3797d44dc,1611895,BILL.STEWART@CBNORCAL.COM,William,Stewart,Novato,11669346,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6c85d4eb-97d1-49f5-befd-288d3876b708,2690740,##_392_#STACY.GERMANIUK@ROG,Stacy,Germaniuk,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+6c8e2ba2-a6ba-4f5b-b470-5f5e390fb924,1577237,GINA.BOJORQUEZ@CBZHOMES.COM,Gina,Bojorquez,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6d015e5d-173d-4e49-aaae-6c07e1120157,4586082,00U6I0V9P9TSCSLTM1T7,Angela,Conlon,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6d247202-c25c-452c-85db-645e7b8e79a2,4937230,00U8GQ7805NA5POZP1T7,Adeel,Bukhari,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6d3d18d1-5945-48d2-82be-f67f558642a9,5025592,##_850_#00U9AQM9UZYEPCWFJ1T7,Dawn,Barbee,Central/South Brevard,14230611,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6d3dbfa5-c8f3-41b2-afe8-1ed41dced9bf,5057403,00U9MW4RL4F2EHS4M1T7,Kristie,Norden,Southeast Metro (Dtc),14518815,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6d99401a-049c-4331-a057-d6d7303de58d,3004108,00US730VJUOVOPGKY1T6,Stacy,Braack,Lakeview,14373726,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6db8d8eb-b449-4eb9-9213-4d42633e9b10,5070914,00U9QUZ31UAM67EIR1T7,David,Rosenberg,Media,14584944,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6df553b3-8413-4697-bec4-884069eb0ac6,1537254,BILL.ROBERTSON@CBNORCAL.COM,Bill,Robertson,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6e252c2c-44d4-46a0-accf-0d91c0fb5028,4013514,##_10_#KIM-FREEMAN@JBGOODWIN.COM,Kim,Freeman,San Antonio,14983692,JB Goodwin Realtors,3203122,Update
+6e46517b-7b03-435d-a5fb-2776b14f3279,4846836,00U7VYJ4OLFJAZPKP1T7,Holly,McKnight,Pensacola Beach,14246403,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6e4f80ba-f906-43bb-af49-f42b51fee72c,5061208,00U9NXW7D2PZGOUQQ1T7,Michelle,Gunter,Tooele,14550399,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6e79d583-a765-483c-8643-1d61d3d6bc70,2691732,##_149_#RACHEL.SHEIB@ROG,Rachel,Sheib,Rancho Cucamonga  Ca,13730202,Realty ONE Group,1732426,Update
+6f29d300-060e-4575-80ca-772656db2ce1,2696879,ALEXANDER.KHOYI@ROG,Alexander,Khoyi,Lutz  Fl,13741059,Realty ONE Group,1732426,Update
+6fbd61e2-05de-417a-a9c2-602bfb6ab0e1,3045218,00US77CXM5KFXELAM1T6,Jeffrey,Carn,York,14107236,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6fe42361-7a01-47aa-8705-cd3324e69a19,5064216,00U9OV0T7JEC9YKYS1T7,John,Pacheco,Sacramento Sierra Oaks,11703891,Coldwell Banker Residential Brokerage NRT,3145525,Update
+700b479a-8fdc-46cd-a4b1-4783ffe49419,3881360,##_835_#00US7ETDVWSG6SM4E1T6,Kelvin,Saito,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+705324c0-506e-4403-a051-fae30dfed7fe,5054123,DMORRELL@INTERO.COM,David,Morrell,Los Gatos,15259065,Intero Real Estate,3220480,Update
+706aa853-e5b4-4156-8c73-a7487208865a,4334736,00U5NQAUD87T7TUQ01T7,Colleen,Kimmel,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7077df8d-b7b9-428a-a661-9c4ec6c08428,4901708,##_598_#83199@LNF,Katie,Nelson,Fredericksburg,9755553,"Long & Foster Real Estate, Inc.",1259026,Update
+709d199f-c572-4d28-8224-81ff0ecccc5a,1502099,72939@LNF,Jorge,Hernandez,Rockville Centre,9795033,"Long & Foster Real Estate, Inc.",1259026,Update
+70a23c29-2c4e-413c-8fad-65c2d17ad332,3023390,00U17FV85S31KTSIF1T7,Eric,Johnson,La Grange,14379648,Coldwell Banker Residential Brokerage NRT,3145525,Update
+70d56506-79a4-4671-b781-f80b20c80aea,5072688,CMILLER@FM,Christopher,Miller,Triangle Specialists Ii,12904083,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+7187d787-7ed5-43c8-bfdd-f9896478d14b,4074279,##_431_#00U587015T33LZURV1T7,Rashpal,Dhillon,Elk Grove,11694021,Coldwell Banker Residential Brokerage NRT,3145525,Update
+721a8400-d824-4c0c-8a31-94b5219471f0,4585517,VERONICAHENRY@HH.INC,Ronnie,Henry,Napoleon,15243273,Howard Hanna,1585672,Update
+722c4785-8010-42a8-8a2c-cd819287c553,4374790,##_10_#JAMIELYN-MELENDEZ@JBGOODWIN.COM,Jamielyn,Melendez,San Antonio,14983692,JB Goodwin Realtors,3203122,Update
+72c79220-15de-447d-b0d7-b4160ef268b8,3009975,##_334_#00US79EY40OBXFNMK1T6,Mitzi,Smith,Southlake,14504997,Coldwell Banker Residential Brokerage NRT,3145525,Update
+72e231e9-9932-4b8f-a687-6902feae4a62,1522509,##_592_#DAVIDMILES@HH.INC,Dave,Miles,Hanna Cre,11415687,Howard Hanna,1585672,Update
+72f4bfab-1652-456b-acf4-248eb639548f,5070876,00U9QTJZKQQZ4TLHM1T7,Ania,Karam,Westwood,13874304,Coldwell Banker Residential Brokerage NRT,3145525,Update
+73098809-41e5-47a6-8101-28a6a8cfb4c5,4940119,DBONDE@INTERO.COM,David Clifton,Bonde,Walnut Creek - Tice Valley,15470283,Intero Real Estate,3220480,Update
+732fd243-46b5-4a2b-b0cb-d11542bddede,1568487,BJOHNSON@KINLINGROVER.COM,Brian,Johnson,Corporate Headquarters,12379986,Randall Family of Companies,2944330,Update
+73cba538-0c7e-4471-a2c5-77ef9ac66fec,4879758,##_10_#LIZZIEKELLER@CRESSYEVERETT.COM,Elizabeth,Keller,St. Joseph Office,10346766,Cressy & Everett Real Estate,1401835,Update
+73d41572-7773-46c5-8a53-105046943e4b,5056438,00U9MMSYTPQLZTYKM1T7,Jennan,Beers-Vanegas,Kapolei Commons,14570139,Coldwell Banker Residential Brokerage NRT,3145525,Update
+73f59839-1b91-40eb-82ab-54f5bd0a0faa,4787961,##_10_#LBLAIR@INTEROREALESTATE.COM,Larry,Blair,Daly City,15253143,Intero Real Estate,3220480,Update
+74ea5071-7f16-4db1-88dd-791e48198020,2685027,##_10_#BECCAF,Becca,Fraiman,Seattle-Ballard,8008563,Windermere Solutions LLC,1234567,Update
+75dd051b-8446-452e-a47a-c722196ad636,5067476,84504@LNF,MYISHA,WALKER,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+75e64744-f887-4102-8cd4-64f8ad928284,1561695,PHIL.SIMMS@CBNORCAL.COM,Phil,Simms,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+76f0e98c-e54a-4af1-bf21-a268ce4b1c56,5049287,00U9KUHJKYUZ76VZU1T7,Stephanie,Mendez,Tucson-Williams Centre,12167781,Coldwell Banker Residential Brokerage NRT,3145525,Update
+77449ba5-0909-4e36-b166-9a47dc15d640,2753963,RMICHAELLIEPKE@HH.INC,Mike,Liepke,Manlius,13421271,Howard Hanna,1585672,Update
+7759e8bc-ba63-4d8a-80e8-58bf76d2837d,5043642,00U9I6Y4LEZ3NKPDB1T7,Jonathan,Dempsey,Old City,14578035,Coldwell Banker Residential Brokerage NRT,3145525,Update
+781a3bde-7161-4234-bd68-ad9056ea53d0,3044580,00US7BH2MLGJF3EE61T6,Kathryn,Barcellona,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+78abc97e-0d3d-4f05-8d8d-d6cdffc8026c,3016495,00US7BC9UV6FZVVPW1T6,Jo Ann,Rivera,Port St. Lucie,14259234,Coldwell Banker Residential Brokerage NRT,3145525,Update
+78af4fa6-052e-414a-8233-783aaec90a9b,3031946,00US7BAOVHIOBKL2B1T6,Susan,Laskin,Pascack Valley Regional,14021367,Coldwell Banker Residential Brokerage NRT,3145525,Update
+790417e0-9fe4-4683-b62e-cf6ad20587b4,5050940,84475@LNF,Marissa,Bailey,Bethesda All Points,9823656,"Long & Foster Real Estate, Inc.",1259026,Update
+790d7e6d-fcc1-4516-9da7-dc2a82a15b37,3033785,00US7BA8ADFAO5SUR1T6,Kate,Brassard,Weston,13829889,Coldwell Banker Residential Brokerage NRT,3145525,Update
+79781dcc-2b6f-4548-b8b3-50a9cd8a10a1,5069171,00U9Q23EP3DQAFAVE1T7,Natalie,Kirkland,Niceville,14242455,Coldwell Banker Residential Brokerage NRT,3145525,Update
+797fed78-ee59-4eb3-b24a-3075c688da15,1537054,MIKE.DIBERNARDO@CBNORCAL.COM,Michael,DiBernardo,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+79c3f045-48c0-4638-a900-c3002984740d,1537864,SARAHRIOS02@YAHOO.COM,Sarah,Rios,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7a194281-691c-4bb2-9b70-59ae6bd48a5f,4858543,##_402_#MIKE.DURHAM@CL,Mike,Durham,Arlington,13590048,Crye-Leike Real Estate Services,3140002,Update
+7a3ad865-bccb-4a5f-8b22-3cec2169b5d5,1533873,BILL.REHBOCK@CBNORCAL.COM,William,Rehbock,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7a54bf72-9598-4c16-aabf-b598537adfc2,1580943,DAVECJOHNSON,Dave,Johnson,Portland- Raleigh Hills,8171418,Windermere Solutions LLC,1234567,Update
+7a6002dc-db00-46f3-8e2a-c6879f1003cb,5063255,00U9OJ2AC7X6G92VN1T7,Tom,Wheeler,Annapolis Plaza,14122041,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7af37271-3cd2-4ff9-98de-fd9f637e1811,4996246,00U8YH6FSUJBFOD5F1T7,Cristina,Alcaide,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7b07746e-860c-4e57-b41c-b067ad29dbd8,1537677,LISA.HUSE@CBNORCAL.COM,Lisa,Huse,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7b4681ae-5799-44ef-a063-7d8525855cef,5043902,##_604_#TYLER.BARRANGER@ROG,Tyler,Barranger,Spokane  Wa,15177144,Realty ONE Group,1732426,Update
+7b8926d7-21c2-4bf1-9fb5-bab0396019cf,2692664,##_764_#MICHAEL.BURR@ROG,Michael,Burr,Las Vegas  Nv,13747968,Realty ONE Group,1732426,Update
+7bfa74f2-49d0-4a0f-b308-e703f4480388,3044101,##_184_#00US7BC0TUFVAFCMZ1T6,Crystal L.,Bannar,St. Pete Beach,14295753,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7c02467b-26b5-4fde-af29-6fb905bd4497,2801591,TIFFANYSCHIELE@HH.INC,Tiffany,Schiele,Canton,9281793,Howard Hanna,1585672,Update
+7caee9ed-5e64-494e-80b5-58c81240e332,5025607,00U9AYOYIW6EQ8YOX1T7,Nikki,Banks,Baltimore Roland Park,14130924,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7d55cdb7-0b30-4348-be12-5bff8d57e085,4677360,##_903_#JULIEVEDAA@HH.INC,Julie,Vedaa,Lakewood,9316338,Howard Hanna,1585672,Update
+7ddf3c38-2a40-4f36-950b-45e022e1e8fa,4950478,00U8K0PSECLNUVICM1T7,Megan,Hart-Lugo,Leesburg,14167443,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7e15eba5-4118-4c32-b620-ae44d647f612,3022333,##_667_#00UXUN1UAJG1ICS1V1T6,Julie,Novak,Town & Country,14481309,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7e2cf1e7-1e0e-4a28-9395-9fe2e0681fbb,3668177,##_299_#00U441HASRWEG7XO91T7,Laura,Tyler,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7e4b0f3b-5baf-494d-937d-80124d5ccb75,1370471,##_10_#JERRYVANHOOK,Jerry,Vanhook,Spokane-Cornerstone,8206950,Windermere Solutions LLC,1234567,Update
+7f25be4a-eb14-4ea5-a1c0-49715dd1b5ad,3595576,00UL7A628BBNGFFSG1T6,John,Carlson,Naperville,14401362,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7fb4d058-ab21-42df-9b97-f81cea9d2860,3574738,00US7F4AARRXWLMYV1T6,Phil,Simms,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7fce18da-10b3-4178-b210-3559bc21faac,3575171,##_499_#00U191CCW9NMHGFQ11T7,Ravandeep,Jhutty,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+80a91cbf-ec42-4dad-88b5-a62c43ddf6b5,1577219,PATCLEMMER@HH.INC,Patricia,Clemmer,Williamsburg,9931239,Howard Hanna,1585672,Update
+814f9a2e-364b-4306-82a1-4213cd1e322b,5001993,CHARLES.ELLINGTON@ROG,Charles,Ellington,Glendale Office,13699605,Realty ONE Group,1732426,Update
+817c4c68-c41d-4304-96aa-383fd6b866cc,1537083,00UMKXPSZCIVVQXEQ1T6,HEATHER,WILLS,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8200e0c0-a535-4fd0-9bcc-e055c3c842e7,1500565,70507@LNF,Nami,Addison,Elkton/Chesapeake City,9868071,"Long & Foster Real Estate, Inc.",1259026,Update
+82e0757c-45f1-44ca-8e5d-c7b654dc39a6,4629636,82474@LNF,Brian,Luse,Wayne,11284416,"Long & Foster Real Estate, Inc.",1259026,Update
+82e9f061-bc8a-440f-beaf-7e9834585e1c,4623163,00U6OJDYLPVVXNIKF1T7,Srividya,Muralidharan,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+82f12381-ac65-406e-a3c2-fab4a34eb5f2,5066528,00U9O8IA2VRKGMTZW1T7,Michael,McDonald,Fountain Hills,12145080,Coldwell Banker Residential Brokerage NRT,3145525,Update
+82fe65d7-d415-403f-9fd1-0b604478d69c,4705407,00U74ZO6NAD7XWIKZ1T7,Bridgette,Lewis,Wall Township,14064795,Coldwell Banker Residential Brokerage NRT,3145525,Update
+84564643-41f4-4328-a5fe-0141c25a4d44,1541089,DOUGLAS.YEARGAIN@CBNORCAL.COM,Douglas,Yeargain,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8476725f-6a2e-41a7-bd50-7e968d505dbc,4405933,##_198_#00U5SVEDG37U2365S1T7,Khiem,Vo,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+84b18d70-1dad-4b48-90ff-04bc074615c1,4892416,00U85V2GL6D0N8LJX1T7,Harvey,Whitaker,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+84b6b4b0-9ef3-4a30-aa42-ca20f8774cf8,4097567,00U59G316IZ4QJYPQ1T7,Michael,Grazioso,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+84dfba0f-cb64-4651-88df-f096bb24201f,5018995,00U967GE8TOTSGYQU1T7,Rebecca,Wallace,Ringwood,14026302,Coldwell Banker Residential Brokerage NRT,3145525,Update
+86a0b67b-275c-4551-9137-4a9033db67ed,1555322,SHAWN.HAKIM@CBZHOMES.COM,Shawn,Hakim,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+86b2d6f7-de82-43b6-b9a7-8460ccf8195c,5072144,SARAH.PROVENCE@ROG,Sarah,Provence,Greenville  Sc,15169248,Realty ONE Group,1732426,Update
+86d2a7de-8f90-45fd-8349-455e7a850507,3881427,##_128_#00U1DXC2RHLHFKCWW1T7,Ikhwan,Do,Vienna/Tysons Corner,14168430,Coldwell Banker Residential Brokerage NRT,3145525,Update
+86db0714-f667-4c7b-8637-92693b847b2b,5069862,DMARARRI@HH.INC,Dominic,Mararri,Howland,9290676,Howard Hanna,1585672,Update
+86f83b52-3cba-434f-aa49-04a38fcb62e7,4855606,00U7XF2FK1SSC2I481T7,Dipenkumar,Patel,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+87108cc4-4cc1-4512-ab72-ca7ffcf31f35,4495888,00U645ANRJWCHKJIR1T7,Korey,Schultz,Tucson-Williams Centre,12167781,Coldwell Banker Residential Brokerage NRT,3145525,Update
+87d02db7-53e9-47f1-82cd-c674156a396d,5060605,JACKIE.KNIGHT@ROG,Jackie,Knight,Spokane  Wa,15177144,Realty ONE Group,1732426,Update
+87fa4b40-4381-4218-918c-4b021f723148,1580132,OLESIA.KRASHCHENKO@CBNORCAL.COM,Olesia,Krashchenko,Los Gatos,11716722,Coldwell Banker Residential Brokerage NRT,3145525,Update
+88637c7b-3edd-426d-bab8-9b8f9666faf7,3012329,##_935_#00US77K8H0F5QPLFP1T6,Jamie,Smith,Atascocita/Kingwood,14620476,Coldwell Banker Residential Brokerage NRT,3145525,Update
+886eb405-ebb3-470a-b4b6-4fdd5d0392ef,3026239,##_10_#00U1WUOKHNYU2VSBJ1T7,Jordan,Franklin,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+88c88727-31d2-408c-aad4-7e30e218e89e,2690455,##_239_#LYNN.SIBBACH@ROG,Lynn,Sibbach,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+8930709b-0e38-4e34-924f-29f74f9250e5,3722208,##_591_#00U482SXEGNULGIYK1T7,Cheryl,Songster,Crestview,14237520,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8a35c7ac-3cc1-449a-82da-4646787f6e66,2338587,SHIRLEY.BOUDINOT@CBNORCAL.COM,Shirley,Boudinot,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8a5f450c-67c4-4847-99ce-96facf42b52f,4986683,00U8UXVGODGCWYGLN1T7,Amarildo,Popaj,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8ae10146-9730-489d-9d7c-de0d231e609a,3593862,##_501_#00U19S8WLMK714DIQ1T7,Tetiana,Filonova,South Tampa,14296740,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8af8e30e-7328-421a-928a-78e16f140d16,5061748,84714@LNF,Cassandra,Plumb,Greenville,9895707,"Long & Foster Real Estate, Inc.",1259026,Update
+8b965aef-0739-42d3-8ac4-a3cc23cd270e,3574934,##_680_#00US7F3UHJ83S3PZX1T6,Thuy,Duong,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8b9c71d4-457e-4ec6-8409-53c884a8371c,3023935,00U1AZ14KUGLIWE2G1T7,Isaac,Mahone,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8bdcfaa8-6f40-4e51-899a-db3b84d74e3e,5069162,00U9Q08RQNSUTDRM81T7,Esada,Ljesnjanin,Smithtown,14007549,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8c098617-40e3-4eba-9ffb-4e0de25d20b6,4959569,##_218_#TRAVIS.MULL@CL,Travis,Mull,Athens,13528854,Crye-Leike Real Estate Services,3140002,Update
+8c517fdc-8fc6-41e0-85b8-5ea707a8d6ff,5061205,00U9O1PXC1JX7ICG31T7,Elaine,Brown,Sedona,12153963,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8c73cf73-c881-49a1-9c5d-464e5b96dd11,1488093,DANZACK@HH.INC,Dan,Zack,Elyria,9320286,Howard Hanna,1585672,Update
+8cdafa27-2aae-49ed-98a1-3a7dbadbc1bd,2557246,AMY.VAUGHAN@CL,Amy,Vaughan,"Madison, Al",13575243,Crye-Leike Real Estate Services,3140002,Update
+8d700b05-18bd-4781-adbc-ba465be344f3,5061600,SONYASMITH@MICHAELSAUNDERS.COM,Sonya,Livingston Smith,Michael Saunders & Company,15191949,Michael Saunders & Company,3212590,Update
+8d81c179-eaea-42fa-9885-ef4faaac641a,3004319,00US6ZLC7NQEQPWWU1T6,Ryan,Jakubowski,Annapolis Plaza,14122041,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8de74629-7a3f-466e-9ba9-01ff5a6f630e,1543347,SCOAN@CBNORCAL.COM,Steven,Coan,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8dfd765a-84bd-41ff-828d-eb08c0cf8fb8,3796685,00U4HOCD81MC0BFIR1T7,Shayna,Schmidt,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8e28d096-bcb3-4250-b1a3-6a96ddfa8fa8,5057395,00U9MUEDQEQITYFMJ1T7,Dale,Varnon,Plano,14503023,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8e2eccbf-bdb7-4b49-b876-f0594dc2991f,3041237,00US78Y9ZYX30GYTB1T6,Elizabeth,Scott,Rumson / Fair Haven,14063808,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8e4cb41a-4c15-4cde-a4c9-332bbc57bb7f,5012131,BUJNOWSKICHRIS@GMAIL.COM,Christopher,Bujnowski,Re/Max Select Of Montclair,15759474,RE/Max Select,3241783,Update
+8f334eb9-95aa-4245-a7ae-912d490b85bd,3808749,##_696_#00U4J9KH1PPBLP7ZL1T7,Wanda,Farah,Riverside,13115301,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8f3eb560-407f-4d8b-b08f-2348dd1f4212,1537816,JAKE.GIPSON@CBNORCAL.COM,Jacob,Gipson,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8f5e7931-64e5-4022-bcc3-d51dfde6db94,2692822,ERIKA.SUTPHIN@ROG,Erika,Sutphin,Las Vegas  Nv,13748955,Realty ONE Group,1732426,Update
+8f67d625-0f42-4b48-a8bc-4b114fc36d7d,5016771,00U95KOUDBUI2OHWA1T7,Pamela,Johnston,St. Armand'S,14270091,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8f9319e2-1160-4ea3-adeb-9827f50fc249,4869567,00U7ZWE1CZ8UZFVFK1T7,Wendy,Nichols,Sherman Oaks,12180612,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8fdc2235-cfa5-4e0a-9cb1-74f42d76548a,3039551,00US7BTAI3N959GWC1T6,Cheryl,Cooper,Pascack Valley Regional,14021367,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8ff8cc10-b978-4746-bda2-f23e3b87fec7,2692874,##_832_#STEPHANIE.TORRES@ROG,Stephanie,Torres,Mission Viejo  Ca,13725267,Realty ONE Group,1732426,Update
+9048dc29-b06e-4e1c-a72e-3a34973867e5,5067641,84670@LNF,BARBARA,WALLACE,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+90fbc406-c349-45b5-99cb-0b29c1d8857d,1082673,##_10_###_10_#DRUDEBAU,Donna,Rudebaugh,Puyallup,8109237,Windermere Solutions LLC,1234567,Update
+91457632-3a28-46c1-bc57-0acac505e3ab,3045422,00US7ASU549DSNSAY1T6,Marian,Sirazi,Ridgewood,14025315,Coldwell Banker Residential Brokerage NRT,3145525,Update
+914e065a-2f54-419b-922b-6ceb4b455240,4941674,##_949_#00U8HV5DEX6LYMXBQ1T7,Jason,Roetter,Mesa Gilbert,12146067,Coldwell Banker Residential Brokerage NRT,3145525,Update
+91712bc6-6f6c-4299-ab5f-8b701349cdd7,1550629,JOSEPH.FREDERICKJR@CBZHOMES.COM,Joseph,Frederick,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+91bb36dc-78c6-4a9a-9e01-3bed052db158,3018984,##_196_#00US615QDNL3BLATK1T6,Yvette,Waterson,400 North/Lake Lanier,14184222,Coldwell Banker Residential Brokerage NRT,3145525,Update
+92c19e9e-bd20-4a3c-bad6-12c2f05d6b42,1504476,##_151_#BARBARAANDREWS@HH.INC,Barbara,Andrews,Crocker Road,9318312,Howard Hanna,1585672,Update
+92c684fc-b7c0-4c5e-9d47-88ad18954bd8,1574316,DIANE.CAMPBELL@CBZHOMES.COM,Diane,Marzonie,Tucson-Foothills,12163833,Coldwell Banker Residential Brokerage NRT,3145525,Update
+92de874c-9919-40ae-8cb2-6e507842472e,4900527,TAYLOR.SANTOS@ROG,Taylor,Santos,Temecula  Ca,13795344,Realty ONE Group,1732426,Update
+934f84ff-3036-45a5-914c-4005fc885494,2511940,RJACOBI@CBNORCAL.COM,Richard,Jacobi,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9372c316-7f5e-439d-8883-1ac6c34bb68c,5067618,84647@LNF,TIM,TUTWILER,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+946c7de9-4ba7-49b2-9261-db52f3b3673d,5062271,00U9O63RJVP0FPXMS1T7,Svetlana,Daleo,Hollywood,14220741,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9482dd1c-f55f-4696-b46f-d6dbea0ea5d2,3038039,00US7D3WQQVHIJFVV1T6,Margie,McShane,Scituate,13870356,Coldwell Banker Residential Brokerage NRT,3145525,Update
+95140c3d-0956-42c3-b0b2-06fe357badcb,5001010,YUKIWANGREALTY@GMAIL.COM,Yuki,Wang,Leading Edge,15723942,Leading Edge Real Estate,3240205,Update
+956b58f3-c98d-42a0-a4c4-42b4b044cf06,1679442,AIEEN.BEHBAHANY@CBNORCAL.COM,Aieen,Behbahany,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+961bab43-c1bf-4506-9a9e-b761ab8bf4fa,1550889,MIKEMYTROHOVICH@HH.INC,Mike,Mytrohovich,Brunswick,9279819,Howard Hanna,1585672,Update
+962a15a2-6ba7-4335-bb0b-ca743244d64c,5063258,00U9OIO6S0RRLSZAY1T7,Tracy,Holmes,Mission Viejo,12110535,Coldwell Banker Residential Brokerage NRT,3145525,Update
+963146ec-dafa-43f5-a024-c8a50a7f165b,4793894,JODY.CELUM@ROG,Jody,Celum,Buda  Tx,15539373,Realty ONE Group,1732426,Update
+96516c0f-f9b5-4471-9e4d-0125749e6aa8,4674629,00U6XSB5PHFIJHFMD1T7,Ana Carolina,Piazzi-Tavares,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9661209d-e959-41d0-8ecc-35ed4b812a42,5066553,00U9PGSNUW8MJGD7W1T7,Damiany,Espinal,Danbury,13940433,Coldwell Banker Residential Brokerage NRT,3145525,Update
+968dd613-392f-43ab-a0b1-e938d93b7dc9,5070929,00U9QX8VDBSXJ7K4D1T7,Samantha,Escamilla,Vista Village,12138171,Coldwell Banker Residential Brokerage NRT,3145525,Update
+968e0ad6-4864-4488-a30a-47cf7285e2fa,4924733,##_420_#00U8DNKJBM4NESR4X1T7,Thasha,Guerrier,Fort Lauderdale Las Olas,14219754,Coldwell Banker Residential Brokerage NRT,3145525,Update
+97444d4a-885b-45ad-83b2-5d93dacadd7b,4904881,##_280_#00U88X0YN0OQ2QQM81T7,Steven,Bell,Pensacola,14244429,Coldwell Banker Residential Brokerage NRT,3145525,Update
+974c73f6-7ded-4fe8-a306-7666924062d6,4849656,KGILLILAND@SMITHANDASSOCIATES.COM,Kyle,Gilliland,Bay To Bay,15485088,Smith & Associates,3232315,Update
+97788aea-c345-4da8-bfd9-f32a4ee406a5,4849737,MHARDY@SMITHANDASSOCIATES.COM,Martine,Hardy,Westchase,15488049,Smith & Associates,3232315,Update
+97859cce-5aae-4bcd-bd07-d9f61a44f371,4940197,JSMITH@INTERO.COM,Joyce,Smith,Sacramento - Central,15454491,Intero Real Estate,3220480,Update
+9787a858-ca11-48a0-abff-92c1deb3e2be,5019009,00U967GO87BXDHG7Y1T7,Swati,Singh,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9818b843-4ad8-4d33-a71e-74746076c1c9,3108114,00U38P8B86UZ3JFVG1T7,Natalia,Setta,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9822bd1f-613f-4926-a455-cabc2882cf76,3969028,00U4ZZGW1TACNGUXL1T7,Lisell,Monaski,Winter Park,14227650,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9851f2e6-96ad-4ca5-a920-e00998f8413e,5070865,00U9QHHFI5GWQMQUI1T7,Kelly,Parsons,Laguna Niguel,12103626,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9863ac48-9f67-4472-85d5-d8d3138cffae,1485468,LPIOTROWICZ@HH.INC,Larry,Piotrowicz,Erie South,9204807,Howard Hanna,1585672,Update
+98b44eae-3401-459d-af79-280a92bf1e7f,5030621,WRECHAMBERSBAY,Windermere,Chambers Bay,Chambers Bay,8105289,Windermere Solutions LLC,1234567,Update
+98f70064-f6a3-494f-9b41-591e64328b44,1545437,MARTINMILLER,Martin,Miller,Gig Harbor- Professional Partners,10400064,Windermere Solutions LLC,1234567,Update
+996d881b-d47b-48b2-a4ea-e7a67eb203ab,5061108,00U9NX4M1M36ZBA3B1T7,Karen,Krehbiel,The Woodlands,14614554,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9989e6c5-c1d4-4520-9b48-750c8356e3d0,1542448,JENNIFER.ANG@CBNORCAL.COM,Jennifer,Ang,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9a1391a4-53d6-4e77-a0da-b423cd20d3e8,5066555,00U9PGXLO9IAF8YNE1T7,Arlene,Rosen,Tucson-Williams Centre,12167781,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9b2c660e-0309-403f-bab4-587da8fc3946,2694967,SHELITA.JEFFERSON@ROG,Shelita,Jefferson,Oak Hills  Ca,13717371,Realty ONE Group,1732426,Update
+9b5640b1-8c1c-480e-b510-24311b7be92b,3575028,00US7F48NOEFY3RT31T6,Carlos,Dasilva,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9b85ba03-4db8-4be7-bfbb-0311a4bd00b8,5067620,84649@LNF,JOAN,SHANK,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+9b9e532c-e52f-4bef-ade6-0da91b451cea,3004850,00US79986GTZ7F7O81T6,Holly,Connaker,Wayzata,14451699,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9be1e822-83e5-47c2-ad53-0d9e8922cef4,1709960,RANDY.SCHNEIDER@CBZHOMES.COM,Randall,Schneider,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9be8eb25-1055-4f15-b182-a14e09c0382b,3020274,00US7DOP1VNLMD2PC1T6,Jennifer,Rothstein,Chestnut Hill - Hammond,13820019,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9bff902a-0944-44cb-9a92-dc310f4f8b43,4993435,GAYLETOMCO@HH.INC,Gayle,Tomco,Crocker Road,9318312,Howard Hanna,1585672,Update
+9c4bea04-f3b2-46c8-ac06-2fde4b5a3aed,2560381,VICKI.GANDEE@CL,Vicki,Gandee,Germantown - Forest Hill Irene,13597944,Crye-Leike Real Estate Services,3140002,Update
+9c6a5556-52fe-4ee6-b96a-4cf989c3c1ac,4221648,##_645_#00U5GQGN4LIE9WDT61T7,Rosa,Bounajem,Southlake,14504997,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9c6fed07-06a0-4185-9e86-af7124e5cb8e,3668370,00U4526FW9TCNXEU11T7,David,Garland,Sacramento Metro,11701917,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9c7ef2f7-094a-45ad-b898-177f18dc7fbf,4937551,ROSEMARIE.MENDOZA@ROG,Rosemarie,Mendoza,Rancho Bernardo Office,13729215,Realty ONE Group,1732426,Update
+9cac4419-dc80-4f3e-ba35-b16774424dae,5067475,66374@LNF,Kimberly,Raeder,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+9cbcc540-f33f-494b-9e5b-31f5bfc2c6e5,1544560,BEN.KERPE@CBZHOMES.COM,Ben,Kerpe,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9cc7954e-4adf-4e84-a762-662817dcbc6b,1501054,##_982_#71475@LNF,Allan,Dosik,Arlington,9749631,"Long & Foster Real Estate, Inc.",1259026,Update
+9d0984b7-bc42-461a-b9f1-5bff9d682cde,5018993,00U967GDT169ZZELD1T7,Christopher,Cruz,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9d565705-461f-42e9-8b22-e60af6e96a3e,5026714,84275@LNF,Tiensa,Lundien,Fairfax Mosaic,9750618,"Long & Foster Real Estate, Inc.",1259026,Update
+9efdb4cf-0899-42ab-be04-260e9497fc3a,5045381,00U9JIXLUVWXWT6I71T7,Melonna,Cantwell,Leeward,14571126,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9f2cadd7-35d4-40cb-8e81-867d3d2509f7,4812396,TCHESS@KOENIGRUBLOFF.COM,Terry,Chess,Evanston,15514698,"HomeServices of Illinois, LLC",3233104,Update
+9f81c1dd-c74b-4131-a7e7-c49c7ce69406,3034481,00US77ZR81NHISJFW1T6,Robin,Bunnell,Denver West,14526711,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a02bcb97-da1f-4087-aa9c-cdfdd96c02bd,5031513,DHALLERBACH@INTERO.COM,Denise,Hallerbach,Reno,15796980,Intero Real Estate,3220480,Update
+a06035c1-079c-4fe9-afee-be16f4fc8ac5,2837750,ROBIN.BLUMENTHAL@CBEXCHANGE.COM,Robin,Blumenthal,Northbrook,14390505,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a0be0c44-3d2c-4f93-9cc0-6d50cf8af349,4849520,BPATTON@SMITHANDASSOCIATES.COM,Barbara,Patton,Coastal & Northern Beaches,15487062,Smith & Associates,3232315,Update
+a196eee0-5575-4f5b-b9fe-eac512e9f99c,1563638,KARINNIHLS@HH.INC,Karin,Nihls,Birmingham North,10478037,Howard Hanna,1585672,Update
+a19af759-15c7-4326-8184-35325ea81d66,2689502,##_956_#SHARON.GOLDMAN@ROG,Sharon,Goldman,Las Vegas  Nv,13748955,Realty ONE Group,1732426,Update
+a235e13c-a935-4d45-91b3-6d4333823f63,2752588,MUSAALAMARI@HH.INC,Musa,Alamari,Lancaster,13295922,Howard Hanna,1585672,Update
+a26a556c-0e49-488d-b107-bae8475aa104,4147741,##_10_#MICHELLEWEEKS,Michelle,Weeks,Kent,8052978,Windermere Solutions LLC,1234567,Update
+a312bf6a-b040-498b-ae14-c51f585ea10b,3031684,00US615GYT8YW9EL91T6,Richard,Outwater,Cobb,14187183,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a3181084-b8a4-4bda-b7d2-d7b7b9d5622b,5061164,00U9NTZB5RCAV6EPF1T7,Lauren,Weinberg,Howell,14056899,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a35c46d3-936a-441c-b571-765e29a405be,3003106,00US7A1HGXQE9HX5B1T6,Heidi,MacPhee,Sudbury,13840746,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a373ba76-56f3-4dd1-9cd8-ea4516906bc1,1493934,18461@LNF,Val,August,Fairfax Centre,9753579,"Long & Foster Real Estate, Inc.",1259026,Update
+a3b479cb-9665-4f03-9d26-fe17660c68e8,5069172,00U9Q23EL0LYWDXWO1T7,Susan,Sevor,Orlando North/Heathrow,14223702,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a3e46993-b770-4996-94fc-d776e62ac50e,3575307,##_610_#00U36MAKCAJKKQJBM1T7,Fong Ching,Liaw,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a4130d96-caef-44d6-a6d8-5ce16f6fdd8b,4850717,00U7W6CS2LWNGOXUP1T7,Shannon,Coleman,Branch Shared Services,14701410,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a5130556-8e1e-4342-b082-7304acbf20a9,4983464,00U8U4Q45RFPCGKJN1T7,Haven,Chrysakis,Palm Harbor,14290818,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a5887449-6de9-43f3-8c27-5707febbd9af,4844033,##_322_#00U7VMKNJBXAJXHTE1T7,Patricia,Thompson,Northwest Austin,14588892,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a59f5b47-7da1-4df1-86b9-d0e03efae84f,5027357,00U9BX76EGTLQ6PVQ1T7,Marcia,Chiles,La Jolla Prospect @ Girard,12123366,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a5e01033-a428-4c08-9a68-c599afac59c1,4912912,##_448_#83213@LNF,Alexandria,Sikand,Tysons Corner,9772332,"Long & Foster Real Estate, Inc.",1259026,Update
+a6086faa-0e78-4952-a8c1-382d1a33235f,1558138,VALENTINA.PARFELKIN@CBZHOMES.COM,Valentina,Parfelkin,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a64fda2a-c001-4109-b299-5d0594788c52,1442376,##_10_#CATEM-LL,Cate,Moye,Spokane-Liberty Lake,8090484,Windermere Solutions LLC,1234567,Update
+a65b897f-03fd-4a23-bb71-84830f0a09b0,4414794,00U5WDB2M8ECUMZVZ1T7,Christina,Wendel,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a67b7866-5539-4570-9bcd-18c00ed8945b,5070907,00U9QUA541YSG2XZ61T7,Helen,He,Saratoga,11722644,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a6c8c309-12fc-4dfe-ad58-88482388e3a8,1532127,JULIECRIST@HH.INC,Julie,Crist,Peninsula,9929265,Howard Hanna,1585672,Update
+a6e5a00f-1e65-4829-b8fe-e7ebbcc0abcd,5070015,PENNY.RAY@ROG,Penny,Ray,Las Vegas  Nv,13746981,Realty ONE Group,1732426,Update
+a70acbc2-ede1-4a8c-ba1a-b51225e4dc38,1540235,ERIC.CLAYTON@CBZHOMES.COM,Eric,Clayton,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a7c1ea60-e757-4697-a4c0-15599b2328d7,1537250,DAVID.NIELSEN@CBNORCAL.COM,David,Nielsen,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a7f2db38-6142-4c95-8c7d-6626e7e2b23d,1501757,72492@LNF,Leon,DeLorme,Columbia,9759501,"Long & Foster Real Estate, Inc.",1259026,Update
+a80f03d3-b598-4e37-88a5-ee1688c6dcbc,5046380,BEA.ANDREW@CL,Bea,Andrew,Murfreesboro - Broad,13612749,Crye-Leike Real Estate Services,3140002,Update
+a86192bb-3554-4d53-99eb-33e400410285,5027322,00U9BQ7KFKGRHEZYM1T7,Judith,Burridge,Southwest Orlando,14224689,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a8bd240c-931a-4c9a-b836-6a4c6eb8a997,3873227,##_833_#ARIFHAJRO@HH.INC,Arif,Hajro,Crocker Road,9318312,Howard Hanna,1585672,Update
+a937f6d0-bdef-4f16-8e09-2cad2d0b35e2,5003043,STEPHANIE.AMAYA@ROG,Stephanie,Amaya,Las Vegas  Nv,13746981,Realty ONE Group,1732426,Update
+a98903b0-3760-45ca-9834-a610e2dbebf7,4959844,##_10_#RDUBERSTEIN,Robyn,Duberstein,Libertyville,15522594,"HomeServices of Illinois, LLC",3233104,Update
+aa583ec0-65fa-489f-bbd2-5f9dfe89cda7,4600214,##_798_#00U6K556JTXXCJ9071T7,Kelly,DeFede,Wyckoff / Franklin Lakes,14029263,Coldwell Banker Residential Brokerage NRT,3145525,Update
+aab49880-6663-4727-87a7-b511055d6ffe,5070915,00U9QUMKIIQN2SZ2O1T7,Suraj,Tamrakar,Chelmsford,13848642,Coldwell Banker Residential Brokerage NRT,3145525,Update
+aaf89d03-74be-4270-8487-f0e1e51f990e,1191697,LORENVC,Loren,VanCorbach,Lynden,8001654,Windermere Solutions LLC,1234567,Update
+ab618bae-d204-4ed9-9a99-0b6c648fadc5,1581458,JASONHASTINGS@PACUNIONLA.COM,Jason,Hastings,Sunset Strip,12544815,Compass,2993248,Update
+ab995aa6-2716-4299-8f74-2fcbcf5d78d2,5069620,84757@LNF,Dante,Cirelli,Newtown,11127483,"Long & Foster Real Estate, Inc.",1259026,Update
+abb23aed-951d-417e-a4bd-1e8bb319b0d9,5024033,LORIWAYNE,Lori,Wayne,Las Vegas-Henderson,8418168,Windermere Solutions LLC,1234567,Update
+abd1dd4d-0ca6-4a61-b7a1-d77ff6b58785,5062421,VRAMANI@INTERO.COM,Varsha,Ramani,Fremont,15430803,Intero Real Estate,3220480,Update
+abff5272-ecf8-4998-adf6-faf2abe97a12,4485322,DEBBIEDAVIADOFF@MICHAELSAUNDERS.COM,Debbie,Daviadoff,Michael Saunders & Company,15199845,Michael Saunders & Company,3212590,Update
+acfeab9e-e4b5-4730-9d0e-9e6ec55357c4,2101138,CHARLESSILVERMAN@HH.INC,Charles,Silverman,Lynnhaven,9926304,Howard Hanna,1585672,Update
+ad2c8715-aff4-4f77-a785-f05876d2380f,1624545,ANDREA.DELUCA@RANDREALTY.COM,Andrea,De Luca,Suffern,13007718,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+ad8bc577-af9e-483e-bf05-017b4c4bde66,5066617,BHART@KOENIGRUBLOFF.COM,Brian,Hart,Chicago - Michigan Avenue,15506802,"HomeServices of Illinois, LLC",3233104,Update
+adb45cdc-a06f-440c-8dc1-cb28491ebb4a,3010259,00US78QNHSFGEKKGS1T6,Militza,Zaa,East Manatee,14265156,Coldwell Banker Residential Brokerage NRT,3145525,Update
+adc0a003-131b-4dd4-8ff8-d185bea194fe,4746173,##_629_#00U7DV1FQDZFJBZWH1T7,Veanko,Bins,Southlake,14504997,Coldwell Banker Residential Brokerage NRT,3145525,Update
+adfd74a4-a683-49c2-96c4-50a00ab7e9ad,4884103,LIZA@SERENOGROUP.COM,Liza,Carneghi,Willow Glen,14756682,Sereno Group,3199966,Update
+aea5d928-629a-418d-96e7-325138ed69ff,3024601,00U1GPOC13TLDD3T51T7,Elena,Lopez,Luther Region,14355960,Coldwell Banker Residential Brokerage NRT,3145525,Update
+aec8c4b6-3bfc-45bc-8059-08cf43b32f7b,4211296,##_10_#CAROLEPHILIPSON,Office,Coordinator,Palm Springs,14922498,Windermere Solutions LLC,1234567,Update
+aed49af7-7e25-492a-bc38-8745a1513957,5072803,GENERIEHART,Gene,Riehart,Salem,8029290,Windermere Solutions LLC,1234567,Update
+aef061ba-c75a-48e4-97c5-f8550e953e5f,1587277,DANIEL.FELSKI@CBNORCAL.COM,Daniel,Felski,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+af03c964-69a2-4324-9ffc-a3784cacc5a2,4766044,##_10_#CCRUZ@INTEROREALESTATE.COM,Carlos,Cruz,Saratoga,15266961,Intero Real Estate,3220480,Update
+af0b88a7-0910-401e-bcbf-5eeb3d813475,5070901,00U9QTIEMFSWSGIFC1T7,Maureen,Wasp,Fort Mill,14648112,Coldwell Banker Residential Brokerage NRT,3145525,Update
+af2ef88d-0095-46e6-b506-f3175b2fc614,3663110,##_10_#SARAH.PERROTTI@RAVEIS.COM,Sarah,Perrotti,Southbury,12836967,William Raveis Real Estate,3077671,Update
+af99344b-c1a9-4f9d-b13a-1434b1fa5bb3,2753770,AZZAGIORGI@HH.INC,Azza,Giorgi,Utica/New Hartford,13414362,Howard Hanna,1585672,Update
+afac5cae-a1d8-41a3-a595-f3e707fb0199,2420614,##_10_#LORETTA.KING@RAVEIS.COM,Loretta,King,Niantic,15415998,William Raveis Real Estate,3077671,Update
+afcd3863-822e-419a-935a-027e4e307374,4966568,00U8QG4O8BGUYTU3V1T7,Kyra,Muhammad,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b0239aa7-c9ca-4e07-b19a-61d0e27809b1,2420739,SUZANNE.MCCONVILLE@RAVEIS.COM,Suzanne,McConville,Madison,12815253,William Raveis Real Estate,3077671,Update
+b036f8ed-0947-4e8c-9bda-4bc559a99a34,5051428,00U9LEG4GK9PQIWIO1T7,Renee,Strohoefer,Spring Lake,14065782,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b03b4e3c-d2bc-40bf-8394-0606d666885a,4986718,##_107_#00U8V3DPFVBXSTR8Y1T7,Steven,Suspenski,Mt. Sinai,14004588,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b16d5d76-3c3f-4576-8156-cec7c3cd6763,4419224,00U5WSEC2IAKSWSLK1T7,Stephen,Messikian,Ridgewood,14025315,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b1ac4b7f-589f-4bd5-9e81-b18c53a2bbb5,5070307,CLAUDIA.DURKSEN@ROG,Claudia,Durksen,Vacaville  Ca,15767370,Realty ONE Group,1732426,Update
+b21d1de1-5e4b-449a-8178-28f7892ddadb,5072643,LUCINDA.ROYER@ROG,Lucinda,Royer,Lancaster  Pa,13750929,Realty ONE Group,1732426,Update
+b2feb3b1-df07-40e4-aef4-4aa12dd2a079,5061116,00U9NODQ4EUTYCIYD1T7,Kartik,Shah,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b35665e9-b031-41c1-9d90-e1604d692183,1537670,KEL.SAITO@CBZHOMES.COM,Kel,Saito,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b38485d0-0520-4c2a-81a4-ab2154e73eda,1505734,##_990_#RICKZIDEK@HH.INC,Rick,Zidek,Rocky River,9271923,Howard Hanna,1585672,Update
+b44af759-3b0e-4bb8-9c39-9e5cfc55f055,5018640,84218@LNF,Charles,Kraus,Annapolis Eastport,9818721,"Long & Foster Real Estate, Inc.",1259026,Update
+b4b2acd9-f070-4ce3-950a-bd4397688590,1537339,STACY.SEYMOUR@CBNORCAL.COM,Stacia,Seymour,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b4fa6790-6c28-4d49-9774-f0e8712fc9d8,2468877,##_10_#MICHAEL.LUPO@RAVEIS.COM,Michael,Lupo,Tarrytown-Legends Realty Group,12869538,William Raveis Real Estate,3077671,Update
+b5158c71-d53c-4765-accd-182616d90d79,3033031,00US770FSZKB6ELT31T6,Lee,Lamont,Lakewood / Ne Dallas,14487231,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b5359d23-2af7-4b7d-a10e-5a1b374e1f84,3930115,##_849_#HUGHLYNCH@HH.INC,Hugh,Lynch,Shaker Heights,9262053,Howard Hanna,1585672,Update
+b543577f-57b2-4420-ae3c-35bb39a78af7,3575653,##_514_#00U30Q74QPA1VTAJA1T6,Angela,Martinez,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b56167b4-be6d-46fb-bb56-c50882140790,4849658,LBACCARELLA@SMITHANDASSOCIATES.COM,Laura,Baccarella,Bay To Bay,15485088,Smith & Associates,3232315,Update
+b564e5dd-91ed-4a17-b07c-2895ec94011e,1537108,GINA.CUELLAR@CBNORCAL.COM,Georgina,Cuellar,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b6486c95-4174-4c7f-81b9-089eb90e3bf1,5070019,NANCY.KREIDER@ROG,Nancy,Kreider,Lancaster  Pa,13750929,Realty ONE Group,1732426,Update
+b67fe388-67fc-4c52-b945-c52acbab99da,5070856,00U9QGHKBH3YSFBB91T7,Alicia,Helser,Southwest-Litchfield,12152976,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b6d6c421-baf4-467a-a372-740eae07e240,2456353,ELICIA.SULLIVAN@RAVEIS.COM,Elicia,Sullivan,Trumbull,12841902,William Raveis Real Estate,3077671,Update
+b725a58f-091a-4586-8e07-cb525c76dcaa,4983773,CARA.FOX@ROG,Cara,Fox,Vacaville  Ca,15767370,Realty ONE Group,1732426,Update
+b75c36c2-6312-4c31-ade0-49106769b431,1543379,##_781_#JEFFREYWEST@HH.INC,Jeffrey,West,Crocker Road,9318312,Howard Hanna,1585672,Update
+b804f164-786b-457f-827e-0157390e3dcc,1533818,00US7EZX4WHRC2VCF1T6,Ron,Mason,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b88b84da-1547-4b94-a338-5a61a06685c5,2586069,MAGDALENSHAFER@HH.INC,Magdalen,Shafer,Lakewood,9316338,Howard Hanna,1585672,Update
+b8aacb89-ed95-47de-a205-bfdfbd172c52,5067592,84620@LNF,CHERYL,POOLE,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+b9504e2e-02ad-436b-b08e-24b9788fdaf7,4995257,00U8XTOX5QNTDSWID1T7,Todd,Kaiser,Studio City,12181599,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b983bce2-2858-4400-b3ff-d665de01d827,4845332,KERI@DUDUM.COM,Keri,Fryer,Danville,15375531,Dudum Real Estate,3226792,Update
+b9bb039e-ea10-43c5-9fed-009829763c37,1527634,##_10_#AMBERHAEG,Amber,Haeg,Silverdale,7953291,Windermere Solutions LLC,1234567,Update
+b9fb798a-2b45-4744-9ddf-f653f8822dd2,5067532,84560@LNF,PENNY,HOLLIS,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+ba44f976-6f6a-4b49-98ba-0b5440c82235,4849561,POATES@SMITHANDASSOCIATES.COM,Patrick,Oates,Coastal & Northern Beaches,15487062,Smith & Associates,3232315,Update
+ba58ec22-61f1-4fcb-9ab7-9022c600266c,2559838,SANDRA.WADE@CL,Sandy,Wade McConnell,Germantown - Forest Hill Irene,13597944,Crye-Leike Real Estate Services,3140002,Update
+badd5d93-070a-4d12-a26b-f057477858c0,4607385,##_507_#00U6LLIZV9KFIMU8Y1T7,Brian,Sarkis,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+baf32aff-c1fa-41f2-b079-20e4cf97ddfd,4703263,00U74IY1LIYVIULYG1T7,Kelli,Moore,Oak Park,14971848,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bb5a227d-d5c1-4f7a-b46e-73d8dde9b9ff,4588856,##_196_#JDAUGHERTY@FM,Jennifer,Daugherty,Stonehenge Sales Office,12912966,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+bb6faa29-4497-40ba-88ba-ee8d351acd8b,5069154,00U9PZLPY9MLGIHQM1T7,Dorian,McGill,Winter Haven,14300688,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bbeff07d-67e1-4fbf-9a65-e9a58cc95f30,4526569,00U65WQCXVRE4YFP61T7,Jessica,Luogameno,Wayne,14028276,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bc1205a1-be68-4744-ae16-abe7b65cb318,1501776,72521@LNF,Monty,Boland,Chevy Chase/Uptown,9807864,"Long & Foster Real Estate, Inc.",1259026,Update
+bc3e2fcb-e9e2-4be1-9820-872f230f235f,3779367,00UOOI7RQV1LFY9NQ1T6,Urvin,Pandya,Fin Planning & Analysis,14666865,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bc3ef47a-cd3b-4ffa-bf55-6942d772a445,1181206,##_10_#CGRIMM,Christopher,Grimm,Seattle-Ballard,8008563,Windermere Solutions LLC,1234567,Update
+bc490fd8-0e70-4324-9fab-c0cebdfc7c7b,5068181,00U9PNU1RPZJHVFB21T7,Erica,Covello,Sandy Springs,14182248,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bc586bbb-c6dc-4fb7-8fa4-dbaf997138d9,1579461,MENACHEM.PLOTKE@CAMOVES.COM,Mendel,Plotke,Beverly Hills North,12189495,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bc931907-2c6f-4bac-8679-6790ccd67f4f,3012884,00US78XSNV1IJWN4N1T6,Erin,Turnley,Northwest Austin,14588892,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bcdd4970-f67c-4811-a762-3879849a80a9,5026473,00U9BINDPSAZGD94C1T7,Raul,Vela,Westlake,14590866,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bd3c588e-6aa4-461b-ae59-927d50966e9c,3015730,##_248_#00US72S4GHHJFY7UJ1T6,Ashley,Thomas,Southeast Regional,14318454,Coldwell Banker Residential Brokerage NRT,3145525,Update
+be189ded-8dd0-496f-b591-cef851ddfee3,5070879,00U9QS5ZPLFXV4QEN1T7,Lis,Negron,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+be5d34ea-1dc4-41c7-a7e6-58900bba6883,1567852,TGORDON@KINLINGROVER.COM,Terri,Gordon,Yarmouth Port,12406635,Randall Family of Companies,2944330,Update
+be90f75b-6d27-4b5e-97e0-2ea96f80dcfb,1589294,CAROLYN.THOMAS@CAMOVES.COM,Carolyn,Thomas,Vista Village,12138171,Coldwell Banker Residential Brokerage NRT,3145525,Update
+beea1ba2-304c-4e91-ac44-1ba8a3831cc7,1959081,##_293_#ROBERTBUCHMAN@HH.INC,Robert,Buchman,Avon,9306468,Howard Hanna,1585672,Update
+bf90d2b1-b8b6-4a90-a73b-4d342be3fcd0,3024516,00U1D92UIFKFZOBHD1T7,Linda,Callicutt,Dallas,14488218,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bf950651-f2fd-4621-9e8d-3a33093a31dc,1607409,79720@LNF,Andrew,Palermo,North Wildwood,12654372,"Long & Foster Real Estate, Inc.",1259026,Update
+bfd21e9e-ec41-4896-859b-3d33e81e70fe,1488324,TATYANAKRILOVA@HH.INC,Tatjana,Krilova,Strongsville,9334104,Howard Hanna,1585672,Update
+c04cc017-86c3-4ae1-9a14-4cdf4eec47ce,5067637,84666@LNF,MIKE,HAMBY,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+c0851998-5f7a-4771-8b15-0dac302ad3d1,5070849,00U9QFZ7495M4R7AE1T7,Adeloa,Akingbade,Southlake,14504997,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c1d8a2c2-0289-42be-b6fe-f4ae28561a00,5069164,00U9Q0STZHVBA7JBQ1T7,Rollin,Jackson,Highway K & N / O'Fallon,14473413,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c2042388-6505-4223-94e0-15a9c197254b,5068191,00U9PPZJRNCNOMO061T7,Susan,Grossblatt,Calabasas,12105600,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c27dbbdb-caa6-45bc-ab64-832221fe2042,3037666,00US7B0BSDIXXTSHP1T6,Mimi,DiMauro,Sudbury,13840746,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c2863b05-f7b0-410f-b2f4-859028ed9f4e,5067614,84643@LNF,LUELLA,BRESSLER,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+c2bf17b8-2d82-4a0b-a782-504aab546774,4812422,TPRATT@KOENIGRUBLOFF.COM,Tod,Pratt,Chicago - Clybourn Avenue,15508776,"HomeServices of Illinois, LLC",3233104,Update
+c303d375-7dd4-465b-8208-1e97dafd6293,3080421,##_843_#RAUL.RAMOS@ROG,Raul,Ramos,Mission Viejo  Ca,13725267,Realty ONE Group,1732426,Update
+c321000b-3ead-4509-99ba-7b8ea21fded6,4588884,##_953_#STEVEKENSINGER@HH.INC,Steve,Kensinger,Madison,9284754,Howard Hanna,1585672,Update
+c3e50e90-d2f9-4bc5-a99e-e63bebf46ead,4987884,##_148_#83445@LNF,Ginny,Sprague,Fredericksburg,9755553,"Long & Foster Real Estate, Inc.",1259026,Update
+c4967e23-3672-413a-bdd0-312ee437808e,2420608,##_10_#TODD.CRAWFORD@RAVEIS.COM,Todd,Crawford,Niantic,15415998,William Raveis Real Estate,3077671,Update
+c51ff947-096b-47b1-9ff2-89c146a0ab44,4436549,ALYSON.HEARON@RANDREALTY.COM,Alyson,Hearon,Ramsey,13012653,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+c52e8a70-64da-4a41-81d5-2a8cc6d7d2cf,5048243,00U9KBSI4APXDRINE1T7,Jeannine,Catapano,Massapequa Park,14000640,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c5c9fce6-c4c5-4aa0-9f9a-c024c489ce97,5030330,00U9DAWNZ2I7UMQIS1T7,Cristy,Eastman,Placerville,11736462,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c608c826-bed7-4574-8092-f208b20dcb29,4752683,WALSHLUKE,Luke,Walsh,Eugene,8382636,Windermere Solutions LLC,1234567,Update
+c6386d65-4c79-4b08-9218-6c24304ef597,5072672,MORGAN.SPROULS@CL,Morgan,Sprouls,Joplin,13577217,Crye-Leike Real Estate Services,3140002,Update
+c63b4a52-d624-418e-a21d-8daf543b558b,4891122,WALNUTBIRD29@GMAIL.COM,Way,Huang,Danville,13663086,Keller Williams Realty Danville and Walnut Creek,3189709,Update
+c64709fb-f962-4f24-84f8-37311829ef77,5061133,00U9N3SMF6YROL8WT1T7,Joseph,Bence,Tampa Westshore,14298714,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c64ff5c1-c860-4ee6-870d-5d726fe7ede8,2694828,WILLIAM.DOERLICH@ROG,William,Doerlich,San Ramon  Ca,13716384,Realty ONE Group,1732426,Update
+c65db132-2079-47ba-8472-a3d1e15d2abe,2929940,CHRISTAIN.ADOSKI@ROG,Christain,Adoski,Corona  Ca,13714410,Realty ONE Group,1732426,Update
+c747dae0-018a-4af3-b364-74331c5fda7a,3575466,00U1BDIMC1NXDPICZ1T7,Mary Ann,Schroeder,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c7d030c7-4794-46be-a729-3e48900e5b8f,1537772,ALMA.CASTRO@CBNORCAL.COM,Alma,Castro,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c87be307-f6f8-4d4b-ba6c-3ba7eb6dcc2c,5070871,00U9QR835DZZ19WX31T7,Marilee,Poon,The Woodlands,14614554,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c88adff5-d031-47b1-81e4-c9244adcd904,5013246,MELISSA.COLE@CL,Melissa,Cole,Germantown - Forest Hill Irene,13597944,Crye-Leike Real Estate Services,3140002,Update
+c89ca013-3671-4171-b071-3b16f1f09eb5,3028524,##_243_#00U2OWXRYZTOMUULZ1T7,MaryBeth,Van Trieste,Conshohocken,14580996,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c91f5a61-a3bf-4bdf-a0fd-732e29a6b149,1536798,JJONES@CBNORCAL.COM,Jackie,Jones,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c998a33a-b372-4983-ac10-fb6b86003e77,4581566,82379@LNF,Richard,Gargagliano,Warrenton,9768384,"Long & Foster Real Estate, Inc.",1259026,Update
+c9a117a9-a1ea-40d7-acac-1047b2098218,5008084,83526@LNF,Michael,Brandon,Village Of Midlothian,9851292,"Long & Foster Real Estate, Inc.",1259026,Update
+ca07076d-82ac-4421-89aa-201ec2f42d6c,3038045,00US76071J1TBYZUW1T6,Michael,Pavlicin,Westport,13951290,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ca37e428-65e4-4bff-a8eb-e5503be2f911,3574981,00US7F30DMHSJJX7Y1T6,Benjamin,Harmssen,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cada4913-9d93-4a5f-bc91-74716275261f,1497225,50043@LNF,TJ,Murphy,Chevy Chase/Uptown,9807864,"Long & Foster Real Estate, Inc.",1259026,Update
+cb934825-12ec-4698-aed4-bd4f26b6b771,5030401,JMARTINEZ@SMITHANDASSOCIATES.COM,Juan,Martinez,Westchase,15488049,Smith & Associates,3232315,Update
+ccd35fa4-799b-49b9-8a9c-650baa1e8341,3722188,##_873_#00U47X61OQZZU8TWF1T7,Sonja,Forn,Crestview,14237520,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ccd8718e-b3bb-424b-8448-37c6136298b7,1870514,MICHAEL.CHAPMAN@CAMOVES.COM,Mike,Chapman,Los Feliz,12254637,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cdd73f00-047f-4bc6-bc7a-a35530529f5d,3574817,00US7B8XDKPL3IF8R1T6,Bradley,Bauman,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cdfe0a61-d39b-481a-bef8-ffff326dc525,2692298,##_710_#LOUIE.VEGA@ROG,Louie,Vega,Rancho Cucamonga  Ca,13730202,Realty ONE Group,1732426,Update
+ce1f3448-3199-4932-a060-a8c0096c551b,5019051,00U967GUDSU9WGLSN1T7,Lisa,Schmidt,Branch Shared Services,14701410,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ce2b8d58-bd5d-4fa2-bbf8-fe32bfa8bbb2,5026854,##_745_#CARMELA.SAVARINO@ROG,Carmela,Savarino,Corona  Ca,13714410,Realty ONE Group,1732426,Update
+ce9b4fc1-3f06-40de-b869-7471e5fe9c45,1568734,RANDY.PERTNER@CBNORCAL.COM,Randy,Pertner,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cee9de12-1962-4315-a1da-acebb1d4f1df,4933774,00U8FWISJ2QKZUHWX1T7,Gunjan,Goel,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cf6a9644-4b39-4218-91bf-d4fab24b5b46,2690298,JANET.STEINKE1@ROG,Janet,Steinke,Phoenix  Az,13703553,Realty ONE Group,1732426,Update
+cf8bcc09-5f55-4c9e-857d-d1dc424eded0,5070895,00U9QTOELHOGI2E321T7,Marsha,Dixon,North County,14467491,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cfac2157-17a5-4c4b-8469-63b4a9ab4bb9,5056400,00U9MK1EI2NUC5EZ71T7,Kandice,Fogle,Katy,14616528,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cffd6046-9a41-459a-a7b3-52b2f9b309c8,2754510,ANNAPELUSO@HH.INC,Anna,Spear,Webster,13476543,Howard Hanna,1585672,Update
+d015a1dc-4663-4252-9fb1-0a4640ad8327,3035870,##_442_#00US79PQA2C4ZHUIA1T6,Donna,Quanrud,Minneapolis Lakes,14431959,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d0256184-e306-451a-b31e-ee61ac029af6,3004449,00UW4SM9OZO8ZZJZH1T6,Wendy,Smith,Winnetka,14392479,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d0a733f2-c05c-445c-9173-b6f6a57384e8,5049284,00U9KXNRGHCJJPZND1T7,Nagela,Duperval,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d0dba466-76ec-495d-9853-1e852aaa2d03,3324251,00U3PYXPT9B1FA72P1T7,Erina,Cooke,Princeton,14061834,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d10c34a1-fd4f-417b-bca2-5a4f585937cd,5032011,00U9E6T2VN0JQTD0P1T7,Stephanie,Kirksey,Perimeter,14186196,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d25afde3-8857-49c8-9207-46df3317c214,4944166,##_455_#00U8IHBO89NR36KLE1T7,James,Ganan,Gold Coast,14371752,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d3171ba0-5eec-4212-8e70-cb7aaf8dff5a,5032864,00U9EUX7S073ABN5X1T7,Jill,Ekstein,Union Heights,14544477,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d319f77b-a457-47e0-9367-96bb3974858f,5048248,00U9KD5PXSBWKN3CN1T7,Amelyn,Apostol Lockhart,Hudson Valley Regional,14030250,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d3392251-59c7-45e4-97a5-17a22e6ebfc9,4703264,00U74IKBQO7RLXGJD1T7,Andrew,Elkins,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d4095423-7f5d-44bc-840a-b84f3e5a7b58,5061152,00U9N5OROUJ57SWWW1T7,William,Galuchie,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d458fc17-4289-4c81-bdeb-a0c58379953b,5070873,00U9QRTY8HDSPOHUA1T7,Austin,Gill,North Haven,13930563,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d4aee7b8-2d97-4b8d-92eb-d4d05842db09,5069355,ANTHONY.POLIDORO@ROG,Anthony,Polidoro,Greeley  Co,15179118,Realty ONE Group,1732426,Update
+d5347ff2-6207-4402-b8cc-3d71797b60f7,2558556,##_238_#JIMMY.DAVIS@CL,Jimmy,Davis,Murfreesboro - Broad,13612749,Crye-Leike Real Estate Services,3140002,Update
+d53d5116-edfa-42c9-b9c0-7c6e03b0b913,5064202,00U9ORXTOPOABJV3N1T7,Megan,Scarborough,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d5790d9e-693d-4125-80b3-e43536f22f3d,2070026,##_155_#RYANGUTOWSKI@HH.INC,Ryan,Gutowski,Madison,9284754,Howard Hanna,1585672,Update
+d5957f17-b809-4256-aaea-c6cfaa1b164b,3168540,##_580_#00U3LD4713PLJFYSJ1T7,Barbara,Mucha Oko,St. Pete Beach,14295753,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d5b72d5e-1bd4-4822-8c53-c08d5520e4ec,2099531,SUSAN.CLARK@RANDREALTY.COM,Susan,Clark,Suffern,13007718,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+d5d98a02-7f59-4d74-8e00-04b82bad08e8,3245583,00U3NI4WV0VIBPHPM1T7,Sheila,Tarantula,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d5def6b5-ecfd-4a4b-949d-7878377eb2fd,5070919,00U9QVK8S4TD2OFK41T7,Jorge,Abreu,Brickell - Key Biscayne,14251338,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d6f20a4e-89ab-4f74-9cab-f7d4044b1b1b,4983488,00U8UAHXYG3CXEAZ91T7,Jessica,Kaminski,West Bend,14416167,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d74f3b0f-2d82-4e95-8a6e-7de4d66c12b0,3034380,00US78XY0FJAQQV9O1T6,Kathleen,Coleman,Scarsdale,13979913,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d7bf591b-6d3e-48cc-8572-f2241d2ef0db,1499204,##_317_#65617@LNF,Harmony,Campbell,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+d7c03edf-c8c1-4b44-baf4-c4f000d49e72,5056407,##_942_#00U9MGYY7KG3QWMUG1T7,Kiris,Powell,Leesburg,14167443,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d8958ebb-4dae-4a7f-9c7c-95cdc82e9c7f,5061128,00U9N3B4ZPQNXPJWG1T7,Jillane,Powell,Heights,14604684,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d92b616e-2d93-4f0d-86d5-d02ab37b5e33,1607016,BEATRIZ.WADE@CAMOVES.COM,BEATRIZ,Wade,Irvine,12101652,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d939999d-0e5f-4adf-aeb7-fd46b9bc1320,3436617,00U3T6305AHQ7D1HB1T7,Alison,Ali,Park Ridge,14396427,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d996317b-9d67-40f0-852a-7cf86a3a8d71,5059731,PAMELA.MCANALLY@ROG,Pamela,McAnally,Vancouver  Wa,13772643,Realty ONE Group,1732426,Update
+d9b06658-b5e0-4fa5-a70e-7f5ee073fcaa,3003603,00US7ACD4JOKYSYFY1T6,Roxane,Mellor,Cohasset,13860486,Coldwell Banker Residential Brokerage NRT,3145525,Update
+da61a460-2223-4401-a6fd-04efd2117651,5019015,00U967GSW5ISW8DER1T7,Donghoon,Lee,East Brunswick,14052951,Coldwell Banker Residential Brokerage NRT,3145525,Update
+da74dfeb-f6b9-4366-b1fd-c842aaccb54f,3014617,00US760Q1WKRUFOG21T6,Beth,Groebe,Winnetka,14392479,Coldwell Banker Residential Brokerage NRT,3145525,Update
+da921581-9d53-4f4a-8cfb-5caaede8b3b6,1522376,LUCINDAOTTO,Lucinda,Otto,Marin County Office,11620983,Zephyr Real Estate,2376250,Update
+dac1f708-53d8-4e00-8e0c-c6dcd9e7a899,3677482,NEBALALI@HH.INC,Nebal,Ali,Avon,9306468,Howard Hanna,1585672,Update
+daef5b7d-8c44-43f7-9d10-9581d707f9ce,4986726,00U8V45GQKB6PMKMC1T7,Jacqueline,Genao,Weston,14222715,Coldwell Banker Residential Brokerage NRT,3145525,Update
+db017582-39f6-4d38-959a-7a74de924d12,1567131,MIMI.REZAEI@CBNORCAL.COM,Mitra,Rezaei,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+db0e8996-7949-4518-85a9-10e140909f1e,4146311,GEOFFREY.WOLCOTT@FOURSEASONSSIR.COM,Geoffrey,Wolcott,Stowe,13683813,Four Seasons Sotheby's International,3190498,Update
+db3544d6-244e-4509-ac31-6ea0570a8458,4865669,00U7ZGV3U2GFNG2AL1T7,Marianne,Soberanis,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+db90cc6c-0b16-48f8-aa01-d47b38bef653,5061139,00U9N4CQJKDQROHHY1T7,Jacqueline,Delaney Cash,Westfield East,14049990,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dbb1f000-f8e0-4447-a986-78fbd1d2965c,4937197,00U8GQE1DASCA2FY31T7,Nah,Park,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dbe4b238-a400-478f-9d30-7e86b1fe885c,3008820,##_348_#00UOHH0QDTLW9GAVR1T6,John,DelTufo,Milton,13866408,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dbf1dc2b-4f24-4d70-8a73-b4cb4d0f5e2f,2976778,##_579_#AJPOLOSKY@HH.INC,AJ,Polosky,Avon,9306468,Howard Hanna,1585672,Update
+dc1814bd-ee78-43cb-ae4c-f6e92494a5c8,4433593,ECONOMICS,Windermere,Economics,Services Company,7951317,Windermere Solutions LLC,1234567,Update
+dd2dd739-ae18-4827-8926-3b2ccf4c3bf5,3017881,00US73J030F8X7GSJ1T6,Jason,Garner,Southwest Regional,14316480,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dd3805ea-5850-4fae-9596-1f17d00edd3e,1537257,ROBYN.POWERS@CBNORCAL.COM,Robyn,Powers,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dd3af3b3-ea85-482f-a348-4dd9758f71ec,4188765,##_367_#00U5EZZYB3BM9PXM41T7,Scott,Criddle,Station Park,14539542,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ddf68883-5a0d-4976-8234-194f7cfaec4f,3025176,00U1LE54BNGJI1SJM1T7,Antonnietta,Palacio,Leeward,14571126,Coldwell Banker Residential Brokerage NRT,3145525,Update
+de178991-d7d8-4a02-9605-6402c8a2fd7e,4895764,00U86TO5T9RGFI0JQ1T7,Angelena,Lieberg,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+de8fdd73-cc0b-4bf9-a13e-ca93c6e24f5f,5047715,84417@LNF,Victoria,Santos,Silver Spring Downtown,9782202,"Long & Foster Real Estate, Inc.",1259026,Update
+deaaf4ed-6bfb-4304-af02-98f6cbdbeace,1613962,JEN.MAJOR@CBNORCAL.COM,Jennifer,Major,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+df345a34-5a49-41b7-bff4-a32bea0efe66,1582880,AHMAD.FAWAD@CBZHOMES.COM,Ahmad,Fawad,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+df3a7f41-550d-49c7-877f-b226ec1d2ad4,2689947,JJ.BHAKTA@ROG,JJ,Bhakta,Tempe Office,13707501,Realty ONE Group,1732426,Update
+df4bb023-3cc5-48b1-bad5-d4d500d372ec,3000284,00US78JNKPRICYZIQ1T6,Donna,Nagy-Burzynski,Westport,13951290,Coldwell Banker Residential Brokerage NRT,3145525,Update
+df906c67-b8e2-45e6-a65e-f212d11d1cbd,3000880,##_453_#00US79IU9PVLJX1OW1T6,Kathleen,Kuzmack,Mt. Sinai,14004588,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dfa4d704-4312-487a-93eb-c6ba16e482a6,4703248,00U74H4BFEE8NEECR1T7,William,Niebauer,Baltimore Roland Park,14130924,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dfd517c2-6b93-4777-83cd-1a23aa5a5c43,4471693,00U61Q678RD5U9QHJ1T7,Shoeleh,Derrington,Memorial,14605671,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e0f07a7a-a50d-4d5d-ae89-54d036f81f1d,4733590,##_10_#DPERSIJN@INTEROREALESTATE.COM,Dana,Persijn,Hollister,15256104,Intero Real Estate,3220480,Update
+e0f9dca0-fa5d-4112-9aa3-524b78f8c912,3575397,00US7F49TDQQNZVGI1T6,Timothy,Brinton,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e10bb3d2-4860-401d-8600-967e04472df8,2420716,SANDRA.CIARLEGLIO@RAVEIS.COM,Sandra,Ciarleglio,Madison,12815253,William Raveis Real Estate,3077671,Update
+e26b3217-7029-4d5c-976e-d772e730e36b,5067640,84669@LNF,AMY,ENDZEL,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+e2846522-b720-472e-b4bd-1deff950c5a5,5072649,JESSI.OLDS@ROG,Jessi,Olds,St. George  Ut,15804876,Realty ONE Group,1732426,Update
+e32cb426-f5d8-4bd9-9acb-076adc945b05,4945711,00U8IMP7MULOGNEF11T7,Timothy,Pettigrew,Fox Chapel,14076639,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e33e9d76-8b5a-4c31-9d7a-c22f84f5f19f,1614370,GLORIA.ASHDOWN@CBNORCAL.COM,Gloria,Ashdown,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e33ed7c6-a21b-428e-a782-af4c30b2cc6f,5044679,00U9J1TMPDFBDAXLP1T7,Maria,Maese,Tucson-Williams Centre,12167781,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e3cb7f20-72ad-4808-86c5-9cc34b472a6b,3047088,##_635_#00US73TZVBAYLZW0Y1T6,Ivy,Levinson,Glenview,14387544,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e4bda221-6f73-444f-ac31-b52641d42104,2515492,HEATHER.WILSON@RAVEIS.COM,Heather,Wilson,Osterville,12822162,William Raveis Real Estate,3077671,Update
+e514894a-b174-4c0c-badf-044d1ddd369c,5061217,00U9NZEF3MYFZWE7P1T7,Jason,Erbert,Southeast Metro (Dtc),14518815,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e55d3833-ef41-4127-8558-3d9c7cc7892f,4933778,00U8FWISRX1U90NP71T7,Andrew,Quesada,Fort Lee,14020380,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e593c24e-bfbf-4b97-87da-ebbabbca445e,3903981,00U4TFQY4YFKFHO731T7,Nancy,Adams,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e5a30114-4782-4d17-9066-66d462d39074,5068402,JULIE.NEIRA@ROG,Julie,Neira,Summerville  Sc,14977770,Realty ONE Group,1732426,Update
+e5a4a78d-1d05-4d05-b922-23e1c17c352e,3014734,##_606_#00US751XXQ8IIDQ2L1T6,James,DeGrazia,Highland Park,14388531,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e647d198-3cf8-42a2-bcd3-e2d85a1189a5,4936162,MDMYTERKO@KOENIGRUBLOFF.COM,Michael,Dmyterko,Oak Park,15736773,"HomeServices of Illinois, LLC",3233104,Update
+e64c5a86-7f96-4bf5-bda1-ed3366189569,3043532,00US7409F55ZAXXHC1T6,Jamie,Sacks,Union Heights,14544477,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e7590677-83f0-4a95-8d43-7094d0089fa7,3021815,##_493_#00UUNI95ID0F1A9I21T6,Jennifer,King,Navarre,14241468,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e78844c9-2e9c-416f-9bfb-b5c9faf81d8f,3575308,00U36KRTMK9LPIWKA1T7,Mark,East,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e791d0df-a389-4839-952b-bed3f9f8ecd0,1588193,ESTI.LITWAR-SHEEHY@CBZHOMES.COM,Esti,Litwar-sheehy,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e7d32a1e-5d7c-41d1-a975-13b221ee1d4e,1564357,WENDY.LIN@CBZHOMES.COM,Wendy,Lin,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e81be61d-e0ac-4cc1-bf01-42578930b17c,1537803,MYOST@CBNORCAL.COM,Margaret,Yost,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e8f99886-c322-44ee-99ab-b3d07c600754,3018675,00US78SQXKAY1I4PK1T6,Jimmy,Stewart,Ft. Collins,14525724,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e9a2fc36-8ec4-45d8-9908-771b89f745f2,3002429,##_604_#00US780U0RDZHRPCU1T6,Shawn,White,Lakewood / Ne Dallas,14487231,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ea762280-4e46-43c3-9298-233f4332f5ec,4662613,00U6VA5ONLW7ORKMR1T7,Inna,Ovcharenko,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+eb2c6bf3-bffc-4ee9-b6dd-5e132b554fff,5067576,84604@LNF,KATHRYN,HEATH,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+eb367116-fd89-46cd-87b3-5a35610788ce,1537072,RMACKEY@CBNORCAL.COM,Robert,Mackey,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+eb5d8103-dbe0-4a6a-a22a-1651bced02d0,3893355,EVAN.GOLEBIEWSKI@RAVEIS.COM,Evan,Golebiewski,Middletown,13066938,William Raveis Real Estate,3077671,Update
+eb6f3b1b-cb02-4f78-a268-7755c2495191,5019012,00U967GQKUCKXVRUJ1T7,Samantha,Zoller,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+eb8e5741-dce3-4971-8948-22fd249995b4,5070857,00U9QGHVXRTRJNV411T7,Kristin,Haadsma,Central/North Brevard,14231598,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ecc3040f-c5f1-42ac-8d2b-d611f9838114,1590117,##_754_#EVANEKSTRAND@HH.INC,Evan,Ekstrand,Mentor,9266001,Howard Hanna,1585672,Update
+eced7a56-faaa-42fc-a30c-d5371d071b85,1537359,ONOSHI@AOL.COM,Mamie,Onoshi,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ed3b3ad2-4b61-4245-8ab8-a039d1f6748e,5070892,00U9QUMKAG0DPSHCK1T7,Gregory,Annunziata,Chelmsford,13848642,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ed5d1f28-3c02-4c4a-a47c-0e2839e912c5,3032686,00US78T2DKSDLWLPS1T6,Anna,LoRe,Manhasset,13996692,Coldwell Banker Residential Brokerage NRT,3145525,Update
+eed658e5-4864-4860-9034-c5a273e431e3,3031289,00US75SRHHOJIWSMB1T6,Steven,Thomson,Fairfield,13942407,Coldwell Banker Residential Brokerage NRT,3145525,Update
+eee4ae60-9dbb-4b54-9cb2-d3c85dd0e2a0,3033763,00US7AR6VMSATQLEM1T6,Frances,McManus,Wyckoff / Franklin Lakes,14029263,Coldwell Banker Residential Brokerage NRT,3145525,Update
+eef2cf7f-ecd8-4097-9023-48ac46367fe3,5070910,00U9QUDZYACCINFLL1T7,Shabina,Bhagia,Heights,14604684,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ef120ca6-dc3c-4853-a87c-da7a041756dd,5070863,00U9QGZWYB8OAHDKH1T7,Rodney,Jackson,Metropolitan,14603697,Coldwell Banker Residential Brokerage NRT,3145525,Update
+efbbc14d-2b9a-4d0e-92cd-64eb1536d62f,3575252,##_10_#00U2C1U0Z7HHL9AAS1T7,Loranzia,Young,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+efe748c6-33e6-47f7-ad2f-4c5e0ae8455c,5062660,JOSEPHMCDONALD@MICHAELSAUNDERS.COM,Joey,McDonald,Michael Saunders & Company,15197871,Michael Saunders & Company,3212590,Update
+f0062f7e-94e0-4dff-be19-2001cfc6cb83,3034538,00US7ALISFQFMLIRO1T6,Lori,Dahl,Summit,14047029,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f06c3087-c603-4886-bf92-9c632ad279b3,3006503,##_566_#00US75UKFJJBL0K1W1T6,Adam and Lisa,Harrington,Crown Point,15229455,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f07e0317-1606-4cda-b3b2-693066d1884f,2692955,##_867_#AMANDA.HALL@ROG,Amanda,Hall,Tempe Office,13707501,Realty ONE Group,1732426,Update
+f086df2c-2d33-425e-a200-555c0443eed8,3107935,00U35KZZF5Q2P6WEO1T7,Lanfang,Li,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f1521ff5-e6b4-4995-80b4-7b28af996770,5061183,00U9NVVG7YSWLMYSF1T7,Gang,Pang,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f168c005-b0b4-4ccc-be85-542709883782,3021668,00UT7L0N0QQOCVCBF1T6,Michaela,Tripon,Hampton,14070717,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f192ca23-9882-4680-bae7-cddaf623b615,4692388,00U716B6OUSIDBOMQ1T7,Randall,Williams,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f1ce83ff-d4f6-4a7b-adbf-574bbf9b806e,3020220,00US7DO8I7A6MQV401T6,Julie,Panagakos,Weston,13829889,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f2d160f4-2ca6-4713-8ca2-a26543a79f1b,4758897,82841@LNF,Tonia,Jacobson,Reston,9745683,"Long & Foster Real Estate, Inc.",1259026,Update
+f33db082-a63f-4617-a923-17edfeada7e2,5069865,PATRICIAROY@HH.INC,Patricia,Roy,Penfield,13482465,Howard Hanna,1585672,Update
+f33deb90-2bbb-4379-9d19-cdc1c979f492,5013895,00U9410YU335GAMR91T7,Allison,Carrillo,Metropolitan,14603697,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f4174538-8662-43c9-b0f3-780762a0772c,4894151,00U8677651O2J16A91T7,Deana,Jebara,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f4237f11-ee09-4f0e-89a4-050183612973,5070828,00U9QDHFQ5KFSR6RM1T7,Stephanie,Klemkowski,White Marsh,14134872,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f443d22b-bd52-49d4-9c8c-6e17f786c9b3,3683956,00US7BCQJIQNTJQXB1T6,Patricia,Mcmullan,Pasadena,12186534,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f491c01f-a647-4ed1-ac36-1e8cdda273da,3012985,00US61BSAPKFMFHNT1T6,Janet,Parker,Arboretum,14626398,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f49bb679-e92f-4193-9fe9-d12b8402c6b1,4765851,RROYLE@INTEROREALESTATE.COM,Robin,Royle,Los Gatos,15259065,Intero Real Estate,3220480,Update
+f4ae59c2-699e-4240-ad44-a81b92c04f68,5067617,84646@LNF,JESSIE,TUVESON,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+f4c69415-ca13-4bef-99c3-733d16189003,5027347,00U9BV7WK83IJORGQ1T7,Jazzy,Singh,Marysville,14319441,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f4e7846a-4c03-4765-80c9-1a30489ce93b,3107620,00U2ZRVR4BHLXMEBZ1T7,Lori,St Clair,Porter County,14409258,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f559533b-fd5d-4c61-b465-7874ce4c63b9,4846854,00U7W2H76X75JORWN1T7,Yvelaine,Travelstead,Plano,14503023,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f620e7e0-2757-401c-a390-b66863390c48,5070306,JAQUELINE.POLLITT@ROG,Jaqueline,Pollitt,Spring  Tx,15181092,Realty ONE Group,1732426,Update
+f68cee38-cbf4-4139-8d95-3bd487072418,4600210,00U6K4YL9S4AS1DC51T7,Lindsay,Gaudioso,Newtown,13954251,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f757c2c6-241b-45f8-8793-15bb2dd75918,5000058,00U8ZGBS5VNDMYOIU1T7,RICHARD,ANDERSON,Huntington Beach,14896836,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f797fabf-e1be-4bf5-93a0-a488bc0d8cd3,2689452,MARCIA.JARRETT@ROG,Marcia,Jarrett,Las Vegas  Nv,13748955,Realty ONE Group,1732426,Update
+f7f8e6b1-7099-4b3f-b0bc-3586adaca380,5025578,##_823_#00US74DN9RQVH51ZW1T6,Brandon,Peoples,Northwest Regional,14314506,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f8831ded-2157-4cad-a5c6-1ae5f7d3200d,3575269,##_499_#00U2OFD3QZPSZHVPW1T7,Natalia,Movchan,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f8c3e827-cf89-4cb1-9927-1646693d9196,4892718,ROBERT@INTEROGETTY.COM,Robert,Milward,Sacramento - Intero Getty,15453504,Intero Real Estate,3220480,Update
+f8cb9c6f-d4f3-411a-af6c-3e0e83f2acbc,2160229,##_905_#PAULSMYLIE@HH.INC,Paul,Smylie,Willoughby,9274884,Howard Hanna,1585672,Update
+f99265f9-f324-4186-8700-55986b7f39b1,1487831,##_349_#JEFFBENSON@HH.INC,Jeff,Benson,Avon,9306468,Howard Hanna,1585672,Update
+f9c80e58-6b8f-4a98-87a3-cf372defe5ef,3575250,##_991_#00U2BMOSW1S8RHJCJ1T7,Alberto,Duenes,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f9d8bba9-ef79-4b78-b4bd-ba821972e4e9,3684458,##_108_#00U2OTC88V5WJ9ILM1T7,Osheen,Haghnazarian,Glendale,12107574,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fa0c76ce-bf7f-4eb1-8351-bdd6c70f22f9,1560513,ELVIS.ZENG@CBNORCAL.COM,Elvis,Zeng,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fa343264-a398-402c-b126-0eb2795e54b1,3002509,00UXZHJV08A7JCW3H1T6,Laura,Trundle,Belleair,14283909,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fa627cca-b503-4233-a97b-f507ac1e7a58,4515344,00U64FXJTLHVSSQT81T7,Erica,Pransky,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fa934491-6e7c-49b5-b372-35218fb63e94,5065820,ROXANE.MELLOR@RAVEIS.COM,Roxane,Mellor,Cohasset,12784656,William Raveis Real Estate,3077671,Update
+fa9b3d0e-0747-4beb-adbc-6e0dc67e39c0,3042487,00US75GD9XRHIGZH01T6,Rosie,Gonzalez,La Grange,14379648,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fac26212-26d0-4380-bd36-208178a7d4e3,3020503,##_471_#00US74RIETZUXPIGE1T6,Filip,Anderson,Union Heights,14544477,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fad1d347-3a11-400c-acc2-3c5267f0056e,1569305,BROMANI@COLDWELLBANKER.COM,Bianca,Romani,San Diego / Mission Valley,12134223,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fae36764-7fe9-4d06-9689-d937a5019b7b,4816920,00U7QV9H6WFMDJBZV1T7,DaMar,Smith,Hoboken,14022354,Coldwell Banker Residential Brokerage NRT,3145525,Update
+faf0de46-70d6-4c74-b687-0ad3eee42113,5070875,00U9QS6FKHQPARLIH1T7,Kelvin,Tamarit,Orlando,14225676,Coldwell Banker Residential Brokerage NRT,3145525,Update
+faf65fec-8b07-4065-98a6-959fdca18efc,3735151,JOE@SERENOGROUP.COM,Joe,Pollifrone,Willow Glen,14756682,Sereno Group,3199966,Update
+faf6c663-4256-4953-8394-7e4ccc5f973c,3756401,00US7AG0HGCVFHZCJ1T6,James,Keane,Crocus Hill,14433933,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fb16b73b-fd87-47d9-b679-72f174065ded,1552944,LAURA.ROBERTSON@CBZHOMES.COM,Laura,Robertson,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fc18f825-c9a3-4a73-a4b8-b043da867273,3017158,00US7AWLUF0YBS84H1T6,Elliott,Banen,Wyckoff / Franklin Lakes,14029263,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fc253cc5-463f-4855-98e0-871f7a979806,5055616,DEREK.NICODEMNS@ROG,Derek,Nicodemns,Carlsbad  Ca,13711449,Realty ONE Group,1732426,Update
+fccffcac-bdd9-4815-82ff-4001431d09ee,1498681,##_205_#62603@LNF,Lisa,Dahlke,Fredericksburg,9755553,"Long & Foster Real Estate, Inc.",1259026,Update
+fcdf04c3-2952-4d96-8605-6442cb9f9897,4720871,00U7884HLIV22XZS51T7,Shane,Rishell,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fcf14865-6fc1-4d6b-9c55-1f8085a5e9c8,4526574,00U65XFB9CGQEQRWC1T7,Peter,Wilderotter,Maplewood,14040120,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fd3712ca-de89-44e0-9c32-d2945faab133,5061154,00U9N5UYEBKVTEDCU1T7,Gregory,Conway,Suffield,13938459,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fd550a74-3fad-4314-9936-325799c06535,1556161,##_413_#CHRISTINAKENNEDY@HH.INC,Christina,Kennedy,East Suburban,9174210,Howard Hanna,1585672,Update
+fd604c4a-e62a-4835-8ffe-cc393612bcab,5019117,JOANNE.STEPHENSON@RAVEIS.COM,Joanne,Stephenson,Plymouth,12824136,William Raveis Real Estate,3077671,Update
+fd8f903d-c842-414d-90c2-47f4d6e096f3,5070922,00U9QWFKSOJKYYMWU1T7,Elena,Quinonez,Naples 5th Avenue,14280948,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fdbdc18a-9c7c-4623-99c5-8a6a0f600032,2486903,##_10_#TONY.NORTON@RAVEIS.COM,Tony,Norton,Boston - South Boston,12775773,William Raveis Real Estate,3077671,Update
+fe87dc2b-8dec-419a-a55a-7ec221648eee,3689650,##_10_#ANNAML,Anna,Lacy,Paso Robles,14761617,Windermere Solutions LLC,1234567,Update
+feb6a198-ec7f-4e07-940a-b3f1b201d970,4789900,00U7OB5O3MRRH7XGU1T7,Trina,Berry,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fec93b46-54db-4b14-979f-8972733bb3a2,5070028,MASON.OXENDALE@ROG,Mason,Oxendale,Glendale Office,13699605,Realty ONE Group,1732426,Update
+fecfe2ac-568d-4990-810d-cfb4257828aa,4768101,##_533_#00U7DPWRCI7BG8YUB1T7,Nicole,Crane,South Windsor,13934511,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ff32586f-4c4e-4694-a09c-d0fe6d3fef9f,1537119,JULIA.BRITTNER@CBNORCAL.COM,Julia,Brittner,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ff6a970b-8859-4c0e-96b2-35cfe91da08c,5064206,00U9OTJUBAEZR9PAR1T7,Darin,Barker,San Diego / Mission Valley,12134223,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ff9f82ab-f500-40ad-bedf-f9ade649eb59,5034042,CASEY.JONES@ROG,Casey,Jones,St. George  Ut,15804876,Realty ONE Group,1732426,Update
+ffc3f822-75d9-494b-8dc1-72df80646208,4940131,YJAKOVLESKI@INTERO.COM,Yvonne,Jakovleski,Walnut Creek - Tice Valley,15470283,Intero Real Estate,3220480,Update
+fff717b0-4dca-419e-8788-dcedde7c4e15,4445619,LEANNE@JBGOODWIN.COM,Leanne,Williams,San Antonio,14983692,JB Goodwin Realtors,3203122,Update

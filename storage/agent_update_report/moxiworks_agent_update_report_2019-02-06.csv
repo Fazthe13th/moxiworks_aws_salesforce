@@ -1,0 +1,639 @@
+agent_uuid,userid,agent_username,firstname,lastname,officename_display,officepublickey,company_legalname,companypublickey,Status
+004c4850-8e1d-4431-9eb3-9844f9e3dc6c,3033089,00US762JKDAMYBRE41T6,Hilde Wheeler,Carter,Winnetka,14392479,Coldwell Banker Residential Brokerage NRT,3145525,Update
+004ddae6-a1da-4e80-ab83-9714400da511,5050942,84477@LNF,Donna,Yoon,Falls Church/Arlington,9798981,"Long & Foster Real Estate, Inc.",1259026,Update
+0076b372-ea91-44b2-99da-cf1731c1cf62,4815442,SWAHEZI@INTERO.COM,Sayed,Wahezi,Union City,15467322,Intero Real Estate,3220480,Update
+008c9eb5-389a-4491-8877-97718cc905ad,3011839,00US7BF3AF7VPTVCW1T6,Bryan,Poisson,Marblehead,13853577,Coldwell Banker Residential Brokerage NRT,3145525,Update
+01267485-08f1-458e-8c77-e5da4f3b40b1,5067519,84547@LNF,KENDAL,COHEN,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+014c550c-03b2-4ef9-8bd5-eab421114c93,3579067,CHARROSENBAUM@HH.INC,Char,Rosenbaum,Birmingham South,14783331,Howard Hanna,1585672,Update
+01e56ae2-24ff-41c9-8aef-eb272f75f170,4485796,##_647_#KIMBERLYSCHUMACHER@MICHAELSAUNDERS.COM,Kimberly,Schumacher,Michael Saunders & Company,15200832,Michael Saunders & Company,3212590,Update
+0275260c-4b3f-4a13-84a8-5051804f0dc2,5032269,MIMIRODRIGUEZ@HH.INC,Mimi Rodriguez,Rodriguez-Diaz,South Hills,9216651,Howard Hanna,1585672,Update
+044c05be-6669-4949-99e8-67e000ccfe4a,1488703,NORMAARCHER@HH.INC,Norma,Archer,"Warren - Daley Real Estate, Inc.",9365688,Howard Hanna,1585672,Update
+04d88cc7-b91e-44a2-88e9-67c4823c37b9,5070894,00U9QTLVUHNAUAY5K1T7,Li,Song,Pleasanton,11680203,Coldwell Banker Residential Brokerage NRT,3145525,Update
+061954d8-37b5-4f03-b18b-098753557672,2671143,MARTIMCCLOUD@SEVENGABLES.COM,Marti,McCloud,Seacliff,15216624,Seven Gables Real Estate,1612498,Update
+0624d9ee-56ec-4424-be67-7d50043aaae8,5070923,00U9QWKCEQH4CJYZY1T7,Jasmine,Heghinian,Boston - Beacon Hill,13815084,Coldwell Banker Residential Brokerage NRT,3145525,Update
+06271f3d-e384-41d6-a416-22afc24185d8,4485060,PAULAKEEGAN-BOCK@MICHAELSAUNDERS.COM,Paula,Keegan-Bock,Michael Saunders & Company,15191949,Michael Saunders & Company,3212590,Update
+0640f23f-cbd5-4901-8897-0da4e7bff10e,4006376,##_10_#FURSTS,Steven,Furst,Lake Oswego - 220 A Avenue,7967109,Windermere Solutions LLC,1234567,Update
+06478885-468d-4364-bef8-89d22c41490d,4256657,TYRONE.BOWERS@ROG,Tyrone,Bowers,Las Vegas  Nv,13748955,Realty ONE Group,1732426,Update
+06c4b5c5-02c1-45b4-89cd-dadf991c65e9,5057849,RTOURGEE@KINLINGROVER.COM,Rick,Tourgee,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+06e6b007-a4c9-4490-8bb4-be23e2278a42,5067552,84580@LNF,RODNEY,BLISS,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+0720073a-0c0a-4aae-841b-2b7ccb340f0c,5067560,84588@LNF,DARLENE,DECAPITE,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+07967ddb-6b2b-4514-9f70-39abc395e113,1038581,##_10_#DANSCOTT,Dan,Scott,Lake Oswego - 220 A Avenue,7967109,Windermere Solutions LLC,1234567,Update
+0799596d-141f-48c8-bebb-3702bb470956,5061732,MEHDI.MIZANI@ROG,Mehdi,Mizani,Sacramento  Ca,13733163,Realty ONE Group,1732426,Update
+07dd5ba2-02ad-4358-a02b-2e96ab43320f,3010578,00US76RS4DWULBFVO1T6,Grace,DiPalermo,Rye,13978926,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0971160c-c27d-4e65-b61e-fddc9838555a,1499523,66835@LNF,Jackie,Adorno,Media,9877941,"Long & Foster Real Estate, Inc.",1259026,Update
+0a992970-20a2-4d84-9606-8691252b0d69,2515517,DAN.NESKE@RAVEIS.COM,Daniel,Neske,Yarmouth Port,12890265,William Raveis Real Estate,3077671,Update
+0abaa5f1-2357-4466-a192-01949acdc03e,2753278,MARYKAYAMERING@HH.INC,Mary Kay,Amering,Spencerport,13474569,Howard Hanna,1585672,Update
+0ac00526-fe09-489f-b194-3fc1ce3d7ce0,1603288,RHARGRAVE@FM,Ricky,Hargrave,Chapel Hill Sales Office,12900135,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+0b5a5b0a-9e60-49d1-9ebf-a3921f190041,5065955,NMURPHY@KINLINGROVER.COM,Nicholas,Murphy,Boston,15808824,Randall Family of Companies,2944330,Update
+0bbf6499-607f-493d-90c8-1a1186505858,1486831,KENNETHWILLIAMS@HH.INC,Kenneth,Williams,Strongsville,9334104,Howard Hanna,1585672,Update
+0c3a2b62-59e6-4746-b1f6-aba080cf92c3,5054670,KATHIE.BURAS@CL,Kathie,Buras,Hot Springs,13572282,Crye-Leike Real Estate Services,3140002,Update
+0c6e2c43-6450-4f4d-9fe7-8a5ad548f402,5049492,DEBBIEREGAN@KINLINGROVER.COM,Debbie A,Regan,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+0cd8c4a4-dc34-4c0e-b2cc-d52e8621a620,3007318,00U1XJQOQR7S1GWBU1T7,Michelle,Algueseva Nelson,Ft. Collins,14525724,Coldwell Banker Residential Brokerage NRT,3145525,Update
+0d3e1933-fc5e-49c6-8511-7900f8def32c,5057795,ANNPITTS@HH.INC,Ann,Pitts,Currituck,9918408,Howard Hanna,1585672,Update
+0d8dbe1d-2f13-4e6e-83aa-628a2fea9d86,4971273,CHRISTINA@VILLAGESITE.COM,Christina,Rose,Montecito,15655839,Village Properties,2474086,Update
+0da818c0-ea9a-4a97-a4bb-8c3af9b5fe60,2697346,##_235_#VLADIMIR.JUAREZ@ROG,Vladimir,Juarez,El Paso  Tx,13768695,Realty ONE Group,1732426,Update
+0dacdee2-c2a2-4f5e-862b-698b1e11fd42,4971316,AARON@VILLAGESITE.COM,Aaron,Gilles,Santa Barbara,15656826,Village Properties,2474086,Update
+0dc65788-a6d5-477f-90fc-b4e4b4984c7e,4634065,##_313_#MILLIECUMMINGS@HH.INC,Mildred,Cummings,1st Priority Mortgage,15330129,Howard Hanna,1585672,Update
+0dcfe202-f2c8-4cee-be26-1ee37dade94e,1497506,52571@LNF,Janice,Clark,Burke/Fairfax Station/Clifton,9744696,"Long & Foster Real Estate, Inc.",1259026,Update
+0f444c83-7fbc-4185-9fe2-36a26cfd0c95,5065942,BGRADY@KINLINGROVER.COM,Brianne,Grady,Boston,15808824,Randall Family of Companies,2944330,Update
+0fde1dc7-f050-46ec-9631-5dd86aa98e14,4894716,##_171_#PATRICK.QUINN@CL,Patrick,Quinn,Springdale,13640385,Crye-Leike Real Estate Services,3140002,Update
+0ff257a6-c3d3-47b7-9dfc-33dea64523da,5049357,AWHITESIDE@KINLINGROVER.COM,Amy,Whiteside,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+10027d9e-039a-4b74-98d7-7ff4e2c5be8e,1490494,##_10_#BILLEBERT,Bill,Ebert,Redmond,8294793,Windermere Solutions LLC,1234567,Update
+102e7afe-9207-4d76-b3a8-3beb3e0b476d,5057805,WSALAS@KINLINGROVER.COM,William,Salas,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+10390a51-57e0-48a0-9f47-bd2cdc269774,3556981,##_859_#NICOLECANNAROZZO@HH.INC,Nicole,Cannarozzo,Amherst,13491348,Howard Hanna,1585672,Update
+10f29544-5139-4429-ab4f-19e11bcf29b7,4310121,##_289_#81986@LNF,Harman,Aujla,Village Of Midlothian,9851292,"Long & Foster Real Estate, Inc.",1259026,Update
+111d1571-d6a1-4c72-9886-56545a489aee,5049366,CYOUNG@KINLINGROVER.COM,Christine M,Young,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+113ffca6-c3e9-40f0-be64-aa8b3a59f1b1,4276197,00U4EXXRXG6HIBHOQ1T7,Ronnie,Cope,Los Gatos,11716722,Coldwell Banker Residential Brokerage NRT,3145525,Update
+118c5acd-6e9f-4fc4-8085-207a2a94217e,3021881,00UV6GL96JOJKRPMH1T6,Cathy,Cocolas,Mount Pleasant,14646138,Coldwell Banker Residential Brokerage NRT,3145525,Update
+11b09cab-83f3-459b-ad53-04986dcc6399,5049426,JKANE@KINLINGROVER.COM,Jennifer,Kane,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+1212f99e-0056-4b79-a695-ca9d8c977c5f,5067488,84516@LNF,PAM,DEVLIN,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+12746abb-34d1-4543-a532-432372b7d73e,5067568,84596@LNF,VINCE,SARRO,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+127a4765-37a9-4ec0-b5c0-377215f0bb54,4829473,##_10_#SUEBRODSKY,Sue,Brodsky,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+1287c004-ceff-4b4a-99a1-315baad07902,5048790,84448@LNF,Dianna,Bentley,Alex/Oldtown Historicdistrict,9746670,"Long & Foster Real Estate, Inc.",1259026,Update
+1368ff2d-6276-44f9-bc06-2d31991497a8,4829622,##_10_#NICKVROLYK,Nick,Vrolyk,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+13a34bb2-b47f-45dd-adfa-c06e92443bdb,5062761,DORENE.ROMO@ROG,Dorene,Romo,Goodyear  Az,13700592,Realty ONE Group,1732426,Update
+13aeaddb-5bd4-4996-97ff-ce067479e682,4998332,PSPROUSE@FM,Patrick,Sprouse,Inside The Beltline Office,12916914,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+146204af-41d6-48a2-a953-bcd2cdc18644,5066534,00U9PDKAVMOVAOGR91T7,Kathy,Mower,Cape Elizabeth,13895031,Coldwell Banker Residential Brokerage NRT,3145525,Update
+16da2157-2f11-4d60-b2f5-f77926bd2b0c,5049631,ROLSON@KINLINGROVER.COM,Ruth,Olson,Marion - East,15812772,Randall Family of Companies,2944330,Update
+16f733ea-12f1-46e7-907b-3afede3397c9,3734979,JUSTIN@SERENOGROUP.COM,Justin,DeSantis,Los Gatos Office,14750760,Sereno Group,3199966,Update
+17243378-aa24-40f9-9eff-7890113e7606,5002786,BPORCHEA@FM,Bianca,Porchea,Preston Sales Office,12914940,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+172c6cab-190e-4ff6-9257-9e4998b10368,3016697,00US7C43F6BVMVNRX1T6,Linda,Pritchard,Chester,14037159,Coldwell Banker Residential Brokerage NRT,3145525,Update
+17a86c51-223c-474b-8613-463743a8918d,5070026,NICHOLE.DOUGHERTY@ROG,Nichole,Dougherty,Vernal  Ut,15170235,Realty ONE Group,1732426,Update
+17b6d205-7d59-4042-9b3b-db95b545d943,2752592,JOHNSCHMELZINGER@HH.INC,John,Schmelzinger,Lancaster,13295922,Howard Hanna,1585672,Update
+182ef0fe-fe06-4505-8837-8600d0952c98,4788206,LMORIN@INTERO.COM,Lana,Morin Pierce,Burlingame,15265974,Intero Real Estate,3220480,Update
+183a6069-6534-4c72-8440-9bb30fcd9b00,3035685,00US73C4AF4C2WAA11T6,Bob,Weibrecht,Fenton,14465517,Coldwell Banker Residential Brokerage NRT,3145525,Update
+186c6c19-4acd-4033-b3bf-fbdf1d8b57ff,5068183,00U9PO6LXOQ4D78AE1T7,Joely,Fabritsis,Cy-Fair,14615541,Coldwell Banker Residential Brokerage NRT,3145525,Update
+18ac15b7-177d-4bf4-a27c-b431302a1494,5049489,BONNIEONEILL@KINLINGROVER.COM,Bonnie V,O'Neill,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+1939c126-c00e-43c8-8ceb-c55b3a731418,5070880,00U9QS604N9PKJCQF1T7,Anthony,Escribens,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+193cbecd-1fff-49f2-8411-b64d8987dd22,4841262,00U7UYHUO80FA5OCQ1T7,Fred,Mees,Tucson-Foothills,12163833,Coldwell Banker Residential Brokerage NRT,3145525,Update
+199c725e-d7fa-4cdc-b0a7-e51f3eb167e9,5049487,SMELE@KINLINGROVER.COM,Susie,Mele,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+1a5bcca4-c0a5-4b6c-932d-75674fc1b58f,5067502,84530@LNF,CHRISTINE,JOYCE,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+1a6ab169-a896-41cb-9926-ad95b6161f1d,5019047,00U9690IY7ZWRBSJL1T7,Michael,Seidel,Timonium,14132898,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1b5ca114-918f-477f-90dc-b7ff50967741,5070867,00U9QHHFQ8D0X7NZH1T7,Nina,Gabriel,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1b6dbc68-98cb-4cd7-8cce-33f0db1c4821,2422972,JLEE@PACUNION.COM,Jessica Chungtang,Lee,Compass | 1699 Van Ness,13101483,Compass,1412092,Update
+1bdb9c30-a356-48b0-9e3a-c1d485608634,2753983,##_974_#LORIMAJCZAKIRVING@HH.INC,Lori,Majczak-Irving,Accounting,13425219,Howard Hanna,1585672,Update
+1be3a4c3-9408-46ca-bfe6-9876b20ef7fa,2528145,DFLYR@PACUNION.COM,Diane R,Flyr,St. Helena,13192287,Compass,1412092,Update
+1c128ba7-be11-4bdc-bf2c-e6a8becb82b2,5055436,JMH@KINLINGROVER.COM,Janine M,Hostetter,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+1c45ad1e-d8fb-42ad-92d5-8631949d9c7c,5067661,84691@LNF,TINA,CADDEN JENKINS,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+1c77c379-6d55-4673-a0b3-dd6db9ccb305,4971376,SARAHG@VILLAGESITE.COM,Sarah,Greenwald,Santa Ynez,15657813,Village Properties,2474086,Update
+1d038990-c54b-45e4-91de-020ba4bb8a70,5049395,DBOYNTON@KINLINGROVER.COM,Dawn,Boynton,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+1d131424-be1b-4748-bfed-d33fb57e1632,5049346,RLONSTEIN@KINLINGROVER.COM,Richard J,Lonstein,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+1dff013d-0499-4959-b3ef-8756e8758512,5067541,84569@LNF,RUTH,HOSGOOD,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+1e8a85b6-ae0c-44a6-bdff-059336902151,4783440,LSHAFFER@INTERO.COM,Lynn,Shaffer,Hollister,15256104,Intero Real Estate,3220480,Update
+1ea73cc1-de03-41f5-a938-d49398ac16de,5049472,MGALLANT@KINLINGROVER.COM,Melinda,Gallant,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+1fd1abd5-e822-499c-a937-0bf86d2b5f12,1540145,CRISTI.DUNNE@CBNORCAL.COM,Van Dahlen,Dunne Real Estate Group,Morgan Hill,11674281,Coldwell Banker Residential Brokerage NRT,3145525,Update
+1feff22b-234a-46f7-b8ec-ec16d6962712,1497029,48472@LNF,Solomon,Ndimbalan,Rockville/King Farm,9793059,"Long & Foster Real Estate, Inc.",1259026,Update
+20862578-c316-4c5a-8ac5-eec25810a4c7,5047210,MORGANSKROBACZ@HH.INC,Morgan,Skrobacz,Greensburg,9179145,Howard Hanna,1585672,Update
+20d1b776-323b-4fd6-960f-b6f47ae5a8bc,2753283,TYRONEKELLYJR@HH.INC,Tyrone,Kelly Jr.,Spencerport,13474569,Howard Hanna,1585672,Update
+211f0172-b7de-4202-92ca-152f878f2a4e,1537460,REBECCA@VANDAHLENS.COM,Van Dahlen Dunne,Real Estate Group,Morgan Hill,11674281,Coldwell Banker Residential Brokerage NRT,3145525,Update
+21ccfc13-1cd9-496e-820b-b20e090b1e03,5001643,ALIZABETHSTEUDLER@HH.INC,Alizabeth,Steudler,Erie Southwest,9205794,Howard Hanna,1585672,Update
+22a39079-f93e-4118-b293-5c51229e26b6,1531878,NATALIEBARNUM@HH.INC,Natalie,Barnum,Great Neck,9922356,Howard Hanna,1585672,Update
+233b133f-d81d-42c8-9b59-105cbf1f1493,4597801,00U6JVN2DMUV3TQ591T7,Carolyn,Augur & Co.,Orange Post Rd,13957212,Coldwell Banker Residential Brokerage NRT,3145525,Update
+23bc9f82-a3f6-4906-b017-1ddea52a4013,4885778,TSTIGERS@ASCENTREALESTATE.COM,Tim,Stigers,Bankers Hill,15643995,Ascent Real Estate,3237049,Update
+23c090f7-17c6-4ab1-9e6c-2f5c709655d2,1603546,IDEZWAAN@FM,Irene,DeZwaan,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+2479c8fd-0ab0-4f73-b286-98baffa28328,5068200,00U9PRHPB4P5XRNVD1T7,Ann Marie,Dimitroff,North Hills,14075652,Coldwell Banker Residential Brokerage NRT,3145525,Update
+24e80904-1865-4137-bc3e-53541f07c8c9,4928538,JTOPPING@INTERO.COM,Julia,Topping,Santa Cruz Harbor,15464361,Intero Real Estate,3220480,Update
+24f12386-67ef-4f0a-a1a0-d12fdfcc8f94,5066743,ROLANDOSALAZAR,Rolando,Salazar,Escondido,12662268,Windermere Solutions LLC,1234567,Update
+24f9ec54-0805-441e-b618-54195b1a5e4d,5049480,BMALCOLM@KINLINGROVER.COM,Robert E,Malcolm,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+25330c8f-a1c8-46fc-a49f-534413bfa9f4,4889945,KERI.JONES@ROG,Keri,Jones,Winston-Salem  Nc,15109041,Realty ONE Group,1732426,Update
+2550e825-a4cb-44ab-b539-ff9c33df1217,4997738,JOSH.MAY@CL,Josh,May,"Smyrna, Ga",13523919,Crye-Leike Real Estate Services,3140002,Update
+25f2b327-8ad6-4914-9fca-b1f474028180,3040243,00US7846BEVNDAQAV1T6,Carol,Cangiano,Orange Post Rd,13957212,Coldwell Banker Residential Brokerage NRT,3145525,Update
+26183e95-87d9-437a-b522-965ed6365c36,5064205,00U9OT2636YGRY77G1T7,Jeanne,Rhodes,Wall Township,14064795,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2647132f-8711-4ce8-9fe2-3923c3ab451c,2430263,WAYNE.TUCKER@RANDREALTY.COM,Wayne,Tucker,Pearl River,13016601,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+2653d101-f49c-42ad-ad68-3ed54864fb38,2696759,HUSHAI.GREEN@ROG,Hushai,Green,San Bernardino  Ca,13734150,Realty ONE Group,1732426,Update
+26aa9f15-8431-404b-8364-d021376fbac5,5054376,IBRANCHOUT@INTEROWESTAVE.COM,Monica,Branch,Houston,15436725,Intero Real Estate,3220480,Update
+26f93e1f-d749-453f-a9e9-3fc33cc21dee,3844293,RANDALLBARTON@HH.INC,Randall,Barton,Spencerport,13474569,Howard Hanna,1585672,Update
+2732f858-7617-483d-bc6e-534229efb19c,5049630,CCALLAHAN@KINLINGROVER.COM,Cecile C,Callahan,Marion - East,15812772,Randall Family of Companies,2944330,Update
+27915998-52bd-4e05-9b97-077a931db113,4976700,CHRIS.COE@CL,Chris,Coe,Cleveland,13529841,Crye-Leike Real Estate Services,3140002,Update
+27c402df-df92-460f-818c-24fae66c7f7d,5057837,BJACKETT@KINLINGROVER.COM,Braunwyn,Jackett,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+27e191be-7a53-474d-a5c4-eaf7f91b2b52,5065930,DEDMONDSON@KINLINGROVER.COM,Rebecca,Edmondson,Boston,15808824,Randall Family of Companies,2944330,Update
+2805ccae-6bdd-4372-82d1-fde20717dd1b,1532225,DWIGHTP@HH.INC,Dwight,Pinkett,Williamsburg,9931239,Howard Hanna,1585672,Update
+28e96364-f063-4295-b330-dedc91e6bbdb,3011533,00US745YUX5ID7WZF1T6,Megann,Lindemann,Des Peres / Kirkwood,14464530,Coldwell Banker Residential Brokerage NRT,3145525,Update
+298f970b-cd40-4388-9e9f-5a58bf8f5dbc,5020985,SKIPPUCKETT,Skip,Puckett,Park City,8151678,Windermere Solutions LLC,1234567,Update
+29b92c18-45c0-43a3-a127-281f87b48878,1537978,##_10_#DEECONDE,Dee,Conde,Pasadena Granite,9710151,Deasy Penner Podley,1416826,Update
+2a7ac268-a5b4-4d6a-8253-ce82b256f77d,5067547,84575@LNF,MAUREEN,LIND,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+2a959503-0d98-4766-ab12-ce6869d14ddb,5048791,84449@LNF,Alison,O'Grady,Leesburg,9770358,"Long & Foster Real Estate, Inc.",1259026,Update
+2ab84516-33e2-4489-92aa-5f85da3d8e9f,3406331,##_157_#DANIEL.PARKER1@ROG,Daniel,Parker,Mission Valley Office,13724280,Realty ONE Group,1732426,Update
+2ae9dfff-dcf2-42b8-83a0-883d6cd70063,5043640,00U9I6YCJOOYLFBWH1T7,Branton,Stanley,Provo/Orem,14546451,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2b194873-f9a1-497b-b7fb-20be7a118512,4983151,BRITTANY.LECLAIR@RAVEIS.COM,Brittany,LeClair,Fairfield/Southport,13067925,William Raveis Real Estate,3077671,Update
+2bb80ac4-8030-46dc-8cab-bc03ced63d04,2697042,##_580_#MAHMOOD.AHMAD@ROG,Mahmood,Ahmad,Corona  Ca,13714410,Realty ONE Group,1732426,Update
+2c1024cb-c255-48cd-a840-5f559342c527,2070478,RPENG@FM,Roxanna,Peng,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+2c7756e6-0054-4cb3-9150-52c223039b6b,4985232,JOHN.ROBERTSON@CL,John,Robertson,Maryville - Crye*Leike Delozier Realty,13546620,Crye-Leike Real Estate Services,3140002,Update
+2cb5b3a2-3701-4647-ac45-47f078b8a636,5049446,SMCCRACKEN@KINLINGROVER.COM,Scott,McCracken,East Dennis,15810798,Randall Family of Companies,2944330,Update
+2ccbb82c-5c24-44da-84f3-b37941e522f6,1563906,##_785_#78417@LNF,Sami,Linberg,"Blue Bell, Pa",9872019,"Long & Foster Real Estate, Inc.",1259026,Update
+2cd31d24-4397-493c-986d-3d2056c69fa5,4829478,PAULBURROWES,Paul,Burrowes,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+2d44b91e-a226-47e5-96e7-f9d66a5a8e75,5047109,00U9JVLWD4O8WP5SP1T7,Shayne,Singer,Metropolitan,14603697,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2d785063-43d2-45ea-92b9-ce8f7baa572a,2113186,LIBBYREMACHE@HH.INC,Libby,Remache,Erie East,9203820,Howard Hanna,1585672,Update
+2e3472a0-cbe4-4055-8277-98f68f94e326,3025677,00U1QGBJO8ZCZVJ4P1T7,Valerie,Smith,400 North/Lake Lanier,14184222,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2e6b7b4d-de90-45fb-af6a-84123a0e09d8,2452734,ERICA.OLSON@ROG,Erica,Olson,Ventura  Ca,13738098,Realty ONE Group,1732426,Update
+2ea0a78b-de0e-4d9e-a031-442ab646a529,2627247,##_295_#ANDREAMOORE@HH.INC,Andrea,Moore,Murrysville,9178158,Howard Hanna,1585672,Update
+2ed384dd-6c5f-4c1a-b2b3-c142603ea7e4,4961814,83375@LNF,Krista,Park,Grove,9847344,"Long & Foster Real Estate, Inc.",1259026,Update
+2f42195d-e705-4463-b744-4de000326a05,1603342,NJOHNSON@FM,Nancy,Johnson,Durham Sales Office,12901122,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+2f56ebe6-7daf-49fe-9008-dfebba253db8,1537291,KARIN.RILEY@CBNORCAL.COM,Karin,Riley,Menlo Park El Camino,11723631,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2fb8b680-a107-48f3-b0dd-d628f3999376,4638197,00U6R5P254OFEYWE51T7,Melissa,Diaz,Kapolei Commons,14570139,Coldwell Banker Residential Brokerage NRT,3145525,Update
+2fc7e0d3-3403-4f2f-ad25-2faeb63f6f60,5066055,GAYE.STEPHENS@ROG,Gaye,Stephens,Temecula  Ca,13795344,Realty ONE Group,1732426,Update
+3067aa95-0c61-49f8-952a-cfaac1b6ab47,5055431,PGROVER@KINLINGROVER.COM,Paul,Grover,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+310b07dc-bb9b-4a15-8e07-f304e195c887,5005869,AGENT.EDWENCE.GEORGES@GMAIL.COM,Edwence,Georges,Re/Max Select Of Westfield,15724929,RE/Max Select,3241783,Update
+31699b96-476c-4d6c-88ea-c2ae67ff943f,1514422,JOSIE@WILLISALLEN.COM,Josie,Rosales,Metro,15802902,Willis Allen Real Estate,1621177,Update
+33647616-a9e4-4699-a3eb-f42d57578dac,5065927,MBOHLIN@KINLINGROVER.COM,Martha,Bohlin,Boston,15808824,Randall Family of Companies,2944330,Update
+33edde95-36f8-4e4a-b0ed-dbc07596b525,2753301,JOHNCIANCIOTTO@HH.INC,John,Cianciotto,Spencerport,13474569,Howard Hanna,1585672,Update
+344e3e70-e155-41b1-a93d-dbb8ff0d1b45,5066572,00U9PIPOOTJA2ES3F1T7,Robert,Brandon,Laguna Niguel,12103626,Coldwell Banker Residential Brokerage NRT,3145525,Update
+34d3ee7d-88ed-4fb2-88e3-a58b37d301b9,1505513,33186@LNF,Anita,DErmes,Mclean,9751605,"Long & Foster Real Estate, Inc.",1259026,Update
+34e89af5-6531-4460-9bb0-f95f9880cf3d,5069155,00U9PZLD97PMUPSFY1T7,Brooke,Walch,St. Louis,14479335,Coldwell Banker Residential Brokerage NRT,3145525,Update
+34f001af-c6d5-48ff-85c4-c9a69ed7d51d,3735014,##_10_#SHANNE@SERENOGROUP.COM,Shanne,Carvalho,Los Gatos Office,14750760,Sereno Group,3199966,Update
+35711bfd-c216-41a5-aeb5-3d211a9a5456,5047137,00U9K0VRUU16MZEM61T7,Delphine,Bouchet,Pinecrest,14252325,Coldwell Banker Residential Brokerage NRT,3145525,Update
+359c7e1e-02a1-4602-ace2-eb0c0dba8c3d,4944393,HOLLYCHAMBERLIN@HH.INC,Holly,Chamberlin,Mt. Lebanon,9196911,Howard Hanna,1585672,Update
+36934ca1-5429-42fa-9e7f-baa8c82ae950,5069181,STEPHEN-MARTINEZ@JBGOODWIN.COM,Stephen,Martinez,San Antonio,14983692,JB Goodwin Realtors,3203122,Update
+36e51ed1-9881-40b5-85e3-4c8aeaeea153,1581720,ILEE@PACUNIONLA.COM,Ileana,Lee,Sherman Oaks,12546789,Compass,2993248,Update
+37062d42-8732-402d-9aa7-b480a8c2be13,5049411,TGUTHRIE@KINLINGROVER.COM,Tony,Guthrie,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+3747451b-6695-41a5-9b5e-ad00e4358dbc,5065931,LERUZIONE@KINLINGROVER.COM,Leighann,Eruzione,Boston,15808824,Randall Family of Companies,2944330,Update
+376798cb-f1b2-42ac-a6f3-1b31bd2057a2,5055388,00U9M7L1CB8LEHCXB1T7,Natalya,Ogorodnikova,North Potomac / Rockville,14163495,Coldwell Banker Residential Brokerage NRT,3145525,Update
+37b5400a-78ed-481e-a78b-ceffbcfd59af,5049444,DDELANEY@KINLINGROVER.COM,Danielle,Delaney,East Dennis,15810798,Randall Family of Companies,2944330,Update
+37d861d2-2de5-417d-93fa-746758d2e8b6,4974311,ROGER.SLAALIEN@ROG,Roger,Slaalien,Sarasota  Fl,15491010,Realty ONE Group,1732426,Update
+37e287ec-36b6-407f-b073-2f2117c6f698,2420878,##_10_#JULIE.KILTZ@RAVEIS.COM,Julie,Kiltz,792 Broad Avenue South,12893226,William Raveis Real Estate,3077671,Update
+38f4b3dd-71f8-4c30-8f4a-23c0a1a3eea6,1572403,##_10_#MLACHERE,Maureen,LaChere,Helena,8367831,Windermere Solutions LLC,1234567,Update
+3a0d6f54-8c6f-4194-a44e-b86ba05de1b7,4829503,##_10_#BILLEMMERT,Bill,Emmert,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+3ae79370-069f-4a1a-bbda-afb901705b87,1533816,DLINDSAY@COLDWELLBANKER.COM,David,Lindsay,Saratoga,11722644,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3bccb396-33d7-439c-9fe5-5a7d56f176f9,5070013,SHONDRA.THROWER@ROG,Shondra,Thrower,Las Vegas  Nv,13746981,Realty ONE Group,1732426,Update
+3d6950d3-c1ff-4d5a-8e79-ebd78b13e5d5,5067635,84664@LNF,ELIZABETH,GOULD,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+3e27198f-a549-403a-b39f-7bf58908f6a9,5066529,00U9O4Z92NVQN1USX1T7,Carolyn,Prozzo,Wall Township,14064795,Coldwell Banker Residential Brokerage NRT,3145525,Update
+3ed0a390-7b81-4c34-90d5-ca6093ec7d6d,4881258,KEITHLOVICK@HH.INC,Keith,Lovick,Peninsula,9929265,Howard Hanna,1585672,Update
+403ec2f5-ac50-45bd-8dca-07d98c4fdebe,4829626,##_10_#JACKWESTERN,Jack,Western,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+40583405-da74-40bb-a8f2-681c360163c3,1545230,JPHOEBE@HH.INC,Jay,Phoebe,Hanna Lwe,11870694,Howard Hanna,1585672,Update
+411af983-a43b-42ae-a0f9-9ade76f7e8b3,5067609,84637@LNF,PAULA,BELANGE,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+4183b2d2-5a6b-453e-b46c-0344d1fb7bee,1532651,##_192_#MELANIEMCCUE@HH.INC,Melanie,McCue,Churchland,9916434,Howard Hanna,1585672,Update
+42670687-9981-4c9a-9289-c82416252428,4968869,WENDY.MACDONALD@ROG,Wendy,Macdonald,Vancouver  Wa,13772643,Realty ONE Group,1732426,Update
+42eedf2c-cdd0-49cb-8f13-585cd0d9d9bd,4836721,##_675_#CRISTAL.SEIBERT@RANDREALTY.COM,Cristal,Seibert,New Windsor,13019562,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+42effc50-b82c-41ec-bff1-1c453ddb218e,4565717,RELMER,Riley,Elmer,Spokane-City Group,8119107,Windermere Solutions LLC,1234567,Update
+432e8fbb-137f-48d2-90ca-f03cf023958e,1514435,SERICKSON,Stephanie,Erickson,Metro,15802902,Willis Allen Real Estate,1621177,Update
+4373aa9f-eb0b-44e2-b5a9-a44d14a75a44,5019964,00U96Q8G55LHNV0LT1T7,Theresa,Fields,Central/South Brevard,14230611,Coldwell Banker Residential Brokerage NRT,3145525,Update
+437b4ab3-b425-45a7-a55b-80f78c314e93,5057818,MICHELLESYLVIA@KINLINGROVER.COM,Michelle,Sylvia,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+43897b13-928c-4a50-88d8-e25cfd5b92cf,5062320,00U9O9791E2VDXXYH1T7,Henry,Sauer,North Hills,14075652,Coldwell Banker Residential Brokerage NRT,3145525,Update
+439190d5-e119-44ef-a4d6-ec331166e10b,1582733,##_927_#ANTHONYBINA@HH.INC,Anthony,Bina,Chardon,9285741,Howard Hanna,1585672,Update
+43de660c-437d-4ab2-8e57-6fa8a4a92a20,4523471,LWR@WILSONROBERTS.COM,Wilson Roberts,Team,Palo Alto,13146885,Compass,1412092,Update
+441296da-8252-4aeb-a06d-e2530d525c29,5057819,JTOBIN@KINLINGROVER.COM,Jack,Tobin,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+45affd98-5012-45f3-86a7-db59a4b0bb21,5043653,00U9I87Q4KCUVW4UY1T7,Nick,Chucales,Polaris Regional,14313519,Coldwell Banker Residential Brokerage NRT,3145525,Update
+45b240eb-23b0-42b2-a9e0-0e39766e15d4,5070837,00U9HRK78FWOLFUNG1T7,Sonal,Kumar,Internet Sales,15415011,Coldwell Banker Residential Brokerage NRT,3145525,Update
+464915d0-ae63-4ced-a1ab-98af8e533780,1535548,MATTTIFF,Tiffany,Matthews,Eugene,8382636,Windermere Solutions LLC,1234567,Update
+46505544-3e52-4a78-b2a7-f046ca65aa0e,1513704,REBECCASWARTZ@HH.INC,Rebecca,Swartz,Fremont,10746501,Howard Hanna,1585672,Update
+4675e3b7-b342-44e0-b9b1-3f0a706a419f,2753222,DONPERRY@HH.INC,Donald,"Perry, Jr.",Pittsford - Monroe Avenue,13350207,Howard Hanna,1585672,Update
+46eaae65-8c52-4b41-b213-5c54cc9fd00b,4662306,##_10_#KANTINORO@WEIDEL.COM,Katherine,Antinoro,Hopewell Valley,12323727,Weidel Real Estate,2918293,Update
+492ddf82-e516-4cce-80a6-8827534066f3,5025614,00U9B069NPT1UERXT1T7,Cricket,Yee,Sherman Oaks,12180612,Coldwell Banker Residential Brokerage NRT,3145525,Update
+49458d81-6ba5-4ed2-8e1e-d25aeb5b29a5,5071019,00U9QX9VKAYAIGVGQ1T7,Asia,Warren,Old Lyme,13931550,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4973dd28-8a3d-4158-b320-7f26d26ea82b,3003359,00US731BOJ4MS29NV1T6,Michael,Pochron,La Grange,14379648,Coldwell Banker Residential Brokerage NRT,3145525,Update
+49971f43-3a5e-49ba-addf-39b238981286,5048797,84456@LNF,Lowell,Mitchell,Chevy Chase/Uptown,9807864,"Long & Foster Real Estate, Inc.",1259026,Update
+49e73b1f-b6db-41c8-8fa5-2291e84478fe,5049408,JCANEY@KINLINGROVER.COM,John,Caney,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+4a09a8fc-9abb-40b3-aad7-76d18e4ed066,1489272,LAURAHALL2@SBCGLOBAL.NET,Laura A,Hall,Santa Rosa,10484946,Terra Firma Global Partners,2029879,Update
+4a199779-2f94-4d33-a79d-e95585170d0c,2752395,##_541_#RONALDLITTLE@HH.INC,Ronald,Little,Tonawanda,13308753,Howard Hanna,1585672,Update
+4a218a67-2001-40af-8d49-f914438de139,3010666,00US61BL9DNCZYWEP1T6,Jessica,Diaz,Perimeter,14186196,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4ac09295-8a6c-4263-8412-0f556f329bed,5067490,84518@LNF,BEV,SANGER SLOANE,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+4c139b1b-d913-41ce-bd6c-1bd606e8eec4,3031831,00US7C2PY1N7NOK811T6,Bethe,Frazer,Clinton,14051964,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4c375893-5637-455b-bd37-5679ac9eac18,4765850,TROLLETT@INTEROREALESTATE.COM,Tom,Rollett,Los Gatos,15259065,Intero Real Estate,3220480,Update
+4ca71227-5d46-4747-a83b-05d4ebe1fe96,4849418,ALAWRENCE@SMITHANDASSOCIATES.COM,Alyssa,McIntyre,4th Street,15486075,Smith & Associates,3232315,Update
+4d339282-2fc2-48c0-aa11-06bc66da10f1,2694952,##_674_#KARLA.GODINEZ@ROG,Karla,Godinez,Oak Hills  Ca,13717371,Realty ONE Group,1732426,Update
+4d6da398-b51c-45ec-ad82-84480da52500,3026780,00U23X46J77MM7YOC1T7,Jennifer,Fusarelli,Orange Post Rd,13957212,Coldwell Banker Residential Brokerage NRT,3145525,Update
+4d8c8760-dce4-4809-94d7-7129b49f1e6f,5049371,CALTNEU@KINLINGROVER.COM,Christine O,Altneu,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+4e43500d-f645-41d8-b745-5d14a6fe94b4,4771701,AARON.CERICOLA@ROG,Aaron,Cericola,Glendale Office,13699605,Realty ONE Group,1732426,Update
+4e9b0c9d-d330-468a-8e9d-8ff469244b1f,4887365,00U84UMEI3A31NXPK1T7,Kristin,Malva,Corporate Center Sales,14470452,Coldwell Banker Residential Brokerage NRT,3145525,Update
+52f25791-687b-4fe6-916d-7b06842ebe47,2544942,CINDY.MUSKA@RAVEIS.COM,Cindy,Muska,Glastonbury,12807357,William Raveis Real Estate,3077671,Update
+53e87f27-fc65-490d-b919-a30b025f27ba,2862177,##_653_#ERIC.HERNANDEZ@CL,Eric,Hernandez,Springdale,13640385,Crye-Leike Real Estate Services,3140002,Update
+54ddd0e0-dd5e-4d01-a87b-d69b351e1b47,5054635,AROYAL@DPPRE.COM,Abby,Royal,Pasadena Los Robles,15791058,Deasy Penner Podley,1416826,Update
+54ef12c7-d4c6-4697-b07f-e8b1e1c228d5,5067503,84531@LNF,MARY,JULIE,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+54f880db-d753-4a34-bcf5-f5ecc4de9b13,5049788,KFISHER@KINLINGROVER.COM,Kathleen,Fisher,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+556d6866-db95-4549-9dce-29d5d717a9b0,3036829,00U21B3WFHEFWJ5MO1T7,Andrea,Haas,Milw-Downtown,14414193,Coldwell Banker Residential Brokerage NRT,3145525,Update
+559e2ccc-6a1a-4b8b-9b37-335f57f5d8c6,1466974,##_10_#MALLEH,Malleh,Jagne,Alderwood,8191158,Windermere Solutions LLC,1234567,Update
+55cbb956-20fa-402e-8f23-9c7d8525900c,5057830,THOCHARD@KINLINGROVER.COM,Thom E,Hochard,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+560f9ef9-4b7a-4daf-9997-250d5bb71de1,4849426,BLANNERS@SMITHANDASSOCIATES.COM,Bonnie,Lanners,4th Street,15486075,Smith & Associates,3232315,Update
+57032ab8-7487-40e6-a8ad-faaa691a5fe1,3273559,##_928_#HOPE.KOPP@ROG,Hope,Kopp,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+5728b225-e2a5-4ab3-bb7f-f05ef27bcf8a,5043627,00U9I4YS24DEHWIG41T7,Kenosha,Bewley,Weston,14222715,Coldwell Banker Residential Brokerage NRT,3145525,Update
+57b7af00-c603-48e6-b3e5-ce3883c3c900,4610848,MICHAEL.VELARDE@ROG,Michael,Velarde,Valencia  Ca,13735137,Realty ONE Group,1732426,Update
+57d85586-853f-4805-90fc-90b78150e6b5,2791622,##_436_#KATHLEEN.INGHAM@ROG,Kathleen,Ingham,Saint Peters  Mo,13742046,Realty ONE Group,1732426,Update
+584219ad-0b48-40c3-b38b-8be48056391a,4566085,##_296_#JOSHUATACKETT@MICHAELSAUNDERS.COM,Joshua,Tackett,Michael Saunders & Company,15193923,Michael Saunders & Company,3212590,Update
+58831677-a7f4-44ed-a87c-c2b9284999ac,3046888,00US73KANXYYOPLB41T6,Eileen,Hoban,Glenview,14387544,Coldwell Banker Residential Brokerage NRT,3145525,Update
+58907320-3d5b-475b-bd71-8e0acc1439d1,4811772,##_10_#JBURKHART@KOENIGRUBLOFF.COM,Joshua,Burkhart,Wheaton,15527529,"HomeServices of Illinois, LLC",3233104,Update
+58d8ae68-69be-49c7-b1e3-241ef68eff37,5049632,CWEST@KINLINGROVER.COM,Cassy E,West,Marion - East,15812772,Randall Family of Companies,2944330,Update
+58f4f190-f7e9-4059-90f2-eef2c2a92dfa,2692641,ANGEL.KHATTRA@ROG,Angel,Khattra,Goodyear  Az,13700592,Realty ONE Group,1732426,Update
+5964b745-f76f-4725-ac24-bf10f171c48f,5066577,00U9PIBXIVGMWJ3ZG1T7,Lawrence,Hodgson,Capitol Hill,14169417,Coldwell Banker Residential Brokerage NRT,3145525,Update
+59931764-d37b-443a-afd2-ab25bdfd1923,1603293,HMALLOY@FM,Holly,Malloy,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+59a0c480-2836-41ae-8c4e-236473ef67f7,1520144,75559@LNF,Jennifer,Leonard,West Chester,11115639,"Long & Foster Real Estate, Inc.",1259026,Update
+59ae1ba0-fcd3-4f98-9cba-e7a77248ffe4,3032678,00US7AVGIYRXKC6SS1T6,Wendy,Kestner,Bernardsville,14034198,Coldwell Banker Residential Brokerage NRT,3145525,Update
+59ee81ef-8f66-4f46-af0c-5105b0c2e46e,5047405,KENNETH.D'ARINZO@ROG,Ken,DArinzo,Monroe  Ct,15180105,Realty ONE Group,1732426,Update
+5a0eec4a-48df-4538-80ee-2686deaae82f,4568551,ERIK.WILLIAMS,Erik,Williams,Napa Valley,10334922,Terra Firma Global Partners,2029879,Update
+5a45e257-0dcb-41c7-b585-6cebb15ef166,1601608,JSALGADO,Jeff,Salgado,Potrero Hill,12607983,Compass,1431028,Update
+5a54e932-a83a-4b3f-8134-d80c856b1e93,5067651,84680@LNF,DANE,WAYS,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+5a91c4d3-61f7-4dac-8307-4b83e7205c5e,5066781,KATIE.FRENCH@ROG,Katie,French,Conroe  Tx,13753890,Realty ONE Group,1732426,Update
+5b4280a7-69d4-4340-a407-53e972566c84,5049526,KDIARD@FM,Kelly,Diard,Brier Creek Sales Office,12902109,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+5b7a5415-bcd5-420a-98ab-7eee15803df4,5038871,00U9GSB1J1A7KGXBY1T7,Isaiah,Votaw,Carlsbad,12118431,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5c3d588b-e830-4255-8744-0ae5b22c4f74,5046350,CHRIS.SCHNEIDER@RANDREALTY.COM,Chris,Schneider,Goshen,13027458,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+5c3f3f83-16e8-4b2c-9249-2e60b90fc990,5065954,IKUPHAL@KINLINGROVER.COM,Ilona,Kuphal,Boston,15808824,Randall Family of Companies,2944330,Update
+5cd05448-765a-465a-8963-690d1957649e,4829592,BILLANDJEANMARIE,Bill and Jean Marie,Ragus,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+5d02608d-1658-42d2-8c75-b613c19acb4e,5051433,00U9LEIPPTEVOZXKJ1T7,Kimberly,Weiler,East Manatee,14265156,Coldwell Banker Residential Brokerage NRT,3145525,Update
+5e10c19a-7c8e-4519-9de2-ef7374198f7c,2693467,##_688_#NANCY.PAN@ROG,Nancy,Pan,Henderson  Nv,13745994,Realty ONE Group,1732426,Update
+5e2f55b5-a549-4a54-84d9-6b71fbaee016,2753276,PHILGIARDINO@HH.INC,Phil,Giardino,Spencerport,13474569,Howard Hanna,1585672,Update
+5eed9c97-93e9-4cf2-87aa-df573ae638bf,5049354,DNOREEN@KINLINGROVER.COM,David,Noreen,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+5f65fc3f-3725-4604-b934-88d92ecffefd,5060225,NEPHTALI.VARGAS@RANDREALTY.COM,Nephtali,Vargas,Yonkers,12998835,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+5f9d3389-de23-4444-ac6f-2a8a8c4ad1d1,1486105,JOSERIVERA@HH.INC,Jose,Rivera,Paxtang,9255144,Howard Hanna,1585672,Update
+5fc7ce05-115f-4259-bc05-37e4a6060188,5026471,00U9BIKVKY5M8UJS41T7,Bryan,Templeton,Laguna Beach,12102639,Coldwell Banker Residential Brokerage NRT,3145525,Update
+613a6fc0-24ce-4598-8f29-fb52f7e82e96,1577200,MLEBASTCHI@COLDWELLBANKER.COM,Meg,Lebastchi,La Jolla Prospect @ Girard,12123366,Coldwell Banker Residential Brokerage NRT,3145525,Update
+61fe40b6-1b1c-496b-9778-6e9b0f949262,4913404,00U8ANELH58HQPRWK1T7,Soan,Quach,Gilroy,11673294,Coldwell Banker Residential Brokerage NRT,3145525,Update
+62305d93-df80-4d1b-891a-1e9cc1a29f68,3933643,SUE.SCHEMBRI@BHGHOME.COM,SUE,SCHEMBRI,Bhg Reliance Partners - Danville,14966913,Better Homes and Garden Reliance Partners,3203911,Update
+62aa8757-843a-48d9-8ba8-38315bc157da,1487160,LAURELHEATER@HH.INC,Laurel Worley,Heater,Chagrin Falls,9288702,Howard Hanna,1585672,Update
+63b13a47-0422-48c4-8806-feaa6178f64a,5057820,EBOYNTON@KINLINGROVER.COM,Emily A,Boynton,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+63db7ffe-dd16-4aba-8eee-10eb9b07ae0f,5071733,00U9R1VHUXBPBMDBT1T7,Samantha,Edwards,Des Peres / Kirkwood,14464530,Coldwell Banker Residential Brokerage NRT,3145525,Update
+64508f67-e708-443c-896a-3aa8b349ec5f,4633715,00U6QAXEKAAB6QCXQ1T7,Nathalie,Lessard,Hollywood,14220741,Coldwell Banker Residential Brokerage NRT,3145525,Update
+64a8aa10-439b-48c3-95e8-8c25d27700e5,5065926,ABOHLIN@KINLINGROVER.COM,Anna,Bohlin,Boston,15808824,Randall Family of Companies,2944330,Update
+64cb1f7b-ae79-478d-8f9e-9c756ec5f3e4,2558997,LAURIE.REARDON@CL,Laurie,Reardon,Clarksville - St. Bethlehem,13628541,Crye-Leike Real Estate Services,3140002,Update
+64fa3623-c9df-4f5d-8b94-8e28e0006c81,1579285,##_10_#KPICTON,Kathy,Picton,Lake Chelan - Main,8081601,Windermere Solutions LLC,1234567,Update
+65337ea9-eec3-43a8-8d86-338c60349c4d,5057801,CHOULIHAN@KINLINGROVER.COM,Cindy,Houlihan,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+6541c773-f991-4178-9b20-cbc0a237957f,3043949,00US6Z1XMALJNYCXW1T6,Eloise,Brantley,Alexandria,14165469,Coldwell Banker Residential Brokerage NRT,3145525,Update
+654c5126-7f0b-4c24-bb2f-d90f63f66e80,2543831,ANN.ROSSLEY@RAVEIS.COM,Ann-Marie,Rossley,Avon,12778734,William Raveis Real Estate,3077671,Update
+65a4261b-ba16-4dd1-9aa9-3086909b2655,5057839,LMAHAN@KINLINGROVER.COM,Larry,Mahan,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+65ec2847-f0b0-4935-8941-7db998c6e573,5068399,CARLOS.SUBER@ROG,Carlos,Suber,Mclean  Va,15365661,Realty ONE Group,1732426,Update
+661f89e3-77f5-440e-a439-f9588e722183,5055361,00U9M42V60KAD51ZU1T7,Sonya,Cabral,Bolton,13831863,Coldwell Banker Residential Brokerage NRT,3145525,Update
+66649a41-7d70-4290-9f5d-7de103329721,1254549,CONCANNON,Cheryl,Concannon,Sun Valley - Ketchum,8043108,Windermere Solutions LLC,1234567,Update
+666c5d47-05d8-4d2a-9ffb-300a551b4168,2550323,MARJI.SIEGEL@RAVEIS.COM,Marji,Siegel,Westhartford,12843876,William Raveis Real Estate,3077671,Update
+66a5bad4-c6fd-4ea7-bc53-0f6678ac2403,4829623,CARIWADE,Cari,Wade,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+66fe2d97-1511-4bae-8eb4-e7e81dec7ee1,5067486,84514@LNF,JUDY,HAMILTON,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+67532f46-97a7-4835-b834-25fa7d34af1d,4765799,##_10_#AUDREYCQ@INTERO.COM,Audrey,Carlos-Quiggins,Los Gatos,15259065,Intero Real Estate,3220480,Update
+68e20260-e4b4-4ef9-b2f2-dc3056ee4bd7,5027317,00U9BRE4I4BKTFWYF1T7,Kieu,Nguyen,Cy-Fair,14615541,Coldwell Banker Residential Brokerage NRT,3145525,Update
+68e4dd20-3f24-4ed6-8f27-7d32499cd69c,2753218,MAURASWAN@HH.INC,Maura,Swan,Accounting,13340337,Howard Hanna,1585672,Update
+6991c41f-3a39-49c4-b1dd-199c31b7c8e0,3030959,00US61BMWUVSSW1131T6,Jan,Brownfield,Perimeter,14186196,Coldwell Banker Residential Brokerage NRT,3145525,Update
+69f9f504-2406-427c-9f6b-667ae2bc1dda,2751941,##_754_#JUSTINSANTERRE@HH.INC,Justin,Santerre,Amherst/Clarence,13301844,Howard Hanna,1585672,Update
+69fbf237-7b7e-44ba-97c9-7f5d6199ce05,1529303,SANDRASCHMITTLE@HH.INC,Sandra,Schmittle,Human Resources,9221586,Howard Hanna,1585672,Update
+6a1655af-e5bc-4c14-8a25-9187a77a536e,1514433,LCCLINE,Larry A.,Cline,Metro,15802902,Willis Allen Real Estate,1621177,Update
+6a367dd9-e91e-4cb3-86e7-2a58b0b874b1,5065932,MERUZIONE@KINLINGROVER.COM,Michael,Eruzione,Boston,15808824,Randall Family of Companies,2944330,Update
+6a6ad0ad-5981-4690-969d-fa3bcbf4fed5,4829619,MARJORIEVICKNER,Marjorie,Vickner,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+6ad22a7d-82f7-40eb-a511-d22daec2ae57,5066561,00U9PI1CYSRO05LUK1T7,James,Muchmore,Ohio Indiana West Regional,14331285,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6cbdda35-548a-40db-93f0-540740db9c69,1544295,77645@LNF,Gregory,Osborn,Westminster,9784176,"Long & Foster Real Estate, Inc.",1259026,Update
+6ce1968c-1cdb-4216-ac0e-c53c59625ba0,4752197,SOLD@CHRISTINASELLSRE.COM,Christina,Ludovice,Metro,15802902,Willis Allen Real Estate,1621177,Update
+6dae59d7-6081-4412-bc14-6d093514445c,2753941,SARAHBOWLING@HH.INC,Sarah,Bowling,Manlius,13421271,Howard Hanna,1585672,Update
+6db75ace-bb94-4d64-bca4-7694effb5131,5069141,00U9OKP2UXWLZJ5DP1T7,Claire,Closky,Port St. Lucie,14259234,Coldwell Banker Residential Brokerage NRT,3145525,Update
+6e05302d-7a4b-4f33-bcae-7a7650f712e2,5025299,HINESGROUPRE@KINLINGROVER.COM,The,Hines Group,Boston,15808824,Randall Family of Companies,2944330,Update
+6e8e7a14-ecc8-4c2b-b485-f9dfc7515b72,4584683,CARLOS.ARMAS@ROG,Carlos,Armas,Campbell Office,13712436,Realty ONE Group,1732426,Update
+6ed8a900-ae79-4562-8c7d-1857ce79e2d7,2324686,##_743_#80433@LNF,James,Gayle,James River,11424570,"Long & Foster Real Estate, Inc.",1259026,Update
+6f0d2f6d-41e6-48a6-adfc-c10cf53b92fd,5065933,KFARRELL@KINLINGROVER.COM,Kyle,Farrell,Boston,15808824,Randall Family of Companies,2944330,Update
+70299f21-67d8-45fe-934e-064bf1a63191,4770084,##_377_#JENNIFER.PRINZIVALLI@ROG,Jennifer,Prinzivalli,Woodstock  Ga,15351843,Realty ONE Group,1732426,Update
+703837c0-35cf-4f79-880f-4d3745449b68,5067595,84623@LNF,VIOLETA,AGUIRRE,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+7072690c-27e4-4f64-8789-08137cff450c,4829559,##_10_#BETHMARIANO,Beth,Mariano,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+709d199f-c572-4d28-8224-81ff0ecccc5a,1502099,72939@LNF,Jorge,Hernandez,Rockville Centre,9795033,"Long & Foster Real Estate, Inc.",1259026,Update
+710a736f-7671-483b-8e76-64f4ddc934ea,5057822,MCLIGGOTT-PERLT@KINLINGROVER.COM,Max,Cliggott-Perlt,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+7147ff03-9593-41b3-baed-0346c9809bb1,4829621,##_10_#JEANNEVROLYK,Jeanne,Vrolyk,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+7188e9a4-1401-4696-8b74-1aab02f310e5,5065929,BDOUGHERTY@KINLINGROVER.COM,Brian,Dougherty,Boston,15808824,Randall Family of Companies,2944330,Update
+71b5b8e3-2906-4831-a53e-58bebb5d6349,1507829,74350@LNF,Karen,Gunther,Cherry Hill/Haddonfield,9885837,"Long & Foster Real Estate, Inc.",1259026,Update
+71f460d5-8cd9-4650-8ad9-c262e60de073,1448598,##_10_#FSTOBIE,Flannery,Herbert,Helena,8367831,Windermere Solutions LLC,1234567,Update
+721f2c78-7bf6-48fd-923f-4a8fd31b6545,1625091,##_874_#MARYANNE.MIUCCIO@RANDREALTY.COM,Maryanne,Miuccio,Wyckoff,12999822,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+72ed6038-87a2-4cef-bfe7-21de7f75661c,4885815,TZYHYLIJ@ASCENTREALESTATE.COM,Tamara,Zyhylij,Bankers Hill,15643995,Ascent Real Estate,3237049,Update
+72f4bfab-1652-456b-acf4-248eb639548f,5070876,00U9QTJZKQQZ4TLHM1T7,Ania,Karam,Westwood,13874304,Coldwell Banker Residential Brokerage NRT,3145525,Update
+74403e66-b613-42f7-9547-d0b0d78ffdfe,4829564,JOHNMCCOMBS,John,McCombs,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+7468ef0f-2d43-402d-a203-45635288c8ab,4829485,KARENCHURCH,Karen,Church,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+747547ac-1d48-4601-8b04-e8f45a20b37e,4788113,##_10_#CWILLIAMS@INTEROREALESTATE.COM,Chris,Williams,Morgan Hill,15261039,Intero Real Estate,3220480,Update
+74b94a8c-7247-4d7a-99f2-1ee30a8ce1ed,4638775,JPARKER@GOLYON.COM,John,Parker,Lyonreplacerville,8949174,Lyon Real Estate,1490992,Update
+75458851-9810-444c-bc22-cdee295700e1,5050406,00U9L52QV8RR8IWWQ1T7,Carrie,Tiedens,Lakeville / Burnsville,14436894,Coldwell Banker Residential Brokerage NRT,3145525,Update
+75617990-1e2e-495a-bca8-ddc54b5d3668,2752838,NATALIEDUGUID@HH.INC,Natalie,Duguid,Guilderland,13330467,Howard Hanna,1585672,Update
+76f312c5-03ca-4ffd-931f-3f02af328d70,4591537,##_557_#JESSICA.MARRIOTT@ROG,Jessica,Marriott,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+779073c5-d9d4-4c85-8e64-a6bb6db7660d,5049470,SELLMAN@KINLINGROVER.COM,Susan,Ellman,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+786f6b92-71be-48cd-aae2-677ac5997421,5002744,LUBA.OSOVETS@ROG,Luba,Osovets,Mclean  Va,15365661,Realty ONE Group,1732426,Update
+78abc97e-0d3d-4f05-8d8d-d6cdffc8026c,3016495,00US7BC9UV6FZVVPW1T6,Jo Ann,Rivera,Port St. Lucie,14259234,Coldwell Banker Residential Brokerage NRT,3145525,Update
+78d15a14-c484-4a6b-9363-e9400e9b888d,5020148,MARIBETHDUNLAP@MICHAELSAUNDERS.COM,Maribeth,Dunlap,Michael Saunders & Company,15202806,Michael Saunders & Company,3212590,Update
+793811b8-80cf-4ce0-9929-289762bad369,5057841,PSCHOLL@KINLINGROVER.COM,Philip,Scholl,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+794661c8-8d58-447c-97ae-78a29de2bfad,1570087,RSTEPHANSON,Resa,DeBeaumont,Services - Marketing,1111111,Windermere Solutions LLC,1234567,Update
+7997683c-b720-4a16-924b-463ac8c29a24,4474130,##_10_#BOTTAROB,Blake,Bottaro,Lake Oswego - 220 A Avenue,7967109,Windermere Solutions LLC,1234567,Update
+7a8bd6eb-357b-4cde-a4d9-7adbe25adda3,5049433,MWASHBURN@KINLINGROVER.COM,Mark,Washburn,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+7ae03a1a-58dd-4746-a5f3-9d128d0216bd,5042909,KIMBERLY.SMITH@CL,Kimberly,Smith,Jackson - Crye*Leike Blue Skies Real Estate,13552542,Crye-Leike Real Estate Services,3140002,Update
+7ae9b381-bf86-43d3-afa7-e5d75a6996f2,5070926,00U9QWLH6Z4HEI6PM1T7,Angela,Gonyo,Alpharetta/North Point,14172378,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7bb2107f-1381-4f22-8e8e-2ef82731ab85,3018379,00US77K7R54SG9WR31T6,Litzie,Michaca,Stamford,13949316,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7bf31a7e-8897-4da7-b01c-54f4b5a21648,5049447,SYUSKAITIS@KINLINGROVER.COM,Steven J,Yuskaitis,East Dennis,15810798,Randall Family of Companies,2944330,Update
+7c2c9f24-7eb1-4fbe-8886-083b8272f1b1,3058847,##_10_#NGICHOHI,Noelle,Gichohi,Redmond,8294793,Windermere Solutions LLC,1234567,Update
+7c430cc2-8173-424d-9e8a-3a3dd9c45b3f,5063270,00U9OGYKXCVXLNPNV1T7,Jennifer,Laham,Central/South Brevard,14230611,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7dd5ab0f-5438-4b1e-bb24-12a26d991e6c,2689473,##_149_#CHANTEL.TILLEY@ROG,Chantel,Tilley,Henderson  Nv,13745994,Realty ONE Group,1732426,Update
+7ddf3c38-2a40-4f36-950b-45e022e1e8fa,4950478,00U8K0PSECLNUVICM1T7,Megan,Hart-Lugo,Leesburg,14167443,Coldwell Banker Residential Brokerage NRT,3145525,Update
+7dff36d4-331c-40d2-9fb7-8486d0b573ae,4811358,DBRANCH@KOENIGRUBLOFF.COM,Dana,Branch,Libertyville,15522594,"HomeServices of Illinois, LLC",3233104,Update
+7ed90645-0515-4dae-a8af-948c45df410c,4598347,CANDICE.GODBY@ROG,Candice,Godby,Spring  Tx,15181092,Realty ONE Group,1732426,Update
+7f1d4a96-9830-4a83-a343-96e8c6b1a097,4736868,ROB.BLEGGI@ROG,Rob,Bleggi,Monroe  Ct,15180105,Realty ONE Group,1732426,Update
+7f232a92-3314-40ba-91c9-a5f0bf6cbed8,4936126,ABAKER@KOENIGRUBLOFF.COM,April,Baker,Oak Park,15736773,"HomeServices of Illinois, LLC",3233104,Update
+808301f8-a41d-4e21-82ff-c216ca42fa1e,1539560,TIFFANY.STEVENSON@CBNORCAL.COM,Tiffany,Donohue,Elk Grove,11694021,Coldwell Banker Residential Brokerage NRT,3145525,Update
+80a142dc-780f-44b0-9e82-cb7a3e34fb32,4736112,MELINAFUSILLO@HH.INC,Melina,Fusillo,Poland,9300546,Howard Hanna,1585672,Update
+80c9275d-b767-44fc-bbec-ba72ccd536bb,5049355,TREILLY@KINLINGROVER.COM,Terrie,Reilly,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+80d2c6f4-0423-44b3-952d-42a9d1db5dcf,4678933,##_10_#AMY.RUBIN@RAVEIS.COM,Amy B,Rubin,Niantic,15415998,William Raveis Real Estate,3077671,Update
+81896329-4286-4947-a4db-d45a89a73501,5067546,84574@LNF,DANIEL,CHANTELOUP,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+81f5db41-721b-41b0-81b2-2a1ab2d93a94,1492507,##_10_#BRFRANCIS,Brianna,Francis,Lake Oswego - 220 A Avenue,7967109,Windermere Solutions LLC,1234567,Update
+8200e0c0-a535-4fd0-9bcc-e055c3c842e7,1500565,70507@LNF,Nami,Addison,Elkton/Chesapeake City,9868071,"Long & Foster Real Estate, Inc.",1259026,Update
+82099699-cdad-4c09-8a55-ee61df95ddba,1610182,##_10_#JAYIMMELT,Jay,Immelt,Aberdeen-Grays Harbor,8078640,Windermere Solutions LLC,1234567,Update
+8213b694-03bd-4338-866e-4d2a186f485b,5046339,MORGAN.SMITH@CL,Morgan,Smith,Benton,13583139,Crye-Leike Real Estate Services,3140002,Update
+8220ece0-560c-4a5a-8e51-004915f78ae0,5067588,84616@LNF,TOM,HOUGH,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+82dfdd0a-b414-4006-824b-c99caac67398,5070825,00U9QCK09DRBLP6AS1T7,Benjamin,Redmond,Newport Beach,12111522,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8367138f-910b-4405-a79a-9335f545b0d3,4865016,CAROLYN.ELLINGTON@ROG,Carolyn,Ellington,Glendale Office,13699605,Realty ONE Group,1732426,Update
+8480d151-e285-469f-ab78-7efc002c5a33,4707894,REBECCA.SCHOPPE@ROG,Rebecca,Schoppe,Gilbert  Az,13698618,Realty ONE Group,1732426,Update
+849ee3a3-9849-4399-afc0-a30aac50bf9c,3684823,00US7CB45WEQ1E6YI1T6,Theresa,Young,Calabasas,12105600,Coldwell Banker Residential Brokerage NRT,3145525,Update
+84df6711-f512-4fe3-8611-4301a46d9808,5067586,84614@LNF,BONNIE,JOHNSON,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+85002a4c-a881-4ce3-9076-ac3252cb29ea,2697978,##_650_#ADAM.WAGNER@ROG,Adam,Wagner,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+851374e7-c42c-4740-b82b-a5bf7cde0306,3015214,00US7BMLZFUZW6IAX1T6,Margarita,Lacsamana,Bedminster / Bridgewater,14033211,Coldwell Banker Residential Brokerage NRT,3145525,Update
+869256eb-f5d4-4837-a421-b6cf8a63ead3,5067544,84572@LNF,REGINA,FISCHER,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+86b26ed1-cd95-42f1-8767-34bbc3358be1,5065953,MKINLIN@KINLINGROVER.COM,Mollie,Kinlin,Boston,15808824,Randall Family of Companies,2944330,Update
+86db0714-f667-4c7b-8637-92693b847b2b,5069862,DOMINICMARARRI@HH.INC,Dominic,Mararri,Howland,9290676,Howard Hanna,1585672,Update
+8743a8c8-4a31-4bef-bc9e-e592b39c530e,4766066,SMCPARTLAN@INTEROREALESTATE.COM,Susan,McPartlan,Cupertino,15252156,Intero Real Estate,3220480,Update
+8744dadf-bb18-4f13-93cc-76b5c2e83830,2690958,##_362_#KWANG.LEE@ROG,Kwang,Lee,Irvine  Ca,13696644,Realty ONE Group,1732426,Update
+875f206a-eb21-4e42-b45e-ae7dff7b9035,4885780,SDOOLEY@ASCENTREALESTATE.COM,Shawn,Dooley,Mission Hills,15646956,Ascent Real Estate,3237049,Update
+8775aa55-f849-46a5-bb10-5fde5f4e6462,4971272,COLEROBBINS@VILLAGESITE.COM,Cole,Robbins,Montecito,15655839,Village Properties,2474086,Update
+87d02db7-53e9-47f1-82cd-c674156a396d,5060605,JACKIE.KNIGHT@ROG,Jackie,Knight,Spokane  Wa,15177144,Realty ONE Group,1732426,Update
+87fa4b40-4381-4218-918c-4b021f723148,1580132,OLESIA.KRASHCHENKO@CBNORCAL.COM,Olesia,Woodward,Los Gatos,11716722,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8898948d-624f-426d-926d-09da63fc83b0,1523685,JULI.PASCHAL@KAPPELGATEWAY.COM,Juli,Paschal,Main Street,11260728,Coldwell,2529316,Update
+890acc57-f052-45e1-8643-067851097707,5067579,84607@LNF,KENNETH,MAREK,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+8b4050e7-4c62-4950-9e9e-e4c3a537a566,4800350,##_281_#NICOLEPERNA@HH.INC,Nicole,Perna,Amherst,13491348,Howard Hanna,1585672,Update
+8c3aa65d-f650-403b-b5fe-45014a721591,5065002,DONNA.BLANTIN@ROG,Donna,Blantin,Mooresville  Nc,15108054,Realty ONE Group,1732426,Update
+8c6c4e61-afcc-4fce-9dd0-3e4f33d183e3,1454157,##_10_#SCOTTHAY,Hayley,Scott Kirk,Lake Oswego - 220 A Avenue,7967109,Windermere Solutions LLC,1234567,Update
+8c702ff3-50ad-4e3a-bb68-1a73fc85254b,4001648,LYNDA.ARMES@ROG,Lynda,Armes,Rocklin  Ca,13731189,Realty ONE Group,1732426,Update
+8cccbf8b-5171-43fe-b484-813ecfa9884f,3000416,00US76MDPEREYVTCF1T6,Lois,Harkness,Squirrel Hill,14077626,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8d41a2dd-1909-427b-aa79-a7bdd927b739,1548347,##_10_#JAIMECARROLL,Jaime,Carroll,Renton- Psr,8159574,Windermere Solutions LLC,1234567,Update
+8d700b05-18bd-4781-adbc-ba465be344f3,5061600,SONYASMITH@MICHAELSAUNDERS.COM,Sonya,Livingston Smith,Michael Saunders & Company,15191949,Michael Saunders & Company,3212590,Update
+8dc88502-2525-42b4-957b-d3cf23ff0681,4829500,MARITEDUFOUR,Marite,Dufour,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+8e3af500-7481-40ad-8160-8dd5d4ae6ae3,4798533,JHALL1,James T,Hall,Napa Valley,10334922,Terra Firma Global Partners,2029879,Update
+8ed0c801-dfa6-4f69-bd38-04fb53c9332f,3004431,00US75NTWYAX1BWK21T6,Janet,Juall,Newtown,13954251,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8eeedb2d-b960-4bc0-beba-a49dbd93d531,5057821,JCHAPMAN@KINLINGROVER.COM,Jason,Chapman,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+8fcb1b46-cc58-471e-8907-323682af9d23,5070809,00U9QAP5IPMGCXVWQ1T7,Whitney,Jones,Arlington,14166456,Coldwell Banker Residential Brokerage NRT,3145525,Update
+8fd7acab-a261-4255-ac7e-54786185184e,5069142,00U9Q1FZINDJTXOPU1T7,Glenda,Jones,Katy,14616528,Coldwell Banker Residential Brokerage NRT,3145525,Update
+90cf9a7b-94b5-46ab-b7f3-ad03b2c5eddd,3685516,00US7CBCFW5LGKFKW1T6,Galina,Blackman,Beverly Hills South,12190482,Coldwell Banker Residential Brokerage NRT,3145525,Update
+91390f14-7f49-4d05-b4b8-ec625523e77c,1603856,LRANSOM@FM,Lori,Ransom,Stonehenge Sales Office,12912966,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+91924b95-3a99-4663-a04a-cc2a87ff5833,4013839,##_10_#AJ@JBGOODWIN.COM,AJ,Abrams,Williamson County,14981718,JB Goodwin Realtors,3203122,Update
+91da55d1-7e85-4200-af2e-3f0250f5ced4,4849543,JOVERIN@SMITHANDASSOCIATES.COM,Judy,Overin,Coastal & Northern Beaches,15487062,Smith & Associates,3232315,Update
+924fc238-4a37-4520-942e-3d41d8b71bf4,5047406,JEFF.GROSSARTH@ROG,Jeff,Grossarth,Monroe  Ct,15180105,Realty ONE Group,1732426,Update
+92c684fc-b7c0-4c5e-9d47-88ad18954bd8,1574316,DIANE.CAMPBELL@CBZHOMES.COM,Diane,Marzonie,Tucson-Foothills,12163833,Coldwell Banker Residential Brokerage NRT,3145525,Update
+92de874c-9919-40ae-8cb2-6e507842472e,4900527,TAYLOR.SANTOS@ROG,Taylor,Santos,Temecula  Ca,13795344,Realty ONE Group,1732426,Update
+92e8790f-6faf-443f-9871-af3d2a226646,4573647,00U6G02C5SJEXAMQK1T7,Stephanie,Seacat,Lakewood Ranch,14264169,Coldwell Banker Residential Brokerage NRT,3145525,Update
+937da871-129b-4816-b447-62bd1159c792,4903404,JAMESERBLAND@HH.INC,James,Erbland,Spencerport,13474569,Howard Hanna,1585672,Update
+93f4d39b-f877-4906-b377-c9dfcd9eb038,2422989,CAREY@PACUNION.COM,Carey N.,Miller,Compass | 1699 Van Ness,13101483,Compass,1412092,Update
+94166517-de5e-4c5b-8d39-b17ac713061c,5038422,MICHELLE.GREEVER@ROG,Michelle,Greever,Rocklin  Ca,13731189,Realty ONE Group,1732426,Update
+947cc3d9-be8a-46c3-936f-df0390671679,2753290,NANETTECHAMBERS@HH.INC,Nanette,Chambers,Spencerport,13474569,Howard Hanna,1585672,Update
+94862be2-4341-416c-9989-a23b66e2fed8,4733540,EGORY@INTEROREALESTATE.COM,Ed,Gory,San Carlos,15262026,Intero Real Estate,3220480,Update
+95128b98-8626-4985-bef3-b806338712fc,1285808,##_10_#JTHOPPER,Judy & Jim,Hopper,Lynnwood,8348091,Windermere Solutions LLC,1234567,Update
+953c54c6-9b4f-4226-a305-bb556b5fce05,3897451,00U4SWL874YQET4O71T7,Josh,Jackson,North Metro,14522763,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9591d65a-00b2-4983-a0a0-21894a4aac59,5057824,JCROWLEY@KINLINGROVER.COM,John C,"Crowley, Jr",Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+95d2a849-0be9-4811-a7b7-eee0290383ef,1603416,CWARD@FM,Carlene,Ward,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+95dd6fa7-5eec-4a74-bb92-7673e0a56d04,3025100,00U1KEMKHFDNTMMVU1T7,Jennifer,Collies,Avon,13923654,Coldwell Banker Residential Brokerage NRT,3145525,Update
+96f7a61e-50fd-4c74-8621-9138ca112f92,4223184,ADRIANA.OSORIO@CARRINGTONRES.COM,Adriana,Osorio,Ca- Orange County,15041925,Carrington Real Estate,3207067,Update
+97085cc7-441f-4289-b438-a88ae3690645,4584107,82381@LNF,Robert,Goodz,Lafayette Hill,11123535,"Long & Foster Real Estate, Inc.",1259026,Update
+979e7424-4b7d-4794-af25-ed91fee31783,5019093,BZARATE@INTERO.COM,Brenda,Zarate,San Francisco,15263013,Intero Real Estate,3220480,Update
+97c53816-b56d-4f28-a140-e4cc50a687fc,5069175,00U9Q1EMULT2WMRJO1T7,Chris,Williams,Gilroy,11673294,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9828cb1a-c538-49d2-ae97-09b37d5dab1c,4346628,##_903_#BRANDI.CUTLER@ROG,Brandi,Cutler,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+98cc7596-4ce9-46b9-be29-d7f6600d7833,2692268,##_975_#GREGORY.TORRES@ROG,Gregory,Torres,Las Vegas  Nv,13747968,Realty ONE Group,1732426,Update
+99f0bca9-7079-4e00-9585-f63dcc35f406,5049628,ABRAMHALL@KINLINGROVER.COM,Anne,Bramhall,Marion - East,15812772,Randall Family of Companies,2944330,Update
+9a504148-6ed8-4b40-a107-b3261083cbfe,5057828,JDOUGHERTY@KINLINGROVER.COM,John,Dougherty,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+9abe527a-e841-40c1-ac85-c1c96fdb1792,5067581,84609@LNF,REBECCA,PRUITT,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+9b21ec92-54a7-47c1-9479-bc2f50dffebd,2692682,CHRISTINE.LEVI1@ROG,Christine,Levi,Rancho Cucamonga  Ca,13730202,Realty ONE Group,1732426,Update
+9b2c660e-0309-403f-bab4-587da8fc3946,2694967,SHELITA.JEFFERSON@ROG,Shelita,Jefferson,Oak Hills  Ca,13717371,Realty ONE Group,1732426,Update
+9b9e532c-e52f-4bef-ade6-0da91b451cea,3004850,00US79986GTZ7F7O81T6,Holly,Connaker,Wayzata,14451699,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9cc0649d-5d78-428f-8d5f-9f0279d4d93b,1532642,##_559_#LEICHLER@HH.INC,Lisa,Eichler,Churchland,9916434,Howard Hanna,1585672,Update
+9d1a0401-a286-4f4a-b289-378a497c82aa,4812296,SGERSTMAN@KOENIGRUBLOFF.COM,Sandra,Gerstman,Winnetka,15528516,"HomeServices of Illinois, LLC",3233104,Update
+9e6ae6ba-9167-4bc7-9fa4-5d6fc53c1c72,5070902,00U9QTZ9F3ODFEJMU1T7,James,Todd,Sarasota Central,14269104,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9e9ebfbd-65b0-4264-8cc1-48f7f9a3030e,5049428,KKEW@KINLINGROVER.COM,Kerry,Kew,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+9ecf95e9-41eb-4998-995a-3263122ca6b9,3001732,00U1DAQFFHEJSUGHV1T7,Mary,Williams,Polaris Regional,14313519,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9efc2bc5-14f7-41dc-bb12-9e13ed14784e,5065912,JALBANO@KINLINGROVER.COM,Joseph,Albano,Boston,15808824,Randall Family of Companies,2944330,Update
+9efcbdb1-4263-4355-a41c-4e47c7729101,5070931,00U9QXNZ8VSSDLYSQ1T7,Joselina,Medrano-Lawless,Temecula Vail Ranch,12141132,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9f2397ba-dcfd-43ef-96ba-73a36916558d,5049445,CHARRINGTON@KINLINGROVER.COM,Cynthia,Harrington,East Dennis,15810798,Randall Family of Companies,2944330,Update
+9f89e243-44ba-4503-9cf6-707c1e9ad24f,5066547,00U9PJ2PLPRLAEOMU1T7,Patricia,Smith,Alexandria,14165469,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9fac5807-0392-4bc9-a5f0-d762f2894db8,1925132,ERIC.SWARTZ@CAMOVES.COM,Eric,Swartz,Malibu Colony,12193443,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9fd7c52f-aa87-4e9a-9f93-653b22f99545,3044687,00US7AITMRZW1GIRH1T6,Andre,Sheldon,Newton,13827915,Coldwell Banker Residential Brokerage NRT,3145525,Update
+9fe7a489-d9f5-4b92-894b-e61234c474c2,3855670,DIANA.GREEN@ROG,Diana,Green,Huntington Beach  Ca,13722306,Realty ONE Group,1732426,Update
+a005d215-01eb-4768-8fd5-2488893c2a67,1472787,CAROLLEXA,Carol,Lexa,1400 Van Ness,12043419,Compass,1431028,Update
+a0c81dd1-f82a-4ea4-b399-c3d316165483,5068303,MARYUZOWULU@HH.INC,Mary,Uzowulu,Little Creek,9925317,Howard Hanna,1585672,Update
+a16c2fd2-47d2-45c1-aea1-f8a0c57f2bff,3175858,##_10_#LIZ.SALTZMAN@RAVEIS.COM,Elizabeth,Saltzman,Glastonbury,12807357,William Raveis Real Estate,3077671,Update
+a18029bd-6f61-431e-b0a7-824b7c03c912,5047396,JENNIFER.GOTTSCHALK@ROG,Jennifer,Gottschalk,Andover  Mn,15187014,Realty ONE Group,1732426,Update
+a267e20e-7d01-42a0-8cba-9ba6207843d3,4564198,##_601_#CODY.WISSENBACH@ROG,Cody,Wissenbach,Las Vegas  Nv,13747968,Realty ONE Group,1732426,Update
+a2dcc8a2-4873-45e7-99d6-a378cc0cc067,1493311,ADRIANAD,Adriana,Donofrio,Glendora,9120912,Deasy Penner Podley,1416826,Update
+a2f5d124-b754-4da5-92bf-65aa886dd62c,2692393,##_866_#KEVIN.ZULLO@ROG,Kevin,Zullo,Irvine  Ca,13696644,Realty ONE Group,1732426,Update
+a34395f0-443c-4571-a201-c3682fdd0266,5062531,COREY.SMITH@ROG,Corey,Smith,Lancaster  Pa,13750929,Realty ONE Group,1732426,Update
+a35c46d3-936a-441c-b571-765e29a405be,3003106,00US7A1HGXQE9HX5B1T6,Heidi,MacPhee,Sudbury,13840746,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a37d7082-7dd9-4eee-aa27-377ba267906c,2755513,BUFF.MCLAUGHRY@FOURSEASONSSIR.COM,Buff,McLaughry,Hanover,13681839,Four Seasons Sotheby's International,3190498,Update
+a3fb5d24-8a76-4638-9f5f-a8ff2bf4997a,5060191,NGUYEN.PORTER@COMPASS.COM,Nguyen N.,Porter,Montclair,13209066,Compass,1412092,Update
+a4d40c3d-1247-467c-beb2-9fd3d10425bf,3027341,00U2AGPT38NMWFR3N1T7,Kati Curle &,Vladimir Babich,Destin / 30a,14238507,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a4f8f022-fabe-404d-9b5f-3c037ebbf638,3023000,00U14XTKB1FYYXEM41T7,Faith,Pennybaker,Lakewood Ranch,14264169,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a5757724-0906-4a88-ab8a-c66d144f97a1,3042789,00US7CLGI2BMGJPNA1T6,Ellen,Murphy,Westfield East,14049990,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a59f5b47-7da1-4df1-86b9-d0e03efae84f,5027357,00U9BX76EGTLQ6PVQ1T7,Marcia,Chiles,La Jolla Prospect @ Girard,12123366,Coldwell Banker Residential Brokerage NRT,3145525,Update
+a5d3fb1b-0f29-4fe1-a16e-f4a467f22d08,5065943,AHAIGNEY@KINLINGROVER.COM,Andrew,Haigney,Boston,15808824,Randall Family of Companies,2944330,Update
+a62761b7-2a9c-424f-981e-423d42c9bda4,1624243,##_871_#VINCENT.ABBATECOLA@RANDREALTY.COM,Vincent,Abbatecola,Corporate,13032393,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+a6e5a00f-1e65-4829-b8fe-e7ebbcc0abcd,5070015,PENNYRAY.RAY@ROG,Penny,Ray,Las Vegas  Nv,13746981,Realty ONE Group,1732426,Update
+a72271c8-2b95-4d1b-865b-b79a4299d052,5057823,DCOUTU@KINLINGROVER.COM,Devin M,Coutu,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+a78745ac-f0b5-4dfb-8d64-e015665eed8d,5065952,DKHESIN@KINLINGROVER.COM,Dmitriy,Khesin,Boston,15808824,Randall Family of Companies,2944330,Update
+a7f2db38-6142-4c95-8c7d-6626e7e2b23d,1501757,72492@LNF,Leon,DeLorme,Columbia,9759501,"Long & Foster Real Estate, Inc.",1259026,Update
+a81cda2b-1bd5-40e3-816d-b26dfe1a5021,5066705,HEATHERMATUSZWSKI@HH.INC,Heather,Matuszwski,Strongsville,9334104,Howard Hanna,1585672,Update
+a8dfa0ad-76c1-4c7f-9d62-16635292f446,2692999,##_540_#FENGLI.WANG@ROG,Feng Li,Wang,Irvine  Ca,13696644,Realty ONE Group,1732426,Update
+a8eea490-6735-4ebe-9cbb-cb31906b1419,5059580,MICHAEL.HASELHUHN@CL,Michael,Haselhuhn,Dickson,13611762,Crye-Leike Real Estate Services,3140002,Update
+a8f2e935-3829-4bae-86d8-14ec007079fd,5057803,RKINLIN@KINLINGROVER.COM,Robert B,Kinlin,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+a90aad2a-91e5-47cf-bf63-4b4619b2981f,5067663,84693@LNF,JEAN,ANDREWS,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+a9c42ced-48ac-4034-b992-1f3d4cf484c6,5062433,LAURANICOLES,Laura,Nicoles,Ponte Vedra,10461258,Watson Realty Corp Realtors,2018833,Update
+aa37f731-5cb9-4234-a415-bbd607eff827,4401313,00U5UY523O1BFB6WN1T7,Eileen,Sugiarto,Park City Newpark,14547438,Coldwell Banker Residential Brokerage NRT,3145525,Update
+aaece853-44e9-4e20-8840-a983259d342d,2690779,##_332_#JAMES.CARLSON@ROG,James,Carlson,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+ab74e213-fa13-4c5a-ae1e-a8de14b11fe2,5067657,84687@LNF,MARINA,YOUSEFIAN,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+abd944f4-23ae-476a-ac81-c70378d18507,5050925,SARA.RICHMOND@ROG,Sara,Richmond,Longview  Wa,15237351,Realty ONE Group,1732426,Update
+ac919f86-0b5b-472b-83c9-f8b950401942,5049456,HEATHCOKER@KINLINGROVER.COM,Heath,Coker,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+aca537b0-8c06-4d40-af3e-57762994477d,3016883,00US61818MIZ8CR0X1T6,Donna,Buzhardt,Irmo/Lake Murray,14643177,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ad255f62-46cb-4589-a654-b87bfd2c0e61,1571878,TERRI.MAXOUTOPOULIS@CBNORCAL.COM,Terri,Maxoutopoulis,Fremont,11668359,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ad4b53ab-cf53-47b1-ac1e-fb5791f8d11a,5069607,WENDY.MACDONALD1@ROG,Wendy,Macdonald,Portland  Or,13771656,Realty ONE Group,1732426,Update
+ad75b236-61a8-49c7-b384-27476cbeef17,4682929,00U6ZO08V64T32AJH1T7,Rachel,Remus,Plymouth,14447751,Coldwell Banker Residential Brokerage NRT,3145525,Update
+add4a8c4-5ef9-4890-80d5-377a613abe7f,4815205,##_10_#EOBEROI@INTEROREALESTATE.COM,Eddie,Oberoi,Fremont,15430803,Intero Real Estate,3220480,Update
+adeff2e1-f4d0-42fb-9832-48da66405ae1,5067643,84672@LNF,COLLEEN,MINAHAN,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+aea14bb7-84b2-4b52-a91e-90117c07d780,5049430,KRIMKUS@KINLINGROVER.COM,Kate,Rimkus,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+af358d97-cab0-4d1d-af77-9dbb57260283,5049434,CZEVITAS@KINLINGROVER.COM,Christa,Zevitas,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+af3a29ba-f377-4e5d-bd18-2a5408b8a1cb,5049780,KDEERMAN@KINLINGROVER.COM,Kathleen,Deerman,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+b03057e9-ccca-42e1-8f15-ae20d27ceca9,1514475,JUBILO,Ken Baer ABR,E-PRO,Metro,15802902,Willis Allen Real Estate,1621177,Update
+b081e0d1-afa8-410f-b5d1-0e7194534065,5067491,84519@LNF,JUDY,LEMME,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+b097e185-49fd-40b2-8bb1-5f3d45d7f498,5047724,84432@LNF,Catherine,Stewart,Grove,9847344,"Long & Foster Real Estate, Inc.",1259026,Update
+b11da5e7-ab79-4561-b8aa-47225fa1ce4a,4849439,CPITRE@SMITHANDASSOCIATES.COM,Christopher,Pitre,4th Street,15486075,Smith & Associates,3232315,Update
+b197ae4d-8881-4ee3-8372-383c3518bf74,4915555,83240@LNF,Carla,Espinosa,Vienna/Oakton,9741735,"Long & Foster Real Estate, Inc.",1259026,Update
+b198d99c-5904-4ff7-8e55-b14c7abffff4,5067557,84585@LNF,DARLENE,WINEGARDNER,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+b1ac4b7f-589f-4bd5-9e81-b18c53a2bbb5,5070307,CLAUDIA.DURKSEN@ROG,Claudia,Durksen,Vacaville  Ca,15767370,Realty ONE Group,1732426,Update
+b1af9c8d-7714-40d5-9b1e-150ae2f8aff2,2692196,##_473_#NAZANIN.KALHORI@ROG,Nazanin,Kalhori,Irvine  Ca,13696644,Realty ONE Group,1732426,Update
+b27f7f6b-de64-4544-b924-ba9e97c09086,5032054,ABIGAIL.GAW@RAVEIS.COM,Abigail,Gaw,Boston - Back Bay,12774786,William Raveis Real Estate,3077671,Update
+b2d447c7-440f-4d23-baf9-90f4f963d4ff,3046861,00US75J5EAECQK16X1T6,Heraty,Christensen Group,La Grange,14379648,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b4381a59-8eaa-4221-964a-28b1317f4a4f,5067536,84564@LNF,GRETCHEN,SMITH,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+b4483361-3d1f-45b6-ba5b-173e4f20bdca,5062296,00U9O6OR75Z9U9O7Z1T7,Leon,McDaniel,Woodbridge - Prince William County,14161521,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b4a2b48f-9b02-4073-ac4e-990f12e79a86,5071135,KATHIE.PFAFFLE@ROG,Kathryn,Pfaffle,Spirit Lake  Ia,14976783,Realty ONE Group,1732426,Update
+b51dfe07-ce14-4e00-8950-3be1ab08ad31,1603570,CHUANG@FM,Cheyenne,Huang,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+b5f21771-ef9d-4451-a525-98dd53a16aec,4849494,NSAARI@SMITHANDASSOCIATES.COM,Nancy,Saari,4th Street,15486075,Smith & Associates,3232315,Update
+b65f496f-f89a-4bed-b202-c304113e8d5f,5056413,00U9MI01M1P0Z3DNZ1T7,Trista,Toothaker,Brunswick,13894044,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b779a26b-6fba-4da2-9c33-70d8e7ecd09f,4772799,RSTOKES@FM,Ryan,Stokes,Durham Sales Office,12901122,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+b871b42d-2c39-47df-a35a-f503869bf089,4526573,00U65XABYHVC6Y0XN1T7,Dena,Webb,Newark/Granville,14317467,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b908394e-2d67-44b8-bc86-33d265d12c69,4983481,00U8U9I6OPCKADH1G1T7,Kathleen,Lowing,Ocean City - 123rd,14138820,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b9504e2e-02ad-436b-b08e-24b9788fdaf7,4995257,00U8XTOX5QNTDSWID1T7,Todd,Kaiser,Studio City,12181599,Coldwell Banker Residential Brokerage NRT,3145525,Update
+b9510fca-0918-4ccc-afc0-43896f2f57e1,5049388,DBOREFFI@KINLINGROVER.COM,Domonic F,Boreffi,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+b957afec-7625-424d-8375-dabd2ea482f6,2377544,MINDY.XU@PACUNION.COM,Nick,Cooper,Compass | 1699 Van Ness,13101483,Compass,1412092,Update
+b99f0260-6d33-4a83-9d36-d3b680709058,5063267,00U9OIVF3J4XMLVNG1T7,Natasha,Williams,Pearland,14619489,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bb6faa29-4497-40ba-88ba-ee8d351acd8b,5069154,00U9PZLPY9MLGIHQM1T7,Dorian,McGill,Winter Haven,14300688,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bbcd1e41-cdca-44d3-b25e-2ef9a6b50d1a,5070442,W.LEE.HARKINS@ROG,W. Lee,Harkins,Greenville  Sc,15169248,Realty ONE Group,1732426,Update
+bc931907-2c6f-4bac-8679-6790ccd67f4f,3012884,00US78XSNV1IJWN4N1T6,Erin,Turnley,Northwest Austin,14588892,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bca3e07e-90d2-4b55-ac8e-1aa1d2eef873,1499766,67843@LNF,Claudia,"McKenna, Realtor",Norfolk,9828591,"Long & Foster Real Estate, Inc.",1259026,Update
+bd38dfe8-db7c-4279-8854-3eebfc01edbf,1369293,KKRESS,Kim Lee,Kress,Lake Oswego - West,8273079,Windermere Solutions LLC,1234567,Update
+bd3ccfc3-de98-4b45-8652-ef5883809994,5049432,FSCHOFIELD@KINLINGROVER.COM,Fran,Schofield,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+bd4ef1bb-e5f1-4024-af92-73fcc65021ad,5054011,00U9LXSGRBRZAUBIS1T7,John,Wood,Greenwich,13943394,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bd5c0064-af8c-4597-bf0d-7be5c1e85342,4986702,00U8V0PFREVV6BHEJ1T7,Judy,Neer,Cohasset,13860486,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bd878898-1090-49e4-ac4a-866d02f4d652,1577810,##_10_#AKRUSE,Amy,Kruse,Helena,8367831,Windermere Solutions LLC,1234567,Update
+bd8c0858-9b93-4444-a177-9f705c81d659,5070020,BRANDI.ROBERTS@ROG,Brandi,Roberts,Vacaville  Ca,15767370,Realty ONE Group,1732426,Update
+bda5cca6-d3ed-4783-b366-f5aea77785cd,5067631,84660@LNF,DARLENE,MCLEAN,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+bdc2137c-80e8-4364-b226-d3223fda75a2,5049491,KPROPPER@KINLINGROVER.COM,Katie,Propper,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+be0a3eef-8d90-40d6-bae3-974108e3553a,2752836,JACLYNCOLE@HH.INC,Jaclyn,Cole,Guilderland,13330467,Howard Hanna,1585672,Update
+be50b097-14ad-499a-aa68-60b1ac8c4b53,4987018,TABATHA.HENDRICKSON@ROG,Tabatha,Hendrickson,Las Vegas  Nv,13747968,Realty ONE Group,1732426,Update
+be90f75b-6d27-4b5e-97e0-2ea96f80dcfb,1589294,CAROLYN.THOMAS@CAMOVES.COM,Carolyn,"Thomas, Realtor, BS, CPhT",Vista Village,12138171,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bea7a9a3-0048-4e32-a4cd-f5cec2dbae59,3007634,00US74WD50MKFU7IW1T6,Cathy,Cline,Ladue,14480322,Coldwell Banker Residential Brokerage NRT,3145525,Update
+bee5fce3-55f3-46bc-bc4b-aa610a694aac,5049457,HOLLYCOKER@KINLINGROVER.COM,Holly,Coker,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+bf05eb61-3aa4-41ff-8de4-3f9b497743f2,2753299,PHILLIPGIARDINO@HH.INC,Phillip,Giardino,Spencerport,13474569,Howard Hanna,1585672,Update
+bf5ab740-f347-4199-98e6-e4ad19e31e1c,3966103,##_557_#BRIAN.ALFRED@ROG,Brian,Alfred,Las Vegas  Nv,13748955,Realty ONE Group,1732426,Update
+c00d0d3f-779b-4f46-b920-c4b54b793f46,3046394,00US79LFODWBMAEKF1T6,Linda,Metta,Middletown,14060847,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c0d78650-be8c-4ced-8f95-712623cbd956,1621128,79899@LNF,Annette,Young,Denton,9893733,"Long & Foster Real Estate, Inc.",1259026,Update
+c1d15e98-c041-4354-bffb-806dd650c6ce,2691833,##_373_#NORMAN.SMITH@ROG,Norman,Smith,Las Vegas  Nv,13747968,Realty ONE Group,1732426,Update
+c23d7079-29c7-40ed-97dd-437bc45eacae,4859951,##_10_#DERRICKBAILEY@C21SCHEETZ.COM,Derrick,Bailey II,96th St.,15495945,C21 Scheetz Realty,3230737,Update
+c2450443-cb0e-47f8-9a37-85f8d7cef860,4829574,##_10_#STACYNELSON,Stacy,Nelson,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+c276b0c7-bec9-4270-8c94-6161cf70f998,2690983,##_568_#DOMINICK.ESKANDAR@ROG,Dominick,Eskandar,Irvine  Ca,13696644,Realty ONE Group,1732426,Update
+c34c89b6-8dd5-418a-ae80-dd3fdc57f5e7,4811835,##_10_#KKUEKER@KOENIGRUBLOFF.COM,Kathryn,Kueker,Wheaton,15527529,"HomeServices of Illinois, LLC",3233104,Update
+c3522869-a274-4b49-9098-f3070a3ea468,5049474,BHUSSEY@KINLINGROVER.COM,Barbara,Hussey,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+c3a0dfb8-05e1-4333-8e25-5523e26c9df1,5054021,00U9LXP8M6HSRGKYT1T7,Stephanie,Kline,Greenbrae,11676255,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c3a8bb24-b691-465a-911d-44aece980c89,5056430,00U9ML58BZYYHZR9Z1T7,Sissel,Eckenhausen,Devonshire,14532633,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c43ae6a4-57de-4665-b720-e1d0dfba02af,5041710,LHINKLE@FM,Lynnelle,Hinkle,Triangle Specialists Ii,12904083,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+c488b3b6-d34b-49de-8bc8-ed56cea8757e,2780805,##_138_#JARROD.COLEMAN@CL,Jarrod,Coleman,Chattanooga - Downtown,13532802,Crye-Leike Real Estate Services,3140002,Update
+c52b2947-1f54-42b4-bb38-001fd1815ebb,5070813,00U9QAHLASHX5UFJI1T7,Robyn,Riordan,South End/Dilworth,14629359,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c5fd268a-4cfe-424d-90e6-3686c84d621a,5067621,84650@LNF,FLETCHER,BAUMAN,Annapolis Bestgate,15870018,"Long & Foster Real Estate, Inc.",1259026,Update
+c5fecdf0-3ee0-4980-8ed5-cb0a38b20369,5067594,84622@LNF,AMBER,PARSLEY,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+c64709fb-f962-4f24-84f8-37311829ef77,5061133,00U9N3SMF6YROL8WT1T7,Joseph,Bence,Tampa Westshore,14298714,Coldwell Banker Residential Brokerage NRT,3145525,Update
+c64ff5c1-c860-4ee6-870d-5d726fe7ede8,2694828,WILLIAM.DOERLICH@ROG,William,Doerlich,Pleasanton  Ca,15908511,Realty ONE Group,1732426,Update
+c658e3d8-402e-4016-9648-04f3d78e3083,1614072,ROSEANN@WILLISALLEN.COM,Roseann,Concannon,Metro,15802902,Willis Allen Real Estate,1621177,Update
+c708d414-4d69-435b-89cb-99a80d17b3cf,5065944,JKENNEY@KINLINGROVER.COM,Julia,Kenney,Boston,15808824,Randall Family of Companies,2944330,Update
+c8630230-a29b-4a56-ae1d-72987e806ec0,5041772,##_10_#JCOATS,Johnathan J.,Coats,Tri-Cities Richland,8334273,Windermere Solutions LLC,1234567,Update
+c8a3dde8-fc8d-4c8a-a978-b2294bb51d51,5049410,KDYSART@KINLINGROVER.COM,Karen,Dysart,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+c97b0cdb-df4e-48d5-be43-3b0e7153e3e9,1545826,##_431_#76917@LNF,Quinton,Hedgepeth,Raleigh Area Pm,12001965,"Long & Foster Real Estate, Inc.",1259026,Update
+c98b173f-a3b2-4674-8b6f-2ae3fdb1b309,4380568,JLEVIC@FM,Julie,Levic,Brier Creek Sales Office,12902109,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+cada4913-9d93-4a5f-bc91-74716275261f,1497225,50043@LNF,TJ,Murphy,Chevy Chase/Uptown,9807864,"Long & Foster Real Estate, Inc.",1259026,Update
+cb536ad6-e1c2-4d84-80ed-06dbf3971ad4,3072259,##_201_#JOSEPHINE.CASTLE@RANDREALTY.COM,Josephine,Castle,Hoboken,13793370,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+ccc2d74c-3514-4dd3-b660-1d7b5811f494,4993230,00U8WXGXKET92WC111T7,Wendy,Robinson,East Manatee,14265156,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ccd8718e-b3bb-424b-8448-37c6136298b7,1870514,MICHAEL.CHAPMAN@CAMOVES.COM,Mike,Chapman,Los Feliz,12254637,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cce798a8-bdb8-4cb8-86d8-af01c2d710bc,5067570,84598@LNF,COOKIE,DRUMMOND,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+ce4d5708-e870-4d6f-adee-be50a02cde52,5057838,SLEWIS@KINLINGROVER.COM,Stuart,Lewis,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+ceca11ce-4c5b-479e-a980-8d3791ad8215,4859680,00U7YEX5EF5TSN1WK1T7,Matthew,Knoche,Reston,14160534,Coldwell Banker Residential Brokerage NRT,3145525,Update
+cf3502fd-6891-46d8-b946-a04e8f56336f,4031511,##_125_#DANIELTUERK@HH.INC,Daniel,Tuerk,Amherst,13491348,Howard Hanna,1585672,Update
+cf3bfd4d-7c76-4b5d-98c5-ac1de5d575e1,2422943,LYNN.FINNEGAN@PACUNION.COM,Lynn,Finnegan,Compass | 1699 Van Ness,13101483,Compass,1412092,Update
+cfa03136-cba8-4634-a34b-1847a03b607a,4829482,##_10_#SUE.CARLSON,Sue,Carlson,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+cfc80241-571c-4756-a65f-f6b5f3435d53,4829549,GREGLUKINA,Greg,Lukina,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+d0b486fa-ac87-4fa5-97d0-ddf70ec1c5bd,4933871,CHRISTIANAKOPETZKY@MICHAELSAUNDERS.COM,Christiana,Kopetzky,Michael Saunders & Company,15199845,Michael Saunders & Company,3212590,Update
+d10c34a1-fd4f-417b-bca2-5a4f585937cd,5032011,00U9E6T2VN0JQTD0P1T7,Stephanie,Kirksey,Perimeter,14186196,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d119fad4-fb5a-42e3-9ea4-e1df7959d710,1563266,LOUIS.DILLON@COX.NET,Louis,Dillon,Dana Point/San Clemente,12100665,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d2407f61-f848-4e8c-8591-a22d5353482b,5057840,SPOWELL@KINLINGROVER.COM,Scott,Powell,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+d3079bc0-b4d1-4832-83f7-d77f1f60c1f2,4850959,##_396_#HAWAMUSA@HH.INC,Hawa,Musa,Tonawanda,13308753,Howard Hanna,1585672,Update
+d308bcec-09ed-4247-bb81-adb6437aa004,1462208,ALISONR,Alison,Roberts,Post Falls,7977966,Windermere Solutions LLC,1234567,Update
+d458fc17-4289-4c81-bdeb-a0c58379953b,5070873,00U9QRTY8HDSPOHUA1T7,Austin,Gill,North Haven,13930563,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d471ef0b-2aca-496a-9383-943b75f54874,4829459,##_10_#SCHATZIADAMS,Schatzi,Adams,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+d4888fe6-c1b9-42e0-b3d8-6451e2d9eddc,4860032,##_973_#JENNA.MILAN@ROG,Jenna,Milan,Huntington Beach  Ca,13722306,Realty ONE Group,1732426,Update
+d499cd4f-717f-4503-a349-0970bf244209,5046589,NIKKIE.FRANK@ROG,Nikkie,Frank,Lone Tree  Co,13739085,Realty ONE Group,1732426,Update
+d553fb30-b7dd-4fe0-8206-52bdf6e031dd,5049321,00U9KTQXP3ITTBV281T7,Robert,Vierow,Elmhurst,14377674,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d5a0c505-77c7-4294-9921-d50b3d574147,5049365,VWHITTIER@KINLINGROVER.COM,Vicky,Whittier,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+d5def6b5-ecfd-4a4b-949d-7878377eb2fd,5070919,00U9QVK8S4TD2OFK41T7,Jorge,Abreu,Brickell - Key Biscayne,14251338,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d6083eca-7be9-4129-b0fb-e1056dc23cd6,5067659,84689@LNF,MATT,WYBLE,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+d6e5951d-a690-474c-b60c-457f1ae966c4,5057802,DKENNEY@KINLINGROVER.COM,Deborah,Kenney,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+d70f970e-a4fc-45d6-94f8-3fdec9574b28,5057804,AMARKS@KINLINGROVER.COM,Adam H,Marks,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+d71174d2-f10f-4ed7-a96b-5487f500b037,4727824,NURIE.EASTER1@ROG,Nurie,Easter,Monroe  Ct,15180105,Realty ONE Group,1732426,Update
+d740417f-1744-4840-8a28-62b2a13db176,3014236,00US77WHJD7LL9HR31T6,Eileen,Wilcox,Blue Bell,14582970,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d74f3b0f-2d82-4e95-8a6e-7de4d66c12b0,3034380,00US78XY0FJAQQV9O1T6,Kathleen,Coleman,Scarsdale,13979913,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d788cda2-b983-4298-88e5-9f12b8c031dc,4783514,EVANHENGEL@FM,Emily,Van Hengel,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+d7974385-45bb-43cf-b333-0156aad8f8f7,2757548,MBEILER@FM,Matthew,Beiler,Lochmere Sales Office,12906057,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+d7c7e948-636f-4a17-bee5-d69e71a93e4d,5049429,SMABILE@KINLINGROVER.COM,Sharon,Mabile,Chatham - East,15809811,Randall Family of Companies,2944330,Update
+d80e6b7d-e7c0-4794-8006-205b8bdf3dcf,4013816,OTOMASEK@JBGOODWIN.COM,Ofelia,Tomasek,Westlake,14980731,JB Goodwin Realtors,3203122,Update
+d8651749-59c4-4121-b890-a74c7b0ada30,2113188,FRANKJCLINTON@HH.INC,Frank,Clinton,New Castle,9208755,Howard Hanna,1585672,Update
+d872c22b-e60c-4afb-b895-01cd8dcdf817,5061143,00U9N528I935B1ZQG1T7,Nannette,LaDuca-Boose,Roseville -Granite Bay,11699943,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d8a53252-2e76-4cf3-90ac-f461edcb038b,1498513,61094@LNF,Lisa,Covert,Reston,9745683,"Long & Foster Real Estate, Inc.",1259026,Update
+d9081efe-60b2-4197-8d30-34e4011f3389,5057817,TMARKOWSKI@KINLINGROVER.COM,Tiffany,Swan Markoski,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+d92b616e-2d93-4f0d-86d5-d02ab37b5e33,1607016,BEATRIZ.WADE@CAMOVES.COM,BEATRIZ,Wade,Irvine,12101652,Coldwell Banker Residential Brokerage NRT,3145525,Update
+d97b5569-35ff-42d6-945d-42e983a34ce2,4728837,##_10_#BSORSBY,Brianne,Sorsby,Redmond,8294793,Windermere Solutions LLC,1234567,Update
+daa40fe8-dceb-4876-867f-0b59d3fbf357,5049789,CFRISBEE@KINLINGROVER.COM,Christine K,Frisbee,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+dab69629-9eb4-4ac2-be29-de33025604eb,2753285,MARYDAMBROSIO@HH.INC,Mary,D'Ambrosio,Spencerport,13474569,Howard Hanna,1585672,Update
+dac90a6c-2919-4429-b1f1-38849284d314,5047129,00U9JZ3XHLXFXT7RA1T7,Linda,Ehrlich,Pascack Valley Regional,14021367,Coldwell Banker Residential Brokerage NRT,3145525,Update
+db5ec37c-afa4-4783-8748-13c142b99b82,4849528,CPHILLIPS@SMITHANDASSOCIATES.COM,Cole,Phillips,Coastal & Northern Beaches,15487062,Smith & Associates,3232315,Update
+db847b0a-d178-4683-8376-26be5f5e6989,5054509,##_527_#CAROL.GUINAN@ROG,Carol,Guinan,Woodstock  Ga,15351843,Realty ONE Group,1732426,Update
+dc1d622a-329b-4e1e-a9c5-ec710ebee2a2,5066818,DCOTTINGHAM@FM,David,Cottingham,Chapel Hill Sales Office,12900135,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+dc3ca764-02a9-4d8a-b700-4ef575fc8e94,2691743,##_947_#KEVIN.KELLY@ROG,Kevin,Kelly,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+dca02214-8b5b-443a-ac04-5ba420ba153f,1553328,78043@LNF,Wendy,Soroka,Bethesda Gateway,9748644,"Long & Foster Real Estate, Inc.",1259026,Update
+dcc23342-c152-4fd5-9c4a-1423fc64dcc4,5046618,84421@LNF,Diane,Snyder,Art Herling Team Blue Bell,9873006,"Long & Foster Real Estate, Inc.",1259026,Update
+dcf9b9df-471f-4fe8-9765-f217de76061e,5070870,00U9QRI2Z2LOY6GJY1T7,Reene,Skandaliaris,Clearwater,14287857,Coldwell Banker Residential Brokerage NRT,3145525,Update
+dd76a5c9-9ca8-4a4d-b030-a171c06f922f,5067611,84640@LNF,JOANIE,PEACOCK,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+def20947-9cfc-44f7-ba90-e339a5db3cd1,1516343,PATTIEMARMON,Pattie,O'Loughlin Cloud,Seattle-Sand Point,8179314,Windermere Solutions LLC,1234567,Update
+df513b1c-83a6-4fea-b25c-7d6afa982502,5067258,KIMBERLY.MOSES@ROG,Kimberly,Moses,Vacaville  Ca,15767370,Realty ONE Group,1732426,Update
+dfd306a1-a84f-4e5b-839d-2e13fc3c246b,3900737,CHERIEHUNTSHOMES@GMAIL.COM,Cherie,Hunt,Sacramento,14935329,Better Homes and Garden Reliance Partners,3203911,Update
+e02f05b6-7a80-47bd-bcdc-56179b240413,3021631,00USYLZKRXVRHN8HG1T6,Sydney,Delanty,Mount Pleasant,14646138,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e06557c7-51a1-472f-8786-04e76a2bce62,3710805,VALERIEHARHAGER@HH.INC,Valerie,Harhager,Hanna Cre,9455505,Howard Hanna,1585672,Update
+e080aaa3-c251-419f-b659-3f5a7c84f2b6,5049488,MOSTROFF@KINLINGROVER.COM,Meghan,Moore Ostroff,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+e11e4e06-f9d1-4332-ba7d-563981261c09,4705739,##_588_#SARAHSOHLDEN@HH.INC,Sarah,Sohlden,"Columbus, Oh-Lenker Group",15389349,Howard Hanna,1585672,Update
+e14d6087-eebc-4a06-997f-1889306e0733,5049490,LYNNONEILL@KINLINGROVER.COM,Lynn,O'Neill,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+e21c5901-9f7c-496a-a169-eb6a3aad30c2,2693670,MINA.ALI1@ROG,Mina,Ali,Anaheim  Ca,13708488,Realty ONE Group,1732426,Update
+e29ce42e-3135-4196-8ac6-93894ae5f9b1,4829539,STEPHANIEKINGDOM,Stephanie,Kingdom,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+e32e4b1f-6e4a-4301-962a-76676ed9d36f,5065956,LOLSEN@KINLINGROVER.COM,Louise,Olson,Boston,15808824,Randall Family of Companies,2944330,Update
+e33dc642-b420-4b50-8709-ee9026122000,5050400,00U9L41EITMISUNPJ1T7,Cheryl,McKane,East Manatee,14265156,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e399d665-9603-42ab-a503-1efd4fe8722c,3032989,00US75GOHO7PK4JX51T6,Patricia,Canniff,Yorktown Heights,13982874,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e3a3d1ed-2abc-42a8-913d-c4f4a030fad1,4894480,TONYGIACOVELLI@HH.INC,Tony,Giacovelli,Endwell/Binghamton,13366986,Howard Hanna,1585672,Update
+e4074af2-aafc-4a5f-8198-95dfad701906,4829469,JUSTINBARE,Justin,Bare,Scotts Valley,15483114,"David Lyng & Associates, Inc.",3231526,Update
+e4147d1a-6129-41e3-bbd0-80d3aae33816,5049774,DCANEY@KINLINGROVER.COM,Debra,Caney,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+e4152a2c-9707-4651-97ec-e1c364c29032,5049469,CCOSTA@KINLINGROVER.COM,Cass,Costa,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+e4f597f3-ac47-414f-8b80-68f983f6bc0a,2752170,CLAYTONERTEL@HH.INC,Clayton,Ertel,Amherst/Clarence,13301844,Howard Hanna,1585672,Update
+e514894a-b174-4c0c-badf-044d1ddd369c,5061217,00U9NZEF3MYFZWE7P1T7,Jason,Erbert,Southeast Metro (Dtc),14518815,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e5ac8af5-521f-49ae-ba0a-1815aa360782,4484547,##_259_#GRACEHUTCHISON@MICHAELSAUNDERS.COM,Grace,Hutchison,Michael Saunders & Company,15191949,Michael Saunders & Company,3212590,Update
+e6769c8b-075f-4a5e-8773-a52d3cfbfa2c,4997795,MELANIEAYERS@HH.INC,Melanie,Ayers,New Castle,9208755,Howard Hanna,1585672,Update
+e67b6ea5-668d-4f22-bd4d-2b1bbf79abf7,5049615,JAMIEREGAN@KINLINGROVER.COM,Jamie,Regan,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+e6ab607b-1300-4792-a31c-c4afcc0e327b,5049345,DSALAS@KINLINGROVER.COM,Denise,Bracken-Salas,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+e6ffc564-65ab-4031-ab66-83bf85930fa0,4781484,JAMESDISHONGH,James,Dishongh,Vancouver Metro,8264196,Windermere Solutions LLC,1234567,Update
+e7638d41-5efb-4037-b35e-1d294a67b9af,3024868,00U1IOR2A1K5ECDOB1T7,Sydnee,Johnson,Pensacola,14244429,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e76fc721-3180-4596-a4b3-829c37370726,5069906,DEBORAHMARTIN,Deborah,Martin,Portland- Raleigh Hills,8171418,Windermere Solutions LLC,1234567,Update
+e79ce7c5-c751-449f-9ddb-35f4de3ac8d5,5049779,VDOLIMPIO@KINLINGROVER.COM,Vincent,D'Olimpio,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+e8f99886-c322-44ee-99ab-b3d07c600754,3018675,00US78SQXKAY1I4PK1T6,Jimmy,Stewart,Ft. Collins,14525724,Coldwell Banker Residential Brokerage NRT,3145525,Update
+e9908a77-2d59-4a49-9229-7348ddd1028e,3007515,00US7C40ANPSZ0KVP1T6,Michael,Pisani,Pascack Valley Regional,14021367,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ea2dfc90-61a0-4d31-b0ab-9482bb3d1e0e,2692903,SEAN.BALASURIYA@ROG,Sean,Balasuriya,Las Vegas  Nv,13748955,Realty ONE Group,1732426,Update
+ea58d389-21cb-49af-a6d2-32fe0886433e,3598651,##_963_#ASHLEY.CAMPUSANO@RANDREALTY.COM,Ashley,Campusano,Hoboken,13793370,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+ea5a6177-aa2d-4bba-8f55-f915aed1b743,5057829,JFRESENIUS@KINLINGROVER.COM,Jeff,Fresenius,Provincetown - West,15814746,Randall Family of Companies,2944330,Update
+ea654c0d-4168-4d1f-9a97-2e3794f8ca90,5049627,MSUSIENKA@KINLINGROVER.COM,Marlene,Susienka,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+ea700c05-ad79-481c-9c37-5c248c3dc542,5056668,KELLYCAMLIN@HH.INC,Kelly,Camlin,Lakewood,9316338,Howard Hanna,1585672,Update
+ea92024e-aa6a-4cea-9a65-afb1c18dafdd,5049353,TMORRIS@KINLINGROVER.COM,Terri,Morris,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+eb2c6bf3-bffc-4ee9-b6dd-5e132b554fff,5067576,84604@LNF,KATHRYN,HEATH,Crofton/Bowie Tri-County,9757527,"Long & Foster Real Estate, Inc.",1259026,Update
+eb8e5741-dce3-4971-8948-22fd249995b4,5070857,00U9QGHVXRTRJNV411T7,Kristin,Haadsma,Central/North Brevard,14231598,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ec5b1946-996c-4bfa-9606-ba4c3f4254f7,5040373,MONA.BEKHEET@ROG,Mona,Bekheet,Mclean  Va,15365661,Realty ONE Group,1732426,Update
+ec951014-1666-4b6e-8d86-e1788a8564b9,1448595,##_10_#RICKAHMANN,Rick,Ahmann,Helena,8367831,Windermere Solutions LLC,1234567,Update
+eca3ea93-3e8b-4795-be4d-bf109ecec8df,5067666,84744@LNF,Nick,Bogardus,Columbia,9759501,"Long & Foster Real Estate, Inc.",1259026,Update
+ecaa987e-7c03-42a6-a14e-0f16628b46e7,5049773,KSBYRNE@KINLINGROVER.COM,Kathleen S,Byrne,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+edc8dad4-03f6-4ead-804d-cde96063672d,4667458,AMANDACUNNINGHAM@HH.INC,Amanda,Cunningham,New Castle,9208755,Howard Hanna,1585672,Update
+edcfdb6f-03b1-4db7-84e9-7da3032b2ccc,2754100,JIMKIBBY@HH.INC,Jim,Kibby,Referral,13489374,Howard Hanna,1585672,Update
+edee4535-7498-43a4-b224-65158aa1c370,5067649,84678@LNF,DICK,SELLS,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+edfe169f-1739-4339-8cb0-12e9c92b2e91,4658801,AYUSH@WILLISALLEN.COM,Ayush,Vats,Metro,15802902,Willis Allen Real Estate,1621177,Update
+ee1bdf98-474f-4e72-aa6a-c8e2956da732,5063269,00U9OGPCDUPEZU1CZ1T7,Steve,Hennecke,Elk Grove,11694021,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ee9ddbcb-a857-4db7-85c3-335fa7a37526,4673677,MORGAN.TAYLOR@ROG,Morgan,Thomas,Doylestown  Pa,13749942,Realty ONE Group,1732426,Update
+ef120ca6-dc3c-4853-a87c-da7a041756dd,5070863,00U9QGZWYB8OAHDKH1T7,Rodney,Jackson,Metropolitan,14603697,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ef20f4c5-09d0-4562-8964-19e8a65e1a89,5049775,KATHYCRAIG@KINLINGROVER.COM,Kathy,Craig,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+ef9754dc-7165-4869-b302-85152dd6e30e,5049356,PSPENCE@KINLINGROVER.COM,Polly M,Spence,Barnstable - East,15807837,Randall Family of Companies,2944330,Update
+eff6de32-95d0-4066-9158-417e16431f50,3040227,00US793GEZSHBJ6OM1T6,Scott,Gydesen,Highland Park,14434920,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f0bb21cb-8fd5-45aa-99d8-2e17277a9150,5067518,84546@LNF,PAT,CATTERTON,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+f169f868-f6a9-4a13-b1d4-a9771b818b9e,5067494,84522@LNF,LARRY,RIPPETOE,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+f23a62e5-f18d-4507-ac8d-a96a4cbdcc49,4959549,ASHLEYPERTZ@HH.INC,Ashley,Pertz,Bay Village,9275871,Howard Hanna,1585672,Update
+f3c799bc-c603-4fdc-bd5c-656008d8efed,3881316,00US7EE6FOYVXYKRM1T6,Mary,Chakakis-Evans,Pleasanton,11680203,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f40a2881-c59c-4f2c-a165-64f89bfd46dc,5055430,RGOULET@KINLINGROVER.COM,Ray A,Goulet,Osterville - West,15813759,Randall Family of Companies,2944330,Update
+f491c01f-a647-4ed1-ac36-1e8cdda273da,3012985,00US61BSAPKFMFHNT1T6,Janet,Parker,Arboretum,14626398,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f4bdc26c-8104-4578-9a13-da85d639d970,4566125,##_190_#MARYSOL.TERRAZAS@ROG,Marysol,Terrazas,El Paso  Tx,13768695,Realty ONE Group,1732426,Update
+f4c69415-ca13-4bef-99c3-733d16189003,5027347,00U9BV7WK83IJORGQ1T7,Jazzy,Singh,Marysville,14319441,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f4c99f70-9504-4a78-baf8-7675bfd33023,5067535,84563@LNF,SHARON,CREW,Kent Island,9778254,"Long & Foster Real Estate, Inc.",1259026,Update
+f5759ef5-6580-4651-9622-709016834fc2,3854805,##_511_#ADRUAR@FM,Alex,Druar,Wake Forest Sales Office,12917901,Fonville Morisey Realty a Long & Foster Company,3057157,Update
+f58dcb1f-0249-4387-a117-1dae9adfae22,3605572,TERESA.HILARIO@HUDSONUNITED.COM,Teresa,Hilario,Mortgage,13797318,Better Homes and Gardens Real Estate Rand Realty,3076093,Update
+f58de7d9-26b0-42b9-8e11-59da0f048912,4886398,##_10_#LKOVACH@MRGTEAM.COM,Lynn,Kovach,Clifton Park,15650904,"Miranda Real Estate Group, Inc",3237838,Update
+f659a229-c087-4905-95a7-60617420c457,5049478,NJOYAL@KINLINGROVER.COM,Nancy M,Joyal,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+f677a780-0b93-4599-997d-e3493bb15ea4,5028148,00U9CFJYZYNSCNLVT1T7,Doran,Shapiro,Tenafly,14027289,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f6b21b38-0459-4f94-a903-5cb16f8466e0,4849721,VARTHUR@SMITHANDASSOCIATES.COM,Vicki,Arthur,Bay To Bay,15485088,Smith & Associates,3232315,Update
+f856ec0e-145d-4f08-9f89-9d39a0584c4b,3803124,##_10_#ANDREI@PACUNION.COM,Andrei,Bandrovsky,Palo Alto,13146885,Compass,1412092,Update
+f91b04d4-6101-4e7d-9ae6-4aae6a2a9ff9,5049409,CCARON@KINLINGROVER.COM,Charles E,"Caron, Jr.",Chatham - East,15809811,Randall Family of Companies,2944330,Update
+f976c736-62d5-4e90-817e-ae9402d20469,5070843,00U9QEBOV9HSFDQHI1T7,Natalie,Boehme,Edina Regional,14443803,Coldwell Banker Residential Brokerage NRT,3145525,Update
+f9814b86-db32-4554-92b8-a23295641663,4402737,##_916_#82115@LNF,Dee Dee,McPhaul,Burke/Fairfax Station/Clifton,9744696,"Long & Foster Real Estate, Inc.",1259026,Update
+f9b2517b-dd8e-44f1-9a11-a2402960d13c,5030561,LORRIEMOHRHOFF@HH.INC,Lorrie,Mohrhoff,Manlius,13421271,Howard Hanna,1585672,Update
+fa184c2e-4534-4d7d-9442-9897aa969d0e,3040705,00USNBLRDUKMSHWRF1T6,Melanie,Mitsunaga,Leeward,14571126,Coldwell Banker Residential Brokerage NRT,3145525,Update
+fa6cf009-8756-4af1-b3e4-47330f02c6a9,2690903,##_992_#ELVA.MORIN@ROG,Elva,Morin,Corona  Ca,13714410,Realty ONE Group,1732426,Update
+fa6dfc98-f368-43e6-b609-bcb2f38cc01f,4859703,00U7YAE71YRGQXC4G1T7,Aida,Solano,Naples 5th Avenue,14280948,Coldwell Banker Residential Brokerage NRT,3145525,Update
+faa729be-4513-4322-a3b4-4bc153051e66,1485142,AGAUSE@HH.INC,Ausra,Gause,Sewickley,9195924,Howard Hanna,1585672,Update
+fb3066a0-d375-48f4-a937-c4ac4add6093,4472097,##_102_#JOSHRICHMOND@HH.INC,Josh,Richmond,Williamsburg,9931239,Howard Hanna,1585672,Update
+fb57afba-844f-4dfa-9cb7-eac551889a96,5037379,BRIAN.WIRICK@ROG,Brian,Wirick,Prescott  Az,13702566,Realty ONE Group,1732426,Update
+fbc5f198-a5da-45e6-a2c5-4a1f632cc98c,1017084,##_10_#CONICHOL,Colleen,Winslow,Lynnwood,8348091,Windermere Solutions LLC,1234567,Update
+fc51329d-1bb5-4a18-be31-3c10f102cc3f,5067510,84538@LNF,DON,BONN,Severna Park,9771345,"Long & Foster Real Estate, Inc.",1259026,Update
+fcdbf8d5-8c9f-4f90-927a-b38b061b8490,1562947,JAMIEEVA,Jamie,McLees,Helena,8367831,Windermere Solutions LLC,1234567,Update
+fe7cad60-19a2-4529-a15e-5ceaed894bac,5050744,SANDY6886,Sandra,McMillen,Portland - Hollywood,8301702,Windermere Solutions LLC,1234567,Update
+fe84c4c2-aed8-4c22-a041-ba614eb79784,5049479,CLAVALLEY@KINLINGROVER.COM,Carol,LaValley,Falmouth Main St - East,15811785,Randall Family of Companies,2944330,Update
+ff10b13b-21a2-49ee-85aa-6e9342c19ca9,2690844,DAVID.PLATTER@ROG,David,Platter,Scottsdale   Az,13704540,Realty ONE Group,1732426,Update
+ff32586f-4c4e-4694-a09c-d0fe6d3fef9f,1537119,JULIA.BRITTNER@CBNORCAL.COM,Julia,Brittner,San Jose-Almaden,11720670,Coldwell Banker Residential Brokerage NRT,3145525,Update
+ff4e34a1-cbb7-4d00-b8be-3c5c4bcc94f3,2754883,##_616_#KRISTENWALDERBIGGIE@HH.INC,Kristen,Walder Biggie,Amherst,13491348,Howard Hanna,1585672,Update
+ff6a970b-8859-4c0e-96b2-35cfe91da08c,5064206,00U9OTJUBAEZR9PAR1T7,Darin,Barker,San Diego / Mission Valley,12134223,Coldwell Banker Residential Brokerage NRT,3145525,Update

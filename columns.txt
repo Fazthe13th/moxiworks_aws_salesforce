@@ -1,0 +1,111 @@
+Xls-fields > DB table moxiworks_account & moxiworks_account_delta fields
+company_legalname > company_legalname
+companypublickey > companypublickey, parent_company_legal_name, parent_company_key
+company_addressline1 > company_addressline1
+company_addressline2 > company_addressline2
+company_city > company_city
+company_state > company_state
+company_zipcode > company_zipcode
+company_webpage > company_webpage
+agent_count > agent_count
+company_phone > company_phone
+company_moxi_hub > company_moxi_hub
+company_moxi_dms > company_moxi_dms
+company_moxi_engage > company_moxi_engage
+company_moxi_present > company_moxi_present
+company_moxi_websites > company_moxi_websites
+company_moxi_talent > company_moxi_talent
+company_moxi_insights > company_moxi_insights
+show_in_product_marketing > show_in_product_marketing
+advertise_your_listing > advertise_your_listing
+ayl_emails > ayl_emails
+advertise_your_services > advertise_your_services
+ays_emails > ays_emails
+direct_marketing > direct_marketing
+
+
+
+
+
+office_legalname
+office_name
+officepublickey
+office_addressline1
+office_addressline2
+office_city
+office_state
+office_zip
+office_phone
+office_website
+companypublickey
+company_legalname
+
+# moxiworks_office & moxiworks_office_delta
+
+officepublickey character varying(250),
+office_addressline1 character varying(250),
+office_addressline2 character varying(250),
+office_city character varying(250),
+office_state character varying(250),
+office_zip character varying(250),
+office_phone character varying(250),
+region_name character varying(250),
+office_website character varying(250),
+companypublickey character varying(250),
+company_legalname character varying(250),
+sfdc_office_id character varying(250),
+created_date timestamp without time zone,
+updated_date timestamp without time zone,
+status character varying(250)
+
+
+moxiworks.moxiworks_contact_delta
+(
+  agent_uuid character varying(250) NOT NULL,
+  userid character varying(250),
+  agent_username character varying(250),
+  firstname character varying(250),
+  lastname character varying(250),
+  nickname character varying(250),
+  officename_display character varying(250),
+  officepublickey character varying(250),
+  office_addressline1 character varying(250),
+  office_addressline2 character varying(250),
+  office_city character varying(250),
+  office_state character varying(250),
+  office_zip character varying(250),
+  office_phone character varying(250),
+  office_extension character varying(250),
+  company_legalname character varying(250),
+  companypublickey character varying(250),
+  lastmodified timestamp without time zone,
+  primary_email character varying(250),
+  secondary_email character varying(250),
+  alternate_email character varying(250),
+  direct_phone character varying(250),
+  mobile_phone character varying(250),
+  title_display character varying(250),
+  accred_display character varying(250),
+  currentrolename character varying(250),
+  user_category character varying(250),
+  title_cleaned character varying(250),
+  team_name character varying(250),
+  team_member_type character varying(250),
+  date_deactivated timestamp without time zone,
+  agent_active boolean,
+  at_least_one_mls_association boolean,
+  agent_moxi_hub boolean,
+  agent_moxi_dms boolean,
+  agent_moxi_engage boolean,
+  agent_moxi_present boolean,
+  agent_moxi_websites boolean,
+  agent_moxi_talent boolean,
+  status character varying(250),
+  CONSTRAINT moxiworks_contact_delta_pkey PRIMARY KEY (agent_uuid)
+)
+
+Typo: In word 'addressline'
+
+'2835448', '2842549', '1553323', '1261393', '1663783', '1664572', '2485132', '1242457', '3205489', '2843338', '2579812', '2980624', '1624333', '3139213', '3016129', '3016918', '1240879', '2958532', '3238627', '1509928', '2934073', '2582968', '3100552'
+
+'agent_count', 'company_moxi_hub', 'company_moxi_dms', 'company_moxi_engage', 'company_moxi_present', 'company_moxi_websites', 'company_moxi_talent', 'company_moxi_insights', 'show_in_product_marketing', 'advertise_your_listing', 'ayl_emails', 'advertise_your_services', 'ays_emails', 'direct_marketing'

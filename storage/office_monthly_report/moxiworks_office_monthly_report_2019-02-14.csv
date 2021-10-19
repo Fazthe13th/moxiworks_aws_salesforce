@@ -1,0 +1,10 @@
+officepublickey,middleware_data,sfdc_data
+15863109,"{'office_name': ""Barrett Sotheby's International Realty -""}","{'office_name': 'Acton, MA'}"
+13484439,{'office_name': 'Canandaigua'},{'office_name': 'Canandaigua - North'}
+15768357,{'office_phone': '484-490-2888'},{'office_phone': '484-461-4167'}
+15053769,{'office_zip': ''},{'office_zip': '34108'}
+14567178,"{'office_name': 'NATO & Windward', 'office_addressline1': '970 N Kalaheo Ave Suite C215'}","{'office_name': 'NATO - East', 'office_addressline1': '970 N Kalaheo Ave'}"
+15541347,{'office_phone': ''},{'office_phone': '402-270-6858'}
+12001965,{'office_addressline1': '962 Hwy 42 West'},{'office_addressline1': '110 E Second Street'}
+12867564,"{'office_zip': '', 'office_phone': ''}","{'office_zip': '10583', 'office_phone': '914-472-3133'}"
+15718020,{'office_phone': ''},{'office_phone': '707-728-0504'}

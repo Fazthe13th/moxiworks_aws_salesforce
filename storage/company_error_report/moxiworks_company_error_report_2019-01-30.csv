@@ -1,0 +1,80 @@
+company_legalname,company_name,companypublickey,company_addressline1,company_city,company_state,company_zipcode,company_phone,company_webpage,agent_count,company_moxi_hub,company_moxi_dms,company_moxi_engage,company_moxi_present,company_moxi_websites,company_moxi_talent,company_moxi_insights,show_in_product_marketing,advertise_your_listing,ayl_emails,advertise_your_services,ays_emails,direct_marketing,reason
+Monterrey Coast Realty,Monterrey Coast Realty,3233893, ,Carmel,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Smoakhouse Properties,Smoakhouse Properties,3238627,3419 Maybank Hwy ,Johns Island,SC,29455,843-355-9020,jimsmoak.com,2,True,False,True,True,True,False,False,False,False,False,False,False,False,"Companypublickey contains 3238627, Agent count is less then 5"
+Sotheby's International Realty,Sotheby's International Realty,3242572,149 Fifth Avenue 4th Floor,New York City,NY,10010,,https://www.sothebyshomes.com,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Carmel Realty Company,Carmel Realty Company,3211801, ,Carmel-By-The-Sea,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+B Side Properties LLC,B Side Properties,3197599, ,Austin,TX,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+McMonigle Group Corp,McMonigle Group,3207856, ,,,,949-979-1816,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Coldwell Banker,Coldwell Banker,3219691, ,Orlando,FL,32837,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Keller Williams Realty -El Cajon,Keller Williams Realty -El Cajon,3198388, ,El Cajon,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+JP and Associates Realtors,JP and Associates REALTORS,3208645, ,Austin,TX,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Douglas Elliman Real Estate,Douglas Elliman Real Estate,3188920, ,San Diego,CA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+eXp Realty - Kelly Broaddus Real Estate ,eXp Realty - Kelly Broaddus Real Estate ,3216535, ,Peoria,AZ,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+AVACAD Inc,AVACAD Inc.,3218902, ,San Ramon,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+eXp Realty,eXp Realty,3211012, ,Austin,TX,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+EXP Realty of California,EXP Realty of California,3193654,2603 Camino Ramon Suite 200,San Ramon,CA,94583,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Partners Trust,Partners Trust,3200755,9378 Wilshire Blvd. Ste 200,Beverly Hills,CA,90212,310-050-0390,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+MoxiWorks Tst ACCT,MoxiWorks Test,3016129, ,Seattle,WA,,,,3,False,False,False,True,False,False,False,True,False,False,False,False,False,"Companypublickey contains 3016129, Agent count is less then 5"
+Google Auth Test,Google Auth Test,3205489, ,,,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,"Companypublickey contains 3205489, Agent count is less then 5"
+Gapps Moxiworks,Gapps Moxiworks,2485132, ,,,,,,3,True,False,True,True,True,False,False,True,True,True,False,False,False,"Companypublickey contains 2485132, Agent count is less then 5"
+TEST Company,TEST Company,1509928, ,Testville,WA,,,,21,False,False,False,True,False,False,False,True,False,False,False,False,False,Companypublickey contains 1509928
+MRIS,MRIS,1240879, ,Baltimore,MD,21212,,,10,False,False,False,True,False,False,False,False,False,False,False,False,False,Companypublickey contains 1240879
+Guarantee Real Estate,Guarantee Real Estate,2420434, ,Fresno,CA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+RE/MAX Town and Country,RE/MAX Town and Country,2289460, ,Allen,TX,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Surterre Properties,Surterre Properties,2370727, ,Newport Beach,CA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+The Alexander Team,The Alexander Team,2212138, ,Atlanta,GA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+CENTURY 21 Award,CENTURY 21 Award,1733215, ,Racho Santa Margarita,CA,,,,4,False,False,False,True,False,False,False,True,False,False,False,False,False,Agent count is less then 5
+Beverly-Hanks & Associates,Beverly-Hanks & Associates,2915926, ,Ashville,NC,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Decker Bullock Sotheby's International R,Decker Bullock Sotheby's International R,2197936, ,Greenbrae,CA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Austin Board of Realtors,Austin Board of Realtors,1239301, ,Austin,TX,73301,,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+King Realty,King Realty,3081616, ,San Francisco,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Berkshire Hathaway HomeServices,Berkshire Hathaway HomeServices,2467774, ,Irvine,CA,,,,3,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Demo,Demo,1261393, ,Austin,TX,73301,,,25,False,False,False,True,False,False,False,True,False,False,False,False,False,Companypublickey contains 1261393
+RE/MAX Northern Illinois,RE/MAX Northern Illinois,2846494, ,Chicago,IL,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Barrett Sotheby's International Realty,Barrett Sotheby's International Realty,3272554, ,,,,978-836-9645,https://barrettsothebysrealty.com,4,True,False,True,True,True,True,True,True,True,True,True,True,True,Agent count is less then 5
+MoxiWorks,MoxiWorks,1624333,815 Western Ave STE 400,Seattle,WA,98104,,moxiworks.com,320,True,True,True,True,True,True,True,True,True,False,True,False,False,Companypublickey contains 1624333
+MoxiWorks LLC,MoxiWorks LLC,3139213,815 Western Ave Suite 300,Seattle,WA,98104,206-638-8478,http://moxiworks.com,104,True,True,True,True,True,True,True,True,True,False,False,False,False,Companypublickey contains 3139213
+Berkshire Hathaway HomeServices Warren R,Berkshire Hathaway HomeServices Warren R,3100552, ,Boston,MA,,,,34,False,False,True,True,True,True,False,True,True,True,True,False,False,Companypublickey contains 3100552
+Bean Group,Bean Group,2842549, ,South Portland,ME,,,,568,True,False,True,True,True,False,False,True,True,True,True,False,False,Companypublickey contains 2842549
+Better Homes and Gardens David Winans & ,Better Homes and Gardens David Winans & ,2782585,17734 Preston Road Ste 100,Dallas,TX,75252,972-277-4988,https://betterdfw.com/,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Pinnacle Estate Properties Inc.,"Pinnacle Estate Properties, Inc.",2920660, ,Mission Hills,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+PMZ Real Estate,PMZ Real Estate,2530105,3516 Deer Park Drive Suite A,Stockton,CA,95219,209-947-2201,http://www.pmz.com,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+RE/MAX Gold,RE/MAX Gold,1761619, ,Vacaville,CA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Regression_ECOMMADMIN_LICENSES,Regression_ECOMMADMIN_LICENSES,2958532, ,Testville,WA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,"Companypublickey contains 2958532, Agent count is less then 5"
+Elevate Realty Group,Elevate Realty Group,2731300, ,Granbury,TX,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Fusion Real Estate Network,Fusion Real Estate Network,1829473, ,Sacramento,CA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Mortgage Services,Mortgage Services,2980624, ,Seattle,WA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,"Companypublickey contains 2980624, Agent count is less then 5"
+GoodLife Realty,GoodLife Realty,1242457, ,Austin,TX,73301,,,12,False,False,False,True,False,False,False,True,False,False,False,False,False,Companypublickey contains 1242457
+Keller Williams Realty North Country,Keller Williams Realty North Country,2732089, ,Celina,TX,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Keller Williams Southwest Market Center,Keller Williams Southwest Market Center,3039799, ,Austin,TX,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Moreland Real Estate,Moreland Real Estate,1243246, ,Austin,TX,73301,,,4,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Realty Masters & Associates,Realty Masters & Associates,3079249, ,Newport Beach,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Empire Realty Associates,Empire Realty Associates,1576204, ,Danville,CA,,,,4,False,False,False,True,False,False,False,True,False,False,False,False,False,Agent count is less then 5
+"Genexus Group, Powered by eXp Realty","Genexus Group, Powered by eXp Realty",3144736,"402-A W Palm Valley Blvd, #350 ",Round Rock,TX,78664,,GenexusGroup.com,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Keller Williams,Keller Williams,1244824, ,Austin,TX,73301,,,4,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Branding Demo,Branding Demo,1553323, ,Seattle,WA,,,,2,False,False,False,True,False,False,False,True,False,False,False,False,False,"Companypublickey contains 1553323, Agent count is less then 5"
+DEMO ONLY - Noly,DEMO ONLY - Noly,1663783, ,Sacramento,CA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,"Companypublickey contains 1663783, Agent count is less then 5"
+DEMO ONLY - Suralc,DEMO ONLY - Suralc,1664572,525 South Virgil Avenue ,"Los Angeles,",CA,90020,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,"Companypublickey contains 1664572, Agent count is less then 5"
+RE/MAX Metro Layton,RE/MAX Metro Layton,3098185, ,Layton,UT,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+ISellTheCity Real Estate,ISellTheCity Real Estate,3110809, ,San Diego,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+TransPac Real Estate Inc & Lazar Homes,TransPac Real Estate Inc & Lazar Homes,3111598, ,Los Altos,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Select Homes Real Estate,Select Homes Real Estate,3112387, ,San Diego,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+HomeSmart Realty West,HomeSmart Realty West,3114754, ,Carlsbad,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+J & A Realty,J & A Realty,3122644, ,Fremont,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Pacific Oak Real Estate Services,Pacific Oak Real Estate Services,3125011,"17100 Monterey Rd., Ste. 2-A ",Morgan Hill,CA,95037,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Keller Williams Realty,Keller Williams Realty,3123433, ,Corona,CA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+TouchCMA Demo,TouchCMA Demo,2582968, ,Seattle,WA,,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,"Companypublickey contains 2582968, Agent count is less then 5"
+Automation Test,Automation Test,2835448, ,Seattle,WA,,,,2,False,False,False,True,False,False,False,True,False,False,False,False,False,"Companypublickey contains 2835448, Agent count is less then 5"
+Hosted Moxiworks 2013,Hosted Moxiworks 2013,2579812,815 Western Ave ,Seattle,WA,98104,222-222-2222,,4,True,False,True,True,True,False,False,True,False,False,False,False,False,"Companypublickey contains 2579812, Agent count is less then 5"
+Hosted Moxiworks 2010,Hosted Moxiworks 2010,2843338, ,Seattle,WA,,,,2,True,False,True,True,True,False,False,True,False,False,False,False,False,"Companypublickey contains 2843338, Agent count is less then 5"
+Brick Solid Real Estate Group,Brick Solid Real Estate Group,3132112,1301  S IH 35 Frontage Rd. ,Austin,TX,78741,512-279-6504,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Test Subscription Company,Test Subscription Company,2934073, ,Seattle,WA,,,,2,False,False,False,True,False,False,False,False,False,False,False,False,False,"Companypublickey contains 2934073, Agent count is less then 5"
+MoxiWorks Test 2,MoxiWorks Test 2,3016918, ,Tacoma,WA,,,,1,False,False,False,True,False,False,False,True,False,False,False,False,False,"Companypublickey contains 3016918, Agent count is less then 5"
+Canter Brokerage,Canter Brokerage,3186553,655 West Broadway Suite 1650,San Diego,CA,92101,,,1,False,False,False,True,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Compass Individual,Compass Individual,3244939, ,San Diego,CA,,,,3,False,False,False,False,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Prime Home Partners,Prime Home Partners,3225214, ,San Diego,CA,,,,1,False,False,False,False,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Regency-Realtors,Regency-Realtors,3223636, ,Petaluma,CA,,,,1,False,False,False,False,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+SpyGlass Realty and Investment,SpyGlass Realty and Investment,3274132, ,Austin,TX,,,,1,False,False,False,False,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Compass Real Estate,Compass Real Estate,3221269,1555 Camino Del Mar Suite 317,Del Mar,CA,92014,,,1,False,False,False,False,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Sunil Sethi Real Estate,Sunil Sethi Real Estate,3228370, ,Fremont,CA,,,,1,False,False,False,False,False,False,False,False,False,False,False,False,False,Agent count is less then 5
+Foster Hamilton Real Estate Co.,Foster Hamilton Real Estate Co.,3229159, ,Bonita,CA,,,,1,False,False,False,False,False,False,False,False,False,False,False,False,False,Agent count is less then 5

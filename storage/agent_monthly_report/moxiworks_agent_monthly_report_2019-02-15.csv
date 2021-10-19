@@ -1,0 +1,773 @@
+agent_uuid,middleware_data,sfdc_data
+00011a8b-2538-40a2-8de1-7350edc1ed94,{'primary_email': 'Michelle.Gigos@nrteast.com'},{'primary_email': 'michelle.gigos@nrteast.com'}
+000309f7-a966-414a-a697-b34f67780f6c,{'primary_email': 'Dan@DanStivers.com'},{'primary_email': 'dan@danstivers.com'}
+0004c42d-0c63-40fd-a2ab-a3d228898b6f,"{'office_addressline1': '7975 N. Hayden Rd. Ste. A-101', 'direct_phone': '480-020-3450', 'mobile_phone': '480-020-3450'}","{'office_addressline1': '7975 N. Hayden Rd.', 'direct_phone': '(480) 315-1240', 'mobile_phone': '(480) 203-4506'}"
+000634d0-4ff1-4b10-9371-8d509caa7e6e,{'primary_email': 'Irene.bauer@pittsburghmoves.com'},{'primary_email': 'irene.bauer@pittsburghmoves.com'}
+0006a9be-1330-407d-8291-dce0708d2552,{'primary_email': 'Laura.Magner@coldwellbankermoves.com'},{'primary_email': 'laura.magner@coldwellbankermoves.com'}
+000d1ed8-e933-4ac7-95c8-d1ff0516b182,"{'primary_email': 'Chris@RandallRealtors.com', 'direct_phone': ''}","{'primary_email': 'chris@randallrealtors.com', 'direct_phone': '4013645021'}"
+000e691a-c84e-40ca-a837-8d2d8270dde0,{'primary_email': 'Carol.Henriquez@NEMoves.com'},{'primary_email': 'carol.henriquez@nemoves.com'}
+000e75d5-8ddc-4f9b-bb1f-f1d204314103,{'primary_email': 'Daniela.Popa@camoves.com'},{'primary_email': 'daniela.popa@camoves.com'}
+001096d8-00bd-44c8-947f-c128c3ce975a,{'primary_email': 'Greice.Lane@camoves.com'},{'primary_email': 'greice.lane@camoves.com'}
+0012720d-831c-4e75-8600-5d8b1bfd323d,"{'office_addressline1': '1150 Sunset Blvd Suite 150', 'direct_phone': '916-682-4942', 'mobile_phone': '916-682-4942'}","{'office_addressline1': '1150 Sunset Blvd', 'direct_phone': '(916) 435-0404', 'mobile_phone': '(916) 824-9428'}"
+00130c5a-35c1-4e96-82c4-47e1c5eafd1a,{'primary_email': 'Krista@WinUtah.com'},{'primary_email': 'krista@winutah.com'}
+0013d56e-707f-440c-b433-f23c4a98a054,{'primary_email': 'Hugh.Douglass@longandfoster.com'},{'primary_email': 'hugh.douglass@longandfoster.com'}
+00148e65-435c-4f3a-a17d-5c1e4cafbf06,{'mobile_phone': ''},{'mobile_phone': '(773) 799-7553'}
+0014a4f2-5ac7-44b2-b9bb-4915ab1d10f4,{'primary_email': 'Hickman-CoenHomeTeam@raveis.com'},{'primary_email': 'hickman-coenhometeam@raveis.com'}
+00159b4d-e72e-4ecb-a3de-3a1c7252ad73,{'primary_email': 'ErikaHeeju.Cho@camoves.com'},{'primary_email': 'erikaheeju.cho@camoves.com'}
+0016002d-fa64-46fa-9153-2dd3cfc60656,{'primary_email': 'Michelle.Nead@raveis.com'},{'primary_email': 'michelle.nead@raveis.com'}
+00163ec7-5d43-4a18-bc68-8d97fd6ac65d,{'primary_email': 'Gail.Frederick@LongandFoster.com'},{'primary_email': 'gail.frederick@longandfoster.com'}
+00188426-9463-423b-885f-a1a2c2ba3dd9,{'primary_email': 'DennisScovazzo@howardhanna.com'},{'primary_email': 'dennisscovazzo@howardhanna.com'}
+0019f0fc-7d71-4328-8c6f-b9cefe1c9686,{'direct_phone': ''},{'direct_phone': '(941) 955-8200'}
+001a630e-5c29-415e-a9dd-2e143c51fdcc,{'primary_email': 'Hope.Hernandez@kappelgateway.com'},{'primary_email': 'hope.hernandez@kappelgateway.com'}
+001c5aad-41c3-4715-97f3-33562fb74f34,{'primary_email': 'Maryann.Livingston@raveis.com'},{'primary_email': 'maryann.livingston@raveis.com'}
+001cc46b-41dd-4102-b5f0-765a7955e30c,"{'office_addressline1': '24251 Town Center Dr Suite 201', 'direct_phone': '818-867-9044', 'mobile_phone': '818-867-9044'}","{'office_addressline1': '24251 Town Center Dr', 'direct_phone': '(661) 284-7615', 'mobile_phone': '(818) 679-0440'}"
+001d71ee-923d-4e87-ad0c-4bd06a355867,{'primary_email': 'Jai@JaiMaui.com'},{'primary_email': 'jai@jaimaui.com'}
+001fb0e6-672f-4ca5-b10b-be2fb97926fd,{'direct_phone': ''},{'direct_phone': '(831) 460-1100'}
+002031b8-e4f4-49da-9899-02a610fdbe69,{'primary_email': 'OLDpeter@theRBIteam.com'},{'primary_email': 'oldpeter@therbiteam.com'}
+0020b580-d340-4b65-96ec-9b2cc64b6988,"{'office_addressline1': '910 E. Hamilton Ave Suite 100', 'direct_phone': '408-889-1870', 'mobile_phone': '408-889-1870'}","{'office_addressline1': '910 E. Hamilton Ave', 'direct_phone': '(408) 377-2700', 'mobile_phone': '(408) 891-8703'}"
+00232eb4-388a-4553-be16-257150246468,{'direct_phone': ''},{'direct_phone': '(941) 907-9595'}
+00238283-0b63-42c3-a615-bd5c9420166a,{'primary_email': 'WesFreas@ZephyrSF.com'},{'primary_email': 'wesfreas@zephyrsf.com'}
+00250f07-48e3-4507-85d3-35fa87db9b70,{'primary_email': 'Timaree.Zauner@camoves.com'},{'primary_email': 'timaree.zauner@camoves.com'}
+00258ae1-f46c-4cbd-b47f-dfbdccae2686,{'primary_email': 'Dianne.Kwoka@raveis.com'},{'primary_email': 'dianne.kwoka@raveis.com'}
+002ae2d1-043a-4528-9ec5-87aa4eeecfd3,"{'office_addressline1': '5550 Painted Mirage Rd. Ste 140', 'direct_phone': '702-241-9391', 'mobile_phone': '702-241-9391'}","{'office_addressline1': '5550 Painted Mirage Rd.', 'direct_phone': '(702) 898-0101', 'mobile_phone': '(702) 419-3917'}"
+002c1954-d8d2-4c5b-b1f6-4b28187421b7,{'primary_email': 'VoncyMichelle.Granger@LongandFoster.com'},{'primary_email': 'voncymichelle.granger@longandfoster.com'}
+002d9326-428d-44fb-bbc6-5988d86c37d4,{'primary_email': 'WendyLillion@howardhanna.com'},{'primary_email': 'wendylillion@howardhanna.com'}
+002dad93-b6db-4118-9d4a-80d4cae71b5a,{'primary_email': 'Russ.Reynolds@raveis.com'},{'primary_email': 'russ.reynolds@raveis.com'}
+00324df0-de58-4b8f-9734-49847427febb,{'primary_email': '##_122_#Loretta.Hardison@LongandFoster.com'},{'primary_email': '##_122_#loretta.hardison@longandfoster.com'}
+0032e7af-06c6-4299-af1f-d05294972b3c,{'primary_email': 'Suzanne.Rafferty@cbmove.com'},{'primary_email': 'suzanne.rafferty@cbmove.com'}
+0032f7df-cbab-4b7a-adfb-a0ef23f0f4f2,{'primary_email': 'Susan.Mathurin@NEMoves.com'},{'primary_email': 'susan.mathurin@nemoves.com'}
+00353cbf-1f30-4143-b568-2213512efe0a,{'primary_email': 'Stephanie.Suplee@longandfoster.com'},{'primary_email': 'stephanie.suplee@longandfoster.com'}
+0036686c-1281-47a1-8cf4-66bbb278e085,{'primary_email': 'EDayter@cbpref.com'},{'primary_email': 'edayter@cbpref.com'}
+0039ccf2-965d-4a0e-906d-b96e3a378662,{'primary_email': 'Michelle.Smith@longandfoster.com'},{'primary_email': 'michelle.smith@longandfoster.com'}
+003a9424-3040-4959-abb3-2d9ef0ba80ae,"{'office_addressline1': '7975 N. Hayden Rd. Ste. A-101', 'direct_phone': '480-020-9784', 'mobile_phone': '480-020-9784'}","{'office_addressline1': '7975 N. Hayden Rd.', 'direct_phone': '(480) 315-1240', 'mobile_phone': '(480) 209-7843'}"
+003bdc5e-7af3-4c1d-9990-1a7269371fee,{'primary_email': 'Desha.Johnson@carringtonres.com'},{'primary_email': 'desha.johnson@carringtonres.com'}
+003f0d21-79bb-4d6b-be55-6e3ca0fd58cd,{'primary_email': 'Michelle.DeLeon@Carringtonres.com'},{'primary_email': 'michelle.deleon@carringtonres.com'}
+0046eac2-fe21-4cc8-adf3-29702279e0e0,{'direct_phone': ''},{'direct_phone': '(814) 323-6341'}
+0048bebc-6837-46f2-a833-39994b3b4bd8,"{'firstname': 'Debbie', 'office_addressline1': '1059 E. 900 S Floor 2', 'office_city': 'Salt Lake City', 'office_zip': '84105', 'direct_phone': '801-155-0529'}","{'firstname': 'Deborah', 'office_addressline1': '', 'office_city': '', 'office_zip': '', 'direct_phone': None}"
+0048e839-44fb-459d-971d-bae7b48e4bce,{'primary_email': 'Jason.Nagai@cbpacific.com'},{'primary_email': 'jason.nagai@cbpacific.com'}
+00497f80-8df5-4efa-9450-2798378d3dbd,"{'office_addressline1': '2701 Loker Avenue W. Suite 150', 'direct_phone': '760-091-7257', 'mobile_phone': '760-091-7257'}","{'office_addressline1': '2701 Loker Avenue W.', 'direct_phone': '(760) 607-3230', 'mobile_phone': '(760) 917-2578'}"
+0049a184-d4bc-4e7b-8beb-510c8b1d653f,{'primary_email': 'Kenneth.Mobley@LongandFoster.com'},{'primary_email': 'kenneth.mobley@longandfoster.com'}
+0049b16c-612d-4efa-8d92-b07c1c4351fb,{'primary_email': 'Miho.Crowley@ColdwellBankerAtlanta.com'},{'primary_email': 'miho.crowley@coldwellbankeratlanta.com'}
+004a0b87-8a74-42f1-8ba8-6b2d3cfe825e,"{'primary_email': 'AJaquez@weidel.com', 'direct_phone': ''}","{'primary_email': 'ajaquez@weidel.com', 'direct_phone': '(609) 921-2700'}"
+004a2936-6f21-4bab-a610-d67f11853d4d,{'primary_email': 'Sabrina.Carr@raveis.com'},{'primary_email': 'sabrina.carr@raveis.com'}
+004b4fab-50e5-4ee9-b72b-27c2925426b2,{'primary_email': 'Austin.Sahd@cbhomes.com'},{'primary_email': 'austin.sahd@cbhomes.com'}
+004bb76f-fdb0-4a3c-b297-9c3856f1f287,{'alternate_email': ''},{'alternate_email': 'ap.now@windermere.com'}
+004bd990-8edf-4fda-a779-6b0329a546f1,{'primary_email': 'Karen.Beando@NEMoves.com'},{'primary_email': 'karen.beando@nemoves.com'}
+004cd55c-aebd-401e-a71d-7c7fea1fc3ca,{'primary_email': 'John.Grotto@raveis.com'},{'primary_email': 'john.grotto@raveis.com'}
+004cf981-fed1-4523-aab6-f21666b35265,{'primary_email': 'Krista.Spong@CBnorcal.com'},{'primary_email': 'krista.spong@cbnorcal.com'}
+004dcef5-3dd4-456f-b965-6774ad4f0a3f,{'primary_email': 'DALE.REPSHAS@Longandfoster.com'},{'primary_email': 'dale.repshas@longandfoster.com'}
+004ddae6-a1da-4e80-ab83-9714400da511,{'primary_email': 'Donna.Yoon@longandfoster.com'},{'primary_email': 'donna.yoon@longandfoster.com'}
+004f2dba-12e8-48f2-a669-9584fefeb905,{'primary_email': 'Alexandra.Allen@camoves.com'},{'primary_email': 'alexandra.allen@camoves.com'}
+004f32e0-ae54-4713-a512-e67e8366e72c,{'primary_email': 'DarcyL@windermere.com'},{'primary_email': 'darcyl@windermere.com'}
+005009be-69ce-4646-b948-b5b197fd9d14,"{'office_addressline1': '1800 N. Clybourn 2nd Floor', 'direct_phone': '773-364-0280', 'mobile_phone': ''}","{'office_addressline1': '1800 N. Clybourn', 'direct_phone': '(312) 642-1400', 'mobile_phone': '(773) 640-2807'}"
+00508af2-f696-4e3c-8907-b3a99fccd38e,{'primary_email': 'Jose.Vasallo@carringtonres.com'},{'primary_email': 'jose.vasallo@carringtonres.com'}
+005147f9-e0de-4b73-b937-05af86c7cbf4,{'primary_email': 'AnnaBaldo@howardhanna.com'},{'primary_email': 'annabaldo@howardhanna.com'}
+0051bf9f-5622-4c58-86db-546f0ecc4b30,"{'primary_email': '##_350_#GregPaul@howardhanna.com', 'direct_phone': ''}","{'primary_email': '##_350_#gregpaul@howardhanna.com', 'direct_phone': '(440) 341-9528'}"
+0054187d-9866-4b78-a80f-363c72fdafe2,"{'office_addressline1': '5930 Evergreen Way Suite B', 'direct_phone': '425-523-8688', 'mobile_phone': '425-523-8688'}","{'office_addressline1': '5930 Evergreen Way', 'direct_phone': '(425) 348-9200', 'mobile_phone': '(425) 238-6881'}"
+00550a46-38ad-476e-8a60-c1ee387e9f25,"{'office_addressline1': '10681 E Foothill Blvd 140', 'direct_phone': '909-927-6113', 'mobile_phone': '909-927-6113'}","{'office_addressline1': '10681 E Foothill Blvd', 'direct_phone': '(909) 694-0160', 'mobile_phone': '(909) 276-1132'}"
+00571475-13a7-4c20-bd42-4e0a590dd3ee,{'primary_email': 'ValliHale@sbcglobal.net'},{'primary_email': 'vallihale@sbcglobal.net'}
+00586ffd-266c-494d-a8b2-d29c1ee54530,{'primary_email': 'Mike.Richardson@NEMoves.com'},{'primary_email': 'mike.richardson@nemoves.com'}
+0059e9a6-2d76-4116-ac66-732ad6eec204,{'primary_email': 'Ty.Costa@raveis.com'},{'primary_email': 'ty.costa@raveis.com'}
+005ae82b-e326-4388-af18-438b0d555049,{'primary_email': 'DeborahGibson@howardhanna.com'},{'primary_email': 'deborahgibson@howardhanna.com'}
+005c0f5f-6105-49ea-9a6f-7ad9a98a2f59,{'primary_email': 'RochelleWren@gmail.com'},{'primary_email': 'rochellewren@gmail.com'}
+005ca912-3fc2-4ef3-a65e-ab2eb28d6df8,{'primary_email': 'Tom.Niemkiewicz@longandfoster.com'},{'primary_email': 'tom.niemkiewicz@longandfoster.com'}
+005d6d5e-1ecf-49ac-b55c-9afab05fb86f,"{'primary_email': 'John.Barmon@NEMoves.com', 'direct_phone': ''}","{'primary_email': 'john.barmon@nemoves.com', 'direct_phone': '6175296335'}"
+005d765f-498d-4d21-8b25-0548a0fc2ad2,{'primary_email': 'Jackie.Bruncaj@raveis.com'},{'primary_email': 'jackie.bruncaj@raveis.com'}
+00619c1b-ab9e-46c3-b473-747fc91a55cb,"{'office_addressline1': '41463 Margarita Rd. Suite 100', 'direct_phone': '951-175-7997', 'mobile_phone': '951-175-7997'}","{'office_addressline1': '41463 Margarita Rd.', 'direct_phone': '(951) 216-2000', 'mobile_phone': '(951) 757-9974'}"
+00668c60-aa7e-406d-a302-5c108dd61a34,"{'primary_email': '##_261_#ConstanceHall@howardhanna.com', 'date_deactivated': '2019-02-13', 'agent_active': False}","{'primary_email': 'constancehall@howardhanna.com', 'date_deactivated': 'None', 'agent_active': 'true'}"
+0067322b-4383-4c90-8d4c-ce26cf30f3b4,{'firstname': 'Jennifer'},{'firstname': 'jlangston@phyllisbrowning.com'}
+00687bbc-cbe8-4c22-9dae-77040b6b2048,{'primary_email': 'Christine.Everett@nrtsoutheast.com'},{'primary_email': 'christine.everett@nrtsoutheast.com'}
+0068b81c-a6d0-49e4-9f12-e516f44f8904,{'primary_email': 'Blanca.DeJesus@raveis.com'},{'primary_email': 'blanca.dejesus@raveis.com'}
+00690b97-6391-4123-94e5-16de41be7686,{'primary_email': 'Beatriz.del-Olmo-Fiddleman@longandfoster.com'},{'primary_email': 'beatriz.del-olmo-fiddleman@longandfoster.com'}
+006b0cdb-5f7c-462a-972d-fa84b45dda0a,{'primary_email': '##_152_#Joseph.Deddy@coldwellbankermoves.com'},{'primary_email': '##_152_#joseph.deddy@coldwellbankermoves.com'}
+006c65c7-cf1a-4d9c-adbb-3c88fc0b1eab,{'primary_email': 'AHMET.ANDAY@Longandfoster.com'},{'primary_email': 'ahmet.anday@longandfoster.com'}
+006d8a4f-92c3-4888-b36d-71ceba53e2e5,{'primary_email': 'Tony.Ling@carringtonres.com'},{'primary_email': 'tony.ling@carringtonres.com'}
+006e7e6f-4bb8-4b45-b18d-c7c1995814eb,"{'primary_email': 'Vandana.Kandula@LongandFoster.com', 'agent_moxi_engage': True, 'agent_moxi_present': True}","{'primary_email': 'vandana.kandula@longandfoster.com', 'agent_moxi_engage': 'false', 'agent_moxi_present': 'false'}"
+006ebb03-c0e6-4a73-b062-a72d348723ff,{'primary_email': 'Karina.Diaz@cbunited.com'},{'primary_email': 'karina.diaz@cbunited.com'}
+006ff2ef-4833-4a13-b7ba-b85119ce2017,{'primary_email': 'hayes4Re@aol.com'},{'primary_email': 'hayes4re@aol.com'}
+0070f9ae-9614-4c98-a8c9-7690d3229c70,{'primary_email': 'Charleen.Cherng@NEMoves.com'},{'primary_email': 'charleen.cherng@nemoves.com'}
+007226e0-b0e5-4c2a-8b24-eae49a06ef61,{'direct_phone': '858-884-7806'},{'direct_phone': None}
+0072798e-0b5f-4b50-a463-a0ee0e020817,{'primary_email': '##_362_#Joseph.Hawlik@cbcnrt.com'},{'primary_email': '##_362_#joseph.hawlik@cbcnrt.com'}
+007451cf-b8a4-470d-9079-94e523919ff1,{'primary_email': 'AaronAmrineRealty1@gmail.com'},{'primary_email': 'aaronamrinerealty1@gmail.com'}
+0075738e-1df1-4cff-bc17-489a3b176c15,"{'office_addressline1': '', 'date_deactivated': 'None'}","{'office_addressline1': '20 Via Bel Canto, Suite 120', 'date_deactivated': '2018-07-20'}"
+00762d70-d3a7-4240-9833-4c4ff8c3a98d,{'primary_email': 'Elaine.F@raveis.com'},{'primary_email': 'elaine.f@raveis.com'}
+00777bcb-11ed-4539-a49d-6ceca63615b0,{'primary_email': 'Matthew.Vinci@raveis.com'},{'primary_email': 'matthew.vinci@raveis.com'}
+0078b723-f432-45fa-8476-d861395d7984,{'primary_email': '##_475_#AskSharmine@gmail.com'},{'primary_email': '##_475_#asksharmine@gmail.com'}
+007a07fa-700e-4857-848e-070894d5b265,{'primary_email': 'ChristopherKlubek@howardhanna.com'},{'primary_email': 'christopherklubek@howardhanna.com'}
+007d01e4-c947-4663-a20f-eb0cd10d7d5a,{'primary_email': 'Azita.Baxter@camoves.com'},{'primary_email': 'azita.baxter@camoves.com'}
+007ef253-9435-4dbf-bda2-17f106b45580,{'primary_email': 'Nicole.Upton@cbmove.com'},{'primary_email': 'nicole.upton@cbmove.com'}
+0081d282-e59c-42d3-92a9-64cb8c5aab58,{'primary_email': 'Karen.Arenson@cbexchange.com'},{'primary_email': 'karen.arenson@cbexchange.com'}
+0082cb0e-e083-46ee-9793-7c96a026453a,"{'office_addressline1': '2831 St. Rose Parkway Ste. 100', 'direct_phone': '702-258-8686', 'mobile_phone': '702-258-8686'}","{'office_addressline1': '2831 St. Rose Parkway', 'direct_phone': '(702) 898-7575', 'mobile_phone': '(702) 588-6868'}"
+008370bf-73ea-493d-bba2-8f769f8ec357,{'primary_email': '##_10_#MChance@windermere.com'},{'primary_email': '##_10_#mchance@windermere.com'}
+0083eb33-887e-48dc-a0fc-ee7046524a2a,{'direct_phone': ''},{'direct_phone': '(412) 848-7601'}
+008579a6-a440-49fb-841c-c82eb9235d6a,{'primary_email': 'SHARYN.KOTROSA@Longandfoster.com'},{'primary_email': 'sharyn.kotrosa@longandfoster.com'}
+0087e20a-56ae-4228-8557-d241b656b7eb,{'direct_phone': ''},{'direct_phone': '(330) 416-4183'}
+008870a2-918f-459b-94b2-27778b7eed40,{'primary_email': 'dawnbeaudoin1970@gmail.com'},{'primary_email': 'dawnbeaudoin1971@gmail.com'}
+0088fff1-89dd-42b5-a7d8-5781cbf808d6,{'primary_email': 'CWise@cbgundaker.com'},{'primary_email': 'cwise@cbgundaker.com'}
+00898299-4ba6-4073-a603-59676a227c86,{'primary_email': 'JennZ@windermere.com'},{'primary_email': 'jennz@windermere.com'}
+008c9eb5-389a-4491-8877-97718cc905ad,{'primary_email': 'Bryan.Poisson@NEMoves.com'},{'primary_email': 'bryan.poisson@nemoves.com'}
+008ef273-fcdb-4c97-aa92-1ed9c840a97b,{'primary_email': 'GraceFollosco@gmail.com'},{'primary_email': 'gracefollosco@gmail.com'}
+009210b2-63f7-4acf-9cb7-8bf70d2c0430,"{'office_addressline1': '10750 W. Charleston Blvd. Ste. 180', 'primary_email': '##_853_#terrykhuu@yahoo.com', 'direct_phone': '702-233-9907', 'mobile_phone': '702-233-9907', 'date_deactivated': '2019-02-12', 'agent_active': False}","{'office_addressline1': '10750 W. Charleston Blvd.', 'primary_email': 'terrykhuu@yahoo.com', 'direct_phone': '(702) 898-1221', 'mobile_phone': '(702) 339-9073', 'date_deactivated': 'None', 'agent_active': 'true'}"
+0092c311-645e-4840-94d9-f6466a2fdab7,{'direct_phone': ''},{'direct_phone': '(330) 261-8541'}
+0094bdae-500a-40dd-bfb8-5810e88cc8b5,{'primary_email': '##_320_#Jessica.Murphy@cbunited.com'},{'primary_email': '##_320_#jessica.murphy@cbunited.com'}
+0094ec03-aa35-4c6b-99dd-cd37d70845e4,{'primary_email': 'Brian.Keckler@coldwellbankermoves.com'},{'primary_email': 'brian.keckler@coldwellbankermoves.com'}
+00957d24-5677-4622-99b7-81a3b4e9541d,{'primary_email': 'SCOTT.DURHAM@lnf.com'},{'primary_email': 'scott.durham@lnf.com'}
+00959616-a673-4dc6-935a-89e85e6f829e,{'primary_email': 'Elexa.Lyles@gmail.com'},{'primary_email': 'elexa.lyles@gmail.com'}
+0097538c-4db8-4df0-987b-53645e18b682,{'primary_email': '##_10_#Kirsten.ODonnell@raveis.com'},{'primary_email': '##_10_#kirsten.odonnell@raveis.com'}
+009890a0-54d4-40b5-bc4c-e37446a67699,{'primary_email': '##_337_#Shelly@LNF.com'},{'primary_email': '##_337_#shelly@lnf.com'}
+009938e1-4bfa-42c1-862c-9f14ebe0d0a1,{'primary_email': '##_220_#JosephFarruggio@howardhanna.com'},{'primary_email': '##_220_#josephfarruggio@howardhanna.com'}
+009c83d0-9f91-4519-a814-db7c40af0025,{'primary_email': 'LenaZee@interorealestate.com'},{'primary_email': 'lenazee@interorealestate.com'}
+00a0c909-9e44-4aad-896a-3bc4b9390ca3,{'primary_email': 'Nina.Inge@longandfoster.com'},{'primary_email': 'nina.inge@longandfoster.com'}
+00a34e09-c833-446e-b41c-f3d28a1ef74c,{'office_addressline1': '1555 Riviera Drive Suite E'},{'office_addressline1': '1555 Riviera Drive'}
+00a43d64-710d-4f5d-960b-2be6330930a0,{'primary_email': 'Jeanne.McDougall@lnf.com'},{'primary_email': 'jeanne.mcdougall@lnf.com'}
+00a662c0-18f1-40cc-97d7-2dab64424430,{'primary_email': 'DANIELLE.FRANZ@longandfoster.com'},{'primary_email': 'danielle.franz@longandfoster.com'}
+00a6a7f4-340c-4cc6-be6f-1c50e7c22c0d,{'primary_email': 'Flavia.Head@ColdwellBankerAtlanta.com'},{'primary_email': 'flavia.head@coldwellbankeratlanta.com'}
+00a7efa9-6b94-4c2e-8575-195ef203ebc9,{'primary_email': 'Ron.Resha@NEMoves.com'},{'primary_email': 'ron.resha@nemoves.com'}
+00a821f2-d0b8-4458-986a-feaa29fd981b,{'primary_email': 'Ron.Fertig@raveis.com'},{'primary_email': 'ron.fertig@raveis.com'}
+00a82fba-4823-4bcd-8d05-b410a8dfe868,{'primary_email': 'Debbie.Nicholas@cbmove.com'},{'primary_email': 'debbie.nicholas@cbmove.com'}
+00acc354-591b-4356-84d2-8eb6760b85e2,{'primary_email': 'Sharon.Bergman@raveis.com'},{'primary_email': 'sharon.bergman@raveis.com'}
+00afc625-f566-41a6-935e-66ac2ff0101e,{'primary_email': 'Olivea.Dochniak@cbburnet.com'},{'primary_email': 'olivea.dochniak@cbburnet.com'}
+00b3f8ad-8697-4d70-b118-4e014c6806e0,{'primary_email': 'Michael.Holoka@LongandFoster.com'},{'primary_email': 'michael.holoka@longandfoster.com'}
+00b715a4-c7de-4304-b640-218997250ced,{'primary_email': 'AxmakerT@gmail.com'},{'primary_email': 'axmakert@gmail.com'}
+00b7e714-a3cf-4d7f-b6fd-acbe7cbda28b,"{'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '949-988-5619', 'mobile_phone': '949-988-5619'}","{'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(949) 783-2400', 'mobile_phone': '(949) 885-6192'}"
+00b7e858-3110-4ec6-9828-43e58e291eb0,{'primary_email': 'sHickey@intero.com'},{'primary_email': 'shickey@intero.com'}
+00b81fd2-352c-4589-a23f-00e850ceee54,{'primary_email': 'JPrice@cbmove.com'},{'primary_email': 'jprice@cbmove.com'}
+00b8a563-c9ee-4205-a0f5-20b2de4084f1,{'primary_email': 'Celine.Dujeux@raveis.com'},{'primary_email': 'celine.dujeux@raveis.com'}
+00b90a32-419b-4ced-ae30-be29c9fbd3dc,{'primary_email': 'Linda.Edelwich@raveis.com'},{'primary_email': 'linda.edelwich@raveis.com'}
+00ba39cb-b0a4-411e-8219-664312d3a176,{'primary_email': 'TeamLee@GoLyon.com'},{'primary_email': 'teamlee@golyon.com'}
+00bc1168-0b03-4802-a543-91e4523d5aec,{'primary_email': '##_831_#RealtorBrendaOliver@gmail.com'},{'primary_email': '##_831_#realtorbrendaoliver@gmail.com'}
+00bd13f3-9b39-40fe-a686-ed2da3a7db58,{'primary_email': 'Sara.Schwartz@camoves.com'},{'primary_email': 'sara.schwartz@camoves.com'}
+00bfce13-519f-463a-8066-aa5be1c98e7b,{'direct_phone': ''},{'direct_phone': '(831) 460-1100'}
+00c34a14-993c-4195-9755-92faaf008fe6,{'primary_email': '##_778_#Joe@concept360team.com'},{'primary_email': '##_778_#joe@concept360team.com'}
+00c7b2e2-c583-4ac9-981b-a98f9b166d9d,"{'office_addressline1': '7040 Wind Stone Boulevard Suite 200', 'direct_phone': '662-289-5088', 'mobile_phone': '662-289-5088'}","{'office_addressline1': '7040 Wind Stone Boulevard', 'direct_phone': '(662) 895-0885', 'mobile_phone': '(662) 895-0885'}"
+00c8400a-d4f6-4380-b942-e58f57877733,{'primary_email': 'dzlotkowski@Intero.com'},{'primary_email': 'dzlotkowski@intero.com'}
+00c9445e-850c-4752-b40c-f366c76a1b39,{'primary_email': 'Eugene.Ermakov@LongandFoster.com'},{'primary_email': 'eugene.ermakov@longandfoster.com'}
+00c9814c-bd57-4dc6-a581-d2f102faf5e7,{'direct_phone': ''},{'direct_phone': '(603) 298-5155'}
+00ca44e5-b2da-4717-abaf-5d785e14ec42,{'primary_email': '##_871_#Richard.Bruno@LongandFoster.com'},{'primary_email': '##_871_#richard.bruno@longandfoster.com'}
+00cb1607-accf-49e7-8af9-8d3728a61039,"{'primary_email': 'Meagan.Gregg-McDaniel@longandfoster.com', 'direct_phone': '', 'mobile_phone': ''}","{'primary_email': 'meagan.gregg-mcdaniel@longandfoster.com', 'direct_phone': '540-494-0511', 'mobile_phone': '540-049-4051'}"
+00cc1381-4054-4ea5-af5b-e9534e9df450,{'primary_email': 'JayWest@Windermere.com'},{'primary_email': 'jaywest@windermere.com'}
+00cd30cd-8971-4918-a832-4e059fdac462,{'primary_email': 'Linda.Gruber@Longandfoster.com'},{'primary_email': 'linda.gruber@longandfoster.com'}
+00d0cae8-6c03-4c29-8f0a-aa249236d784,"{'primary_email': 'VMcCallum@KoenigRubloff.com', 'mobile_phone': ''}","{'primary_email': 'vmccallum@koenigrubloff.com', 'mobile_phone': '(312) 264-1200'}"
+00d1bbee-0334-4224-b20a-178ee98a2557,"{'firstname': 'Debra', 'lastname': 'Moore', 'office_addressline1': '6240 SOM Center Road Suite 100', 'office_city': 'Solon', 'direct_phone': '', 'mobile_phone': '216-670-1300'}","{'firstname': 'DEBRA', 'lastname': 'MOORE', 'office_addressline1': '6240 SOM CENTER ROAD', 'office_city': 'SOLON', 'direct_phone': '(216) 701-3002', 'mobile_phone': None}"
+00d43fc4-c5ae-48ab-b1ca-e3d37f458fe6,{'primary_email': 'Nicole.Shaw@coldwellbankermoves.com'},{'primary_email': 'nicole.shaw@coldwellbankermoves.com'}
+00d68737-9620-4dcb-9853-dca00ff280c3,{'primary_email': 'Catherine@JanellSellsHouses.com'},{'primary_email': 'catherine@janellsellshouses.com'}
+00dadfab-1c0e-4517-a7d3-bfaeacd85407,"{'office_addressline1': '910 E. Hamilton Ave Suite 100', 'direct_phone': '408-848-3926', 'mobile_phone': '408-848-3926'}","{'office_addressline1': '910 E. Hamilton Ave', 'direct_phone': '(408) 377-2700', 'mobile_phone': '(408) 483-9261'}"
+00dc045d-6675-45b0-a59e-a3c297ab8516,{'primary_email': 'Kristin.Pidgeon@LongandFoster.com'},{'primary_email': 'kristin.pidgeon@longandfoster.com'}
+00dc799d-54f8-453c-a4ad-751b22ebec5b,{'primary_email': 'SANDY.DETEMPLE@PITTSBURGHMOVES.COM'},{'primary_email': 'sandy.detemple@pittsburghmoves.com'}
+00dd2cae-fb0f-4977-afd5-eb04be700e70,"{'office_addressline1': '24251 Town Center Dr Suite 201', 'direct_phone': '661-171-3546', 'mobile_phone': '661-171-3546'}","{'office_addressline1': '24251 Town Center Dr', 'direct_phone': '(661) 284-7615', 'mobile_phone': '(661) 713-5460'}"
+00dec247-041d-4286-aa8d-bc60ce2946f5,{'primary_email': 'Diane.Vue@cbnorcal.com'},{'primary_email': 'diane.vue@cbnorcal.com'}
+00dec3d6-b226-4ab9-a9fa-e81f4771108f,"{'primary_email': 'Mia@TeamMiaPark.com', 'direct_phone': ''}","{'primary_email': 'mia@teammiapark.com', 'direct_phone': '6509474700'}"
+00ded53f-9bf6-40fe-8586-e3ceee286c3d,"{'office_addressline1': '11440 West Bernardo Court Suite 100', 'direct_phone': '858-892-2488', 'mobile_phone': '858-892-2488'}","{'office_addressline1': '11440 West Bernardo Court', 'direct_phone': '(858) 925-5940', 'mobile_phone': '(858) 922-4880'}"
+00e1180f-819d-4904-b997-856740571e22,{'direct_phone': ''},{'direct_phone': '(941) 907-9595'}
+00e15e98-20b1-4857-b43a-ace681486d6b,"{'firstname': 'Mary Jean', 'office_addressline1': '8395 W Sunset Rd Ste. 190', 'direct_phone': '702-225-0358', 'mobile_phone': '702-225-0358'}","{'firstname': 'Mary', 'office_addressline1': '8395 W Sunset Rd', 'direct_phone': '(702) 898-1010', 'mobile_phone': '(702) 250-3585'}"
+00e16bab-c3d4-42a8-9d16-17295de64e1d,{'primary_email': 'VERONICA.SHANKS@cbexchange.com'},{'primary_email': 'veronica.shanks@cbexchange.com'}
+00e1ade6-bda2-4eac-a170-b99401ba756c,{'primary_email': 'Sherica.Service@nrteast.com'},{'primary_email': 'sherica.service@nrteast.com'}
+00e2ee71-4dec-4d51-b39c-78940b1f1c19,{'mobile_phone': ''},{'mobile_phone': '(847) 432-3200'}
+00e3f38d-50df-4024-8c06-5b6f9505d011,{'primary_email': 'Craig.Edsall@NEMoves.com'},{'primary_email': 'craig.edsall@nemoves.com'}
+00eb1320-3265-4451-b015-d96aef94cb89,{'primary_email': 'Brenda.Palmer-Montague@longandfoster.com'},{'primary_email': 'brenda.palmer-montague@longandfoster.com'}
+00ec9652-4abe-4f43-ad8e-a782f1836af9,{'primary_email': 'Debbie.Huscher@raveis.com'},{'primary_email': 'debbie.huscher@raveis.com'}
+00ecf0ff-c1ca-49a0-8ddf-533838170c83,{'primary_email': 'Richard.Salazar@camoves.com'},{'primary_email': 'richard.salazar@camoves.com'}
+00ee02c9-864b-40c7-aefb-05efa8ab9ed5,{'primary_email': 'AprylBarbin@windermere.com'},{'primary_email': 'aprylbarbin@windermere.com'}
+00ee08ee-04c1-40ae-ae73-74dc7799dd03,{'primary_email': 'Tamara@merrimackvalleyre.com'},{'primary_email': 'tamara@merrimackvalleyre.com'}
+00efcd0e-ab00-44a4-b082-7f9d10aa9f1f,{'primary_email': '##_10_#Abeniwal@weidel.com'},{'primary_email': '##_10_#abeniwal@weidel.com'}
+00f1898c-c339-418f-acee-448c121b39d7,{'primary_email': 'Jessica.Barbella@raveis.com'},{'primary_email': 'jessica.barbella@raveis.com'}
+00f438a7-250a-4cbf-ac08-b32ff14a2fe3,"{'office_addressline1': '10681 E Foothill Blvd 140', 'direct_phone': '310-074-0015', 'mobile_phone': '310-074-0015'}","{'office_addressline1': '10681 E Foothill Blvd', 'direct_phone': '(909) 694-0160', 'mobile_phone': '(310) 740-0159'}"
+00f72475-1f93-420b-884b-31f10f54287a,{'primary_email': 'Taylor.Matzoll@cbburnet.com'},{'primary_email': 'taylor.matzoll@cbburnet.com'}
+00f88315-e57a-4c0f-b3f8-5d54500298ae,{'direct_phone': ''},{'direct_phone': '(941) 907-9595'}
+00faf49e-4ce0-4268-a4f3-77e065855e15,"{'firstname': 'Michael', 'primary_email': 'Michael.Gaudreau@cbexchange.com'}","{'firstname': 'Mike', 'primary_email': 'michael.gaudreau@cbexchange.com'}"
+00fb2ecf-c4c3-41e5-a5ac-c9d7b88f56c7,{'primary_email': 'John@ResidenceHawaii.com'},{'primary_email': 'john@residencehawaii.com'}
+00fc6028-ffd4-4269-a3f2-ac49f107d6ae,{'primary_email': 'Anne.Astley@coldwellbankermoves.com'},{'primary_email': 'anne.astley@coldwellbankermoves.com'}
+00fd8b5e-e21c-4051-9e42-721ed43c53fb,"{'office_addressline1': '3313 Ranch Rd 620 S #100', 'mobile_phone': '512-253-7372'}","{'office_addressline1': '3313 Ranch Rd 620 S', 'mobile_phone': '(512) 537-3723'}"
+0100f1b2-ce48-482b-99a5-2ec11c03e088,{'primary_email': 'Cori.Bender@AZMoves.com'},{'primary_email': 'cori.bender@azmoves.com'}
+0101c668-38a8-4f70-a9b8-ff29a8725041,"{'primary_email': '##_272_#lula.frank@floridamoves.com', 'date_deactivated': '2019-02-13', 'agent_active': False}","{'primary_email': 'lula.frank@floridamoves.com', 'date_deactivated': 'None', 'agent_active': 'true'}"
+0101cce5-2afb-4090-b174-25bdfd8512bc,{'primary_email': 'Susan.Florby@raveis.com'},{'primary_email': 'susan.florby@raveis.com'}
+0101df70-8eaf-404e-b756-7b305234c19f,{'primary_email': 'Bill.Barrows@raveis.com'},{'primary_email': 'bill.barrows@raveis.com'}
+01028df8-b6bc-4cad-93e2-b806d487d391,"{'office_addressline1': '24251 Town Center Dr Suite 201', 'direct_phone': '661-180-3935', 'mobile_phone': '661-180-3935'}","{'office_addressline1': '24251 Town Center Dr', 'direct_phone': '(661) 284-7615', 'mobile_phone': '(661) 803-9357'}"
+0102aa63-9ec8-410f-908c-02f6457e5a21,{'primary_email': '##_582_#Antonia.Shea@NEMoves.com'},{'primary_email': '##_582_#antonia.shea@nemoves.com'}
+01046ea6-c52b-42ae-8021-e7e4f69cab88,{'primary_email': '##_462_#Samadara.Smith@longandfoster.com'},{'primary_email': '##_462_#samadara.smith@longandfoster.com'}
+01048214-81c4-4274-9910-f2e1025fc896,"{'office_addressline1': '10681 E Foothill Blvd 140', 'direct_phone': '760-045-7668', 'mobile_phone': '760-045-7668'}","{'office_addressline1': '10681 E Foothill Blvd', 'direct_phone': '(909) 694-0160', 'mobile_phone': '(760) 457-6680'}"
+0104f548-0a4e-4bec-9808-247d4c9ab2fb,{'primary_email': '##_830_#Billy@billyjacksonhomes.com'},{'primary_email': '##_830_#billy@billyjacksonhomes.com'}
+01062d34-4e1d-4f2a-8a94-504bae9cdba4,{'primary_email': 'Donald_fanelli@gardenstatereo.com'},{'primary_email': 'donald_fanelli@gardenstatereo.com'}
+0108a555-18f5-47a8-89ca-bc05231c5b12,{'primary_email': 'Lisa.Passavant@coldwellbankermoves.com'},{'primary_email': 'lisa.passavant@coldwellbankermoves.com'}
+0109291c-f58f-4d76-86af-cd913dac1a90,{'primary_email': 'Barbara.Perez@coldwellbankermoves.com'},{'primary_email': 'barbara.perez@coldwellbankermoves.com'}
+0109509a-c551-4b54-ae67-07aea978db85,"{'office_addressline1': '17550 North Perimeter Drive 160', 'direct_phone': '602-275-1465', 'mobile_phone': '602-275-1465'}","{'office_addressline1': '17550 North Perimeter Drive', 'direct_phone': '(480) 285-0000', 'mobile_phone': '(602) 751-4653'}"
+01098c1e-5054-404d-8746-5dfb91d8753a,{'primary_email': 'David@DavidKhosravi.com'},{'primary_email': 'david@davidkhosravi.com'}
+010aecac-1c22-402f-ab7e-678994bb7194,{'primary_email': '##_10_#Michael.Baietti@podley.com'},{'primary_email': '##_10_#michael.baietti@podley.com'}
+010b9e49-d713-4e7b-bd3b-68ee04bd4f24,{'direct_phone': ''},{'direct_phone': '(216) 509-5910'}
+010bdd0a-82d7-4639-9dda-4b43c901d583,{'primary_email': 'Diane.Sullivan@NEMoves.com'},{'primary_email': 'diane.sullivan@nemoves.com'}
+01127fa2-88af-40ab-9b27-e0a3e10e66b2,{'primary_email': '##_859_#Melissa.Mastros@cbexchange.com'},{'primary_email': '##_859_#melissa.mastros@cbexchange.com'}
+0112d911-9051-4090-ba0d-fd3a796232e8,{'primary_email': 'Susannah.Hayes@Raveis.com'},{'primary_email': 'susannah.hayes@raveis.com'}
+0116dfbf-cfb7-44fe-994b-cd93b800729e,"{'office_addressline1': '8600 Park Meadows Drive 300', 'direct_phone': '303-379-8430', 'mobile_phone': '303-379-8430'}","{'office_addressline1': '8600 Park Meadows Drive', 'direct_phone': '(303) 798-4300', 'mobile_phone': '(303) 798-4300'}"
+01189721-c011-46b2-9ea8-13269868b325,{'primary_email': 'Pauline.Dent@LongandFoster.com'},{'primary_email': 'pauline.dent@longandfoster.com'}
+0119ab09-6908-4f7d-8411-e6736716bb49,{'primary_email': 'Edward.Popek@NEMoves.com'},{'primary_email': 'edward.popek@nemoves.com'}
+011ab9b8-892f-47c2-be1a-233d832f1387,{'primary_email': 'Bumpy.Muir@LongandFoster.com'},{'primary_email': 'bumpy.muir@longandfoster.com'}
+011b18d9-2c5b-4e4b-8965-6144557efa59,"{'office_addressline1': '18503 Sigma Rd #100', 'mobile_phone': '210-043-9711'}","{'office_addressline1': '18503 Sigma Rd', 'mobile_phone': '(210) 439-7116'}"
+011c36e4-dfd9-4f2b-b14c-59cb46f212a0,"{'office_addressline1': '2425 Canyon Blvd Ste 110', 'direct_phone': '', 'mobile_phone': '303-357-9373'}","{'office_addressline1': '2425 Canyon Blvd', 'direct_phone': '(303) 449-7000', 'mobile_phone': '(303) 579-3738'}"
+011c9d75-df4e-42f8-9b86-f9737d31d06c,{'primary_email': '##_273_#Lauri.Maney@NEMoves.com'},{'primary_email': '##_273_#lauri.maney@nemoves.com'}
+011e15ab-f987-49ce-9631-1ea4e590a487,"{'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '714-492-5195', 'mobile_phone': '714-492-5195'}","{'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(949) 783-2400', 'mobile_phone': '(714) 925-1950'}"
+0122017b-c474-472a-bb1e-2cc58d70b6ab,{'primary_email': 'Neil.Brosnahan@LongandFoster.com'},{'primary_email': 'neil.brosnahan@longandfoster.com'}
+01233134-0833-41b4-af44-a3b6f5da3d87,"{'office_addressline1': '980 N. Michigan Avenue Suite 700', 'direct_phone': '312-236-8530', 'mobile_phone': ''}","{'office_addressline1': '980 N. Michigan Avenue', 'direct_phone': '(312) 944-8900', 'mobile_phone': '(312) 368-5300'}"
+01240b20-ea34-4ffb-aa5c-8758cd0824af,{'date_deactivated': 'None'},{'date_deactivated': '2018-09-27'}
+0124a762-2bf0-4ff5-974d-5a22eb32167a,{'direct_phone': ''},{'direct_phone': '(727) 896-1800'}
+0124e52f-e24e-4453-9f86-09491317070e,"{'office_addressline1': 'PO Box 1004/21675 Highway 62', 'office_city': 'Shady Cove', 'direct_phone': '541-187-8224'}","{'office_addressline1': 'PO BOX 1004/21675 HIGHWAY 62', 'office_city': 'SHADY COVE', 'direct_phone': None}"
+01254d38-0f62-4c6a-afa9-a8ba04bfe333,{'primary_email': 'Monte.Levin@NEMoves.com'},{'primary_email': 'monte.levin@nemoves.com'}
+01267485-08f1-458e-8c77-e5da4f3b40b1,{'primary_email': 'KENDAL.COHEN@longandfoster.com'},{'primary_email': 'kendal.cohen@longandfoster.com'}
+0126cdfb-bc2e-4a3b-801e-1d8c440872ae,{'primary_email': 'Diane.Lovell@Longandfoster.com'},{'primary_email': 'diane.lovell@longandfoster.com'}
+0127cf2e-f197-4819-b8c0-95377db5258a,{'primary_email': 'BETTY.STEELE@Longandfoster.com'},{'primary_email': 'betty.steele@longandfoster.com'}
+012a0bf8-5746-4a08-ad3e-9481a716164f,{'primary_email': 'Victoria@HomeInTheHarbor.com'},{'primary_email': 'victoria@homeintheharbor.com'}
+012a1496-5a28-4cdb-a8eb-b06634727fcc,"{'office_addressline1': '41463 Margarita Rd. Suite 100', 'direct_phone': '619-920-4676', 'mobile_phone': '619-920-4676'}","{'office_addressline1': '41463 Margarita Rd.', 'direct_phone': '(951) 216-2000', 'mobile_phone': '(619) 204-6762'}"
+012a5334-e644-4733-bdd0-9c1fe815a40d,"{'office_addressline1': '6000 Parkland Blvd, 2nd Floor', 'office_city': 'Mayfield Heights', 'office_zip': '44124', 'direct_phone': '', 'mobile_phone': '216-697-3896'}","{'office_addressline1': '800 W. ST. CLAIR.', 'office_city': 'CLEVELAND', 'office_zip': '44113', 'direct_phone': '(216) 373-2730', 'mobile_phone': None}"
+012a7c34-dc06-468f-aa3f-f086bd0945ff,{'primary_email': 'ODonnell.Goldfarb@raveis.com'},{'primary_email': 'odonnell.goldfarb@raveis.com'}
+012aafd7-ec32-4259-bfea-b3431eb67e1d,"{'office_addressline1': '7975 N. Hayden Rd. Ste. A-101', 'direct_phone': '480-020-9497', 'mobile_phone': '480-020-9497'}","{'office_addressline1': '7975 N. Hayden Rd.', 'direct_phone': '(480) 315-1240', 'mobile_phone': '(480) 209-4972'}"
+012b0652-150e-40e0-ad7a-8acb093e48b4,{'primary_email': 'Imeldahomes4u@gmail.com'},{'primary_email': 'imeldahomes4u@gmail.com'}
+012b53eb-6fee-4a86-ba44-8aa2514a772c,{'primary_email': 'MichelleConti@howardhanna.com'},{'primary_email': 'michelleconti@howardhanna.com'}
+012e16f6-bed6-4cc9-94a6-38c8e08a7537,{'primary_email': 'Kathryn.Richlen@NEMoves.com'},{'primary_email': 'kathryn.richlen@nemoves.com'}
+012f5ac2-119e-4306-a087-713e1dabe1ff,{'primary_email': 'Meredith.Mauger@LongandFoster.com'},{'primary_email': 'meredith.mauger@longandfoster.com'}
+0130d6dc-e5b0-46e6-87cc-75174f32e7cb,{'primary_email': 'Amanda.Wilson@westrsc.com'},{'primary_email': 'amanda.wilson@westrsc.com'}
+0130e25d-3c54-4de9-85d2-849adcda9311,{'primary_email': 'Billie.Avery@floridamoves.com'},{'primary_email': 'billie.avery@floridamoves.com'}
+01338986-846b-4364-a4a8-cd4006fb1e4d,{'agent_moxi_present': True},{'agent_moxi_present': 'false'}
+0133c165-abac-4758-b22a-48922430daa0,{'primary_email': 'CHARLIE.BUCKLEY@lnf.com'},{'primary_email': 'charlie.buckley@lnf.com'}
+0134463a-d054-4c59-9a90-0f60d26045cb,"{'office_addressline1': '980 N. Michigan Avenue Suite 700', 'primary_email': '##_10_#ecolatorti@koenigrubloff.com', 'direct_phone': '312-236-8530', 'mobile_phone': '', 'date_deactivated': '2019-02-12', 'agent_active': False}","{'office_addressline1': '980 N. Michigan Avenue', 'primary_email': 'ecolatorti@koenigrubloff.com', 'direct_phone': '(312) 944-8900', 'mobile_phone': '(312) 368-5300', 'date_deactivated': 'None', 'agent_active': 'true'}"
+01389506-f2e0-4e7f-ae81-69c3ccd90197,{'primary_email': 'Jean.McGillick@NEMoves.com'},{'primary_email': 'jean.mcgillick@nemoves.com'}
+013a88a5-fe9f-425b-b446-86f1c5e24f24,"{'office_addressline1': '150 Second Avenue North 100', 'direct_phone': '', 'mobile_phone': '727-756-5678'}","{'office_addressline1': '150 Second Avenue North', 'direct_phone': '(727) 896-1800', 'mobile_phone': '(727) 565-6787'}"
+013c7b09-a748-4193-8c6f-75975c5a9314,{'primary_email': '##_533_#ShannaM.Williams@cbdfw.com'},{'primary_email': '##_533_#shannam.williams@cbdfw.com'}
+013d125d-20ba-46bc-887f-ab84ad52c4c8,{'primary_email': 'Nicoletta.Noor@NEMoves.com'},{'primary_email': 'nicoletta.noor@nemoves.com'}
+0140c18a-a669-4e65-9f70-fbc5121a568d,{'mobile_phone': ''},{'mobile_phone': '(847) 615-5058'}
+0143ddbe-06e6-4e9b-ab1e-9cbab151994e,{'primary_email': '##_628_#Janet.Weiner@longandfoster.com'},{'primary_email': '##_628_#janet.weiner@longandfoster.com'}
+0144d251-5dbb-4cfb-a1ee-7069e2443304,{'primary_email': 'Sarah.Wasdyke@NRTNortheast.com'},{'primary_email': 'sarah.wasdyke@nrtnortheast.com'}
+0146e822-9681-4f1c-9841-0e4d195054a4,{'primary_email': 'Pam.Roland@raveis.com'},{'primary_email': 'pam.roland@raveis.com'}
+01472842-ff5f-41d5-85be-31742bd93fbf,{'mobile_phone': ''},{'mobile_phone': '(847) 751-8681'}
+01477aa9-14c7-4fca-a608-587435a7743b,"{'office_addressline1': '940 E. Santa Clara St. Suite 100', 'direct_phone': '805-590-1012', 'mobile_phone': '805-590-1012'}","{'office_addressline1': '940 E. Santa Clara St.', 'direct_phone': '(805) 978-5764', 'mobile_phone': '(805) 901-0127'}"
+014acfa0-b621-4270-ab54-21c87353bd7f,"{'primary_email': '##_10_#floridacoastre@gmail.com', 'date_deactivated': '2019-02-13', 'agent_active': False}","{'primary_email': 'floridacoastre@gmail.com', 'date_deactivated': 'None', 'agent_active': 'true'}"
+014b8ba3-7140-4241-ba03-6d0aef8e8577,"{'office_addressline1': '1260 Corona Pointe Suite 102', 'direct_phone': '951-142-7427', 'mobile_phone': '951-142-7427', 'agent_moxi_engage': False, 'agent_moxi_present': False, 'agent_moxi_websites': False}","{'office_addressline1': '1260 Corona Pointe', 'direct_phone': '(951) 547-8400', 'mobile_phone': '(951) 427-4279', 'agent_moxi_engage': 'true', 'agent_moxi_present': 'true', 'agent_moxi_websites': 'true'}"
+014f3f68-6509-4704-8cdc-70e88c8ad3a5,{'primary_email': 'Jake.Durando@camoves.com'},{'primary_email': 'jake.durando@camoves.com'}
+014fb60e-1c77-4082-b412-de304c5c7adc,{'primary_email': '##_774_#DeborahAcanfora@howardhanna.com'},{'primary_email': '##_774_#deborahacanfora@howardhanna.com'}
+0150d72a-0b2d-4505-9233-197d1a333de1,{'primary_email': 'Rita.Walsh@Raveis.com'},{'primary_email': 'rita.walsh@raveis.com'}
+01518664-c2ad-4c96-8a51-a22d71a449f9,{'primary_email': 'Natalya.Gulishevskaya@coldwellbankermoves.com'},{'primary_email': 'natalya.gulishevskaya@coldwellbankermoves.com'}
+01518931-69fe-4fe7-87da-df6d11fda305,{'direct_phone': ''},{'direct_phone': '(717) 856-6950'}
+0151b497-ac94-45ff-b5d9-f2d69b3a78c2,{'primary_email': 'Jennifer.Hupke@cbexchange.com'},{'primary_email': 'jennifer.hupke@cbexchange.com'}
+0154132a-831b-4d6c-a5f6-7a71a827c6a3,"{'primary_email': 'MariettaLipps@howardhanna.com', 'direct_phone': ''}","{'primary_email': 'mariettalipps@howardhanna.com', 'direct_phone': '(440) 346-5601'}"
+01548723-6504-464d-90fb-b4785437757e,{'primary_email': 'Farah.Mirdamadi@longandfoster.com'},{'primary_email': 'farah.mirdamadi@longandfoster.com'}
+0154a338-8386-44ca-a23b-7c5cda1d67cc,{'primary_email': 'Carlos@EngGarcia.com'},{'primary_email': 'carlos@enggarcia.com'}
+01554147-5f4e-48d5-b065-1a0a1c086354,"{'office_addressline1': '6080 Falls Road Suite 107', 'office_city': 'Baltimore', 'mobile_phone': '410-083-0987'}","{'office_addressline1': '6080 Falls Road', 'office_city': 'Lake Roland', 'mobile_phone': '(410) 830-9879'}"
+01597fe1-be79-4fd4-a846-fb10a16cc697,{'primary_email': '##_601_#AlanPritchard@howardhanna.com'},{'primary_email': '##_601_#alanpritchard@howardhanna.com'}
+015b6d08-1b4c-477f-867c-a994a3a16ffc,"{'primary_email': '##_743_#nicolelynn.christ@gmail.com', 'date_deactivated': '2019-02-12', 'agent_active': False}","{'primary_email': 'nicolelynn.christ@gmail.com', 'date_deactivated': 'None', 'agent_active': 'true'}"
+015c5f3e-abbb-4435-95a7-527fac1cb6d4,{'primary_email': 'Kparkhome@aol.com'},{'primary_email': 'kparkhome@aol.com'}
+015cbf2d-25d4-4423-915b-97ac7ada0f71,{'primary_email': 'Alice.Weiss@coldwellbankermoves.com'},{'primary_email': 'alice.weiss@coldwellbankermoves.com'}
+015d7bb8-58e4-44cc-9bff-08925030adb1,{'primary_email': '##_240_#Adam@themohrgrouptn.com'},{'primary_email': '##_240_#adam@themohrgrouptn.com'}
+015fe363-e420-4650-8665-6bb21d49aaa3,{'primary_email': 'ROSE.LEPORE@PITTSBURGHMOVES.COM'},{'primary_email': 'rose.lepore@pittsburghmoves.com'}
+016019bc-b725-4f25-a42e-d00b6e9a2329,{'primary_email': 'MaryBlumSchuler@howardhanna.com'},{'primary_email': 'maryblumschuler@howardhanna.com'}
+0161c2b4-1214-4ae1-89f8-f7e54e50e4fe,{'primary_email': 'Gabe.Buky@floridamoves.com'},{'primary_email': 'gabe.buky@floridamoves.com'}
+0163af3d-bd1d-4f02-8405-6db642ce0c8d,{'primary_email': 'Maynard.Turow@LongandFoster.com'},{'primary_email': 'maynard.turow@longandfoster.com'}
+0165c6b5-5ff3-4783-ae00-999567b1d70a,"{'firstname': 'AMI', 'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '714-487-8382', 'mobile_phone': '714-487-8382'}","{'firstname': 'Ami E', 'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(949) 783-2400', 'mobile_phone': '(714) 878-3824'}"
+01668cdd-d785-4bb3-af7d-8ebd8459c6e9,{'primary_email': 'Hung.Chan@cbnorcal.com'},{'primary_email': 'hung.chan@cbnorcal.com'}
+01672143-30d8-43d1-8273-1a0c69d06ca5,{'primary_email': '##_627_#Mary.Legacie@cbburnet.com'},{'primary_email': '##_627_#mary.legacie@cbburnet.com'}
+01678a9b-71e7-4671-bb61-96c1ba10ba7e,"{'office_addressline1': '7040 Wind Stone Boulevard Suite 200', 'direct_phone': '662-289-5088', 'mobile_phone': '662-289-5088'}","{'office_addressline1': '7040 Wind Stone Boulevard', 'direct_phone': '(662) 895-0885', 'mobile_phone': '(662) 895-0885'}"
+0167f576-dcb2-4d9a-ae70-e187974f2a61,{'primary_email': 'Beth.DeLeo@LNF.com'},{'primary_email': 'beth.deleo@lnf.com'}
+01699b63-c06e-4739-9107-60937e757cba,{'mobile_phone': ''},{'mobile_phone': '(312) 204-5011'}
+016b31ad-23dc-48a2-9487-4f64fd2cbcf1,{'primary_email': 'MARYELLEN.OBRIEN@Longandfoster.com'},{'primary_email': 'maryellen.obrien@longandfoster.com'}
+016b6a27-8eca-4a94-a902-e3c325424548,{'primary_email': 'Howard.liebgot@camoves.com'},{'primary_email': 'howard.liebgot@camoves.com'}
+016fa70c-53ff-4a39-8771-4b69cef118a7,{'primary_email': 'RyanMcClain0728@gmail.com'},{'primary_email': 'ryanmcclain0728@gmail.com'}
+0172a9c6-dd5a-4716-a19e-caa99f3cd652,{'primary_email': '##_647_#MD.ALAM@longandfoster.com'},{'primary_email': '##_647_#md.alam@longandfoster.com'}
+017379aa-bc74-4cec-84ab-e8f5c62f9785,{'primary_email': 'David.Moody@LongandFoster.com'},{'primary_email': 'david.moody@longandfoster.com'}
+017422ee-d96c-4e68-9eef-11a96e5ae1a2,{'primary_email': 'JoAnne.Murphy@raveis.com'},{'primary_email': 'joanne.murphy@raveis.com'}
+017460d6-1c7c-4862-b58a-781df21a06be,{'primary_email': 'Craig.Larson@carringtonres.com'},{'primary_email': 'craig.larson@carringtonres.com'}
+01758d35-25f5-492f-aa0f-5dfba42690d5,{'primary_email': 'JHammer@cbnorcal.com'},{'primary_email': 'jhammer@cbnorcal.com'}
+017c2929-3a97-499a-aac9-9161deed8483,{'primary_email': 'David.Mecham@azmoves.com'},{'primary_email': 'david.mecham@azmoves.com'}
+017cf4c9-80f4-4588-a196-5f0171497d40,{'direct_phone': ''},{'direct_phone': '(941) 383-7591'}
+017e7c18-8ad9-4856-8b78-f0aca3f0f4d2,"{'firstname': 'Scott', 'office_addressline1': '5550 Painted Mirage Rd. Ste 140', 'direct_phone': '702-232-1383', 'mobile_phone': '702-232-1383'}","{'firstname': 'R. Scott', 'office_addressline1': '5550 Painted Mirage Rd.', 'direct_phone': '(702) 898-0101', 'mobile_phone': '(702) 321-3839'}"
+017efffc-4648-4f7b-9741-92ae52be3b0a,"{'primary_email': 'Janice.Buckley@lnf.com', 'direct_phone': ''}","{'primary_email': 'janice.buckley@lnf.com', 'direct_phone': '5712392792'}"
+017fc510-0092-43d1-a41e-9fb7bc7ac8aa,"{'primary_email': 'Doug.Benson@Raveis.com', 'mobile_phone': ''}","{'primary_email': 'doug.benson@raveis.com', 'mobile_phone': '(914) 548-2921'}"
+01806897-6dd9-4784-b1e7-7d1ebaee368d,{'primary_email': 'DavidIoele@howardhanna.com'},{'primary_email': 'davidioele@howardhanna.com'}
+0180e9fa-c595-43ed-ac1c-9e5b8ef9b280,"{'primary_email': 'ElizabethDiomede@johngreeneRealtor.com', 'direct_phone': ''}","{'primary_email': 'elizabethdiomede@johngreenerealtor.com', 'direct_phone': '(630) 820-6500'}"
+0181821e-6566-4530-a566-81faca4208ee,{'mobile_phone': ''},{'mobile_phone': '(630) 682-8222'}
+0186e9ce-735a-42c8-a85e-c33c214aebec,{'primary_email': 'Phyllis.Colby@coldwellbankermoves.com'},{'primary_email': 'phyllis.colby@coldwellbankermoves.com'}
+018884c8-1c28-4116-9e45-b501d341d98c,{'primary_email': 'Stephen.Grande@camoves.com'},{'primary_email': 'stephen.grande@camoves.com'}
+018a8fee-71a1-42ae-a8eb-fd68673e9574,{'direct_phone': ''},{'direct_phone': '2067346422'}
+018e500d-4667-4606-9091-59a67e44c109,"{'office_addressline1': '10750 W. Charleston Blvd. Ste. 180', 'direct_phone': '702-289-8122', 'mobile_phone': '702-289-8122'}","{'office_addressline1': '10750 W. Charleston Blvd.', 'direct_phone': '(702) 898-1221', 'mobile_phone': '(702) 898-1221'}"
+018ead37-00a3-43b4-b047-58d61e7a51e2,{'primary_email': 'KMcNamara@cbmove.com'},{'primary_email': 'kmcnamara@cbmove.com'}
+0191d86e-d05c-47ef-8ce8-10f827efcdf4,"{'office_addressline1': '3530 S. Val Vista Dr. Ste. 114', 'direct_phone': '480-073-7496', 'mobile_phone': '480-073-7496'}","{'office_addressline1': '3530 S. Val Vista Dr.', 'direct_phone': '(480) 321-8100', 'mobile_phone': '(480) 737-4964'}"
+0192c208-874a-431e-9bc6-f5a0d335e518,{'primary_email': 'Toni.franklin@longandfoster.com'},{'primary_email': 'toni.franklin@longandfoster.com'}
+0192cbe4-1024-4446-a545-6954817922dc,"{'office_addressline1': '7975 N. Hayden Rd. Ste. A-101', 'direct_phone': '602-233-2510', 'mobile_phone': '602-233-2510'}","{'office_addressline1': '7975 N. Hayden Rd.', 'direct_phone': '(480) 315-1240', 'mobile_phone': '(602) 332-5104'}"
+0193223e-fc50-4456-af1d-04f93de8835b,{'primary_email': 'Mike.Jamison@cbdfw.com'},{'primary_email': 'mike.jamison@cbdfw.com'}
+01949135-3b86-43d7-b14e-495dfda41964,"{'office_addressline1': '10750 W. Charleston Blvd. Ste. 180', 'direct_phone': '702-241-9652', 'mobile_phone': '702-241-9652'}","{'office_addressline1': '10750 W. Charleston Blvd.', 'direct_phone': '(702) 898-1221', 'mobile_phone': '(702) 419-6526'}"
+01955be6-0e2e-4f87-936c-18a3c70df9a6,{'primary_email': 'Mary.Festa@CBMoves.com'},{'primary_email': 'mary.festa@cbmoves.com'}
+0195897e-c0bb-4770-997a-6579b1668e2c,{'primary_email': 'TDaoMurphy@cbnorcal.com'},{'primary_email': 'tdaomurphy@cbnorcal.com'}
+0197af41-bb84-4907-8c8b-10dee60085f6,{'primary_email': 'APUKASENKO@GOLYON.COM'},{'primary_email': 'apukasenko@golyon.com'}
+019c32bd-a9e3-4906-bda1-5caa9ba13712,{'primary_email': 'Ryan.Wojciechowski@longandfoster.com'},{'primary_email': 'ryan.wojciechowski@longandfoster.com'}
+019d006c-0691-496b-9b08-928c3e20255e,"{'office_addressline1': '900 High Street 120', 'direct_phone': '', 'mobile_phone': '916-683-5722'}","{'office_addressline1': '900 High Street', 'direct_phone': '(916) 757-6970', 'mobile_phone': '(916) 835-7225'}"
+019ed39a-91c0-4451-b1c4-f58a0b9813b9,{'primary_email': 'Kimberly.Andrew@raveis.com'},{'primary_email': 'kimberly.andrew@raveis.com'}
+019f31c6-1597-49b9-8f1a-2d2ff3f19005,{'primary_email': 'Karen.Johnson@nemoves.com'},{'primary_email': 'karen.johnson@nemoves.com'}
+019f4a60-49eb-40e9-8af9-f13dab334399,{'primary_email': 'BILL.KLIMA@Longandfoster.com'},{'primary_email': 'bill.klima@longandfoster.com'}
+019f4f8f-3326-4336-a792-38c0e63c6b01,{'primary_email': 'Merna.Hill@coldwellbankermoves.com'},{'primary_email': 'merna.hill@coldwellbankermoves.com'}
+019f8164-4b33-49ef-a7d4-8edac1ae74e8,"{'office_addressline1': '5550 Painted Mirage Rd. Ste 140', 'direct_phone': '949-959-6430', 'mobile_phone': '949-959-6430'}","{'office_addressline1': '5550 Painted Mirage Rd.', 'direct_phone': '(702) 898-0101', 'mobile_phone': '(949) 596-4300'}"
+019fb140-f9f0-42ea-abb0-2bc0673d9ca7,{'primary_email': 'Laurie.Koziel@raveis.com'},{'primary_email': 'laurie.koziel@raveis.com'}
+019fcdb1-17f0-4791-baa8-3b02c9ca5c82,{'primary_email': 'Marla.Aird@westrsc.com'},{'primary_email': 'marla.aird@westrsc.com'}
+01a07986-1ef4-4b81-b068-7428642f40a1,{'primary_email': 'Dinesh.Vaswani@lnf.com'},{'primary_email': 'dinesh.vaswani@lnf.com'}
+01a079b8-aa15-49a2-a04a-e482e4175832,{'primary_email': 'Sally.Hollister@nemoves.com'},{'primary_email': 'sally.hollister@nemoves.com'}
+01a0ace7-dc00-4a1c-84bd-9f4026918bc6,{'primary_email': 'Davey.Erb@longandfoster.com'},{'primary_email': 'davey.erb@longandfoster.com'}
+01a0e688-cb86-4df7-904e-d8492e05708c,{'primary_email': 'Chris.Viegaard@NEMoves.com'},{'primary_email': 'chris.viegaard@nemoves.com'}
+01a199cd-b106-47f3-9b9b-c043cf69fded,{'primary_email': 'Mickey@MickeySellsHomes.com'},{'primary_email': 'mickey@mickeysellshomes.com'}
+01a512b0-24bb-4092-bdc7-1c66f0fd5c95,{'primary_email': 'Kristen.Like@cbgundaker.com'},{'primary_email': 'kristen.like@cbgundaker.com'}
+01a5c213-33a3-44f2-8558-a38018ef74e2,{'primary_email': 'DYork@Coldwellbanker.com'},{'primary_email': 'dyork@coldwellbanker.com'}
+01a628c9-159c-41dd-9b3d-ba3f78d3d036,{'primary_email': 'Suzanne.Biga@coldwellbankermoves.com'},{'primary_email': 'suzanne.biga@coldwellbankermoves.com'}
+01a787f3-407d-4118-b595-ac56f6cde604,{'primary_email': 'Michael.Kane@raveis.com'},{'primary_email': 'michael.kane@raveis.com'}
+01a8bc32-96bd-49b7-9cf5-be1e2bcf24e0,{'primary_email': 'Pam.Carey@coldwellbankermoves.com'},{'primary_email': 'pam.carey@coldwellbankermoves.com'}
+01a9a472-3643-4466-840e-fba774108806,{'primary_email': '##_508_#Karen.Lyons@LongandFoster.com'},{'primary_email': '##_508_#karen.lyons@longandfoster.com'}
+01aa32ed-6fe9-4c86-afc9-8b04063f5228,{'office_addressline1': '18503 Sigma Rd #100'},{'office_addressline1': '18503 Sigma Rd'}
+01ab9a13-fc5b-4994-8497-a7f442b0a16f,{'primary_email': 'Ben.Littner@cbexchange.com'},{'primary_email': 'ben.littner@cbexchange.com'}
+01ae3a1a-1286-4a0b-857d-4c113e668c29,{'primary_email': 'nathan.hunt@Longandfoster.com'},{'primary_email': 'nathan.hunt@longandfoster.com'}
+01b063ec-49b5-4fea-b0e5-2b97a3e9c169,"{'office_addressline1': '17235 N. 75th Ave Ste. C-190', 'direct_phone': '623-323-6141', 'mobile_phone': '623-323-6141'}","{'office_addressline1': '17235 N. 75th Ave', 'direct_phone': '(623) 236-1414', 'mobile_phone': '(623) 236-1414'}"
+01b1d507-3341-4d68-87d7-5ecb3e4ca608,{'primary_email': 'LINDA.BROOKS@Longandfoster.com'},{'primary_email': 'linda.brooks@longandfoster.com'}
+01b230df-acc0-43c3-9cf0-96c7d9a0a0c2,"{'office_addressline1': '11211 N. Tatum Boulevard Ste. 120', 'direct_phone': '602-261-9331', 'mobile_phone': '602-261-9331'}","{'office_addressline1': '11211 N. Tatum Boulevard', 'direct_phone': '(602) 953-4000', 'mobile_phone': '(602) 619-3313'}"
+01b2ed85-7530-42f1-9934-b80541535c68,{'mobile_phone': ''},{'mobile_phone': '(630) 469-7000'}
+01b35c69-c4c6-41ca-9384-77ee919950e2,{'primary_email': 'Alisha.grg@windermere.com'},{'primary_email': 'alisha.grg@windermere.com'}
+01b37138-dcfe-4631-b9db-c8d8af5e6801,{'primary_email': 'Keone.Catian@cbpacific.com'},{'primary_email': 'keone.catian@cbpacific.com'}
+01b3e7f5-b53b-418f-857c-84d089d5e299,{'mobile_phone': ''},{'mobile_phone': '(847) 372-3144'}
+01b432a7-64a9-47da-b0b8-6abbcc311d89,{'primary_email': 'Uzo.Eze@nrteast.com'},{'primary_email': 'uzo.eze@nrteast.com'}
+01b4faf6-4882-47d8-907b-3d84f4ea8e01,{'primary_email': 'Gabriel.Moyers@carringtonres.com'},{'primary_email': 'gabriel.moyers@carringtonres.com'}
+01b52e55-e5af-4118-8f0d-540a82adf0fe,"{'office_addressline1': '3333 Camino Del Rio South 120', 'direct_phone': '619-982-3540', 'mobile_phone': '619-982-3540', 'agent_moxi_engage': False, 'agent_moxi_present': False, 'agent_moxi_websites': False}","{'office_addressline1': '3333 Camino Del Rio South', 'direct_phone': '(619) 452-3280', 'mobile_phone': '(619) 823-5400', 'agent_moxi_engage': 'true', 'agent_moxi_present': 'true', 'agent_moxi_websites': 'true'}"
+01b55c9f-bc43-49c3-b182-c9c30f2d65ea,{'primary_email': '##_324_#Mary.McKay@coldwellbankermoves.com'},{'primary_email': '##_324_#mary.mckay@coldwellbankermoves.com'}
+01b5b045-944c-424a-922c-d005cb6d8c1c,{'direct_phone': ''},{'direct_phone': '(650) 323-1900'}
+01b62912-7ec8-42b8-802d-b0c4c83a7a80,{'primary_email': 'Maria.Redden@LongandFoster.com'},{'primary_email': 'maria.redden@longandfoster.com'}
+01b77de5-fc46-49db-b74f-600b5d133561,"{'office_addressline1': '940 E. Santa Clara St. Suite 100', 'direct_phone': '805-521-7980', 'mobile_phone': '805-521-7980'}","{'office_addressline1': '940 E. Santa Clara St.', 'direct_phone': '(805) 978-5764', 'mobile_phone': '(805) 217-9804'}"
+01bbfd3e-67fb-4b58-9afd-e3ffaff07c70,{'primary_email': 'Nancy.Swanson@raveis.com'},{'primary_email': 'nancy.swanson@raveis.com'}
+01bcee3e-7288-4f63-b14c-7916eddd36ba,{'primary_email': 'Malcolm.Kastin@coldwellbankermoves.com'},{'primary_email': 'malcolm.kastin@coldwellbankermoves.com'}
+01be8a24-8974-4dbf-9bb2-6f36a7a47c9e,{'primary_email': 'Aaron.Cherry@longandfoster.com'},{'primary_email': 'aaron.cherry@longandfoster.com'}
+01c0c7eb-1f30-45e5-9bc9-136dc967398d,"{'office_addressline1': '2150 N 107th Street Suite 170', 'direct_phone': '206-636-2070', 'mobile_phone': '206-636-2070'}","{'office_addressline1': '2150 N 107th Street', 'direct_phone': '(206) 362-0700', 'mobile_phone': '(206) 362-0700'}"
+01c27a1b-1c9b-4e4a-8fdc-2391b4019ad8,"{'agent_moxi_present': True, 'agent_moxi_websites': True}","{'agent_moxi_present': 'false', 'agent_moxi_websites': 'false'}"
+01c2db97-f7ae-46d6-b09a-380a8b54c5f1,{'primary_email': 'Brian.Campbell@LongandFoster.com'},{'primary_email': 'brian.campbell@longandfoster.com'}
+01c336ca-aa30-4032-b5d3-c7a1598bd9bd,{'primary_email': 'SHAWN-MARIE@COLDWELLBANKER.COM'},{'primary_email': 'shawn-marie@coldwellbanker.com'}
+01c38f4f-2c68-4a57-b713-903e51c99fd1,"{'office_addressline1': '17235 N. 75th Ave Ste. C-190', 'direct_phone': '623-323-6141', 'mobile_phone': '623-323-6141'}","{'office_addressline1': '17235 N. 75th Ave', 'direct_phone': '(623) 236-1414', 'mobile_phone': '(623) 236-1414'}"
+01c3f619-bbff-462d-aec4-00a4ea23be37,{'primary_email': 'Alan.DiGilio@LongandFoster.com'},{'primary_email': 'alan.digilio@longandfoster.com'}
+01c45c89-7143-4bee-b43f-a75c3b641d21,"{'firstname': 'Dana', 'lastname': 'Quinones', 'office_addressline1': '6000 Parkland Blvd, 2nd Floor', 'office_city': 'Mayfield Heights', 'office_zip': '44124'}","{'firstname': 'DANA', 'lastname': 'QUINONES', 'office_addressline1': '800 W. ST. CLAIR.', 'office_city': 'CLEVELAND', 'office_zip': '44113'}"
+01c5e2ed-4133-4c60-a79e-6d0e036ac9d6,{'primary_email': '##_903_#Lynn.Melville@NEMoves.com'},{'primary_email': '##_903_#lynn.melville@nemoves.com'}
+01c67832-97a0-4603-8f40-877852b1a582,{'primary_email': 'Jill@JillOchoa.com'},{'primary_email': 'jill@jillochoa.com'}
+01c9afd6-6211-434c-b051-3886b6c51ad3,{'primary_email': 'JulieHermanAZ@gmail.com'},{'primary_email': 'juliehermanaz@gmail.com'}
+01cc2bd7-217d-4518-96a1-87b763530af1,"{'firstname': 'Jesse', 'office_addressline1': '11211 N. Tatum Boulevard Ste. 120', 'direct_phone': '602-232-6249', 'mobile_phone': '602-232-6249'}","{'firstname': 'Jaswinder', 'office_addressline1': '11211 N. Tatum Boulevard', 'direct_phone': '(602) 953-4000', 'mobile_phone': '(602) 326-2496'}"
+01cd5174-70d2-447e-b999-d75227f6fdd5,"{'office_addressline1': '150 S. Rodeo Drive Suite 100', 'direct_phone': '', 'mobile_phone': '310-043-5369'}","{'office_addressline1': '150 S. Rodeo Drive', 'direct_phone': '(310) 272-8002', 'mobile_phone': '(310) 435-3690'}"
+01d1565a-8360-4cba-b24c-04dfc2831301,{'primary_email': '##_166_#Austin.Lawler@longandfoster.com'},{'primary_email': '##_166_#austin.lawler@longandfoster.com'}
+01d20bdb-20ce-4b33-8abb-ce2a553d13c1,{'primary_email': 'Michael.Wilkins@carringtonres.com'},{'primary_email': 'michael.wilkins@carringtonres.com'}
+01d27af3-cc3b-4178-9223-4ffa965ad6ea,{'primary_email': 'Austin@RAustinBrasch.com'},{'primary_email': 'austin@raustinbrasch.com'}
+01d4686d-402d-41b7-b2d6-5bec9458b447,{'primary_email': 'CharleneZoratti@howardhanna.com'},{'primary_email': 'charlenezoratti@howardhanna.com'}
+01d4b58c-89e9-4600-b8a0-d9bd9b4a299a,{'primary_email': 'achen@HammondRe.com'},{'primary_email': 'achen@hammondre.com'}
+01d57cac-76a7-4c38-9c5a-6a00b3e32bde,{'primary_email': 'GBoeck@cbnorcal.com'},{'primary_email': 'gboeck@cbnorcal.com'}
+01d769a7-d25f-4b85-bd15-9df14cfd49bf,"{'office_addressline1': '17235 N. 75th Ave Ste. C-190', 'direct_phone': '480-052-1098', 'mobile_phone': '480-052-1098'}","{'office_addressline1': '17235 N. 75th Ave', 'direct_phone': '(623) 236-1414', 'mobile_phone': '(480) 521-0982'}"
+01d86686-69e3-42b4-a27a-7356d2fe5f8e,{'direct_phone': ''},{'direct_phone': '(310) 301-1003'}
+01d9aa59-0af8-4e0c-a1ee-81e3a2856f41,"{'office_addressline1': '910 E. Hamilton Ave Suite 100', 'direct_phone': '408-891-0488', 'mobile_phone': '408-891-0488'}","{'office_addressline1': '910 E. Hamilton Ave', 'direct_phone': '(408) 377-2700', 'mobile_phone': '(408) 910-4886'}"
+01da583a-8ff4-4cd0-8163-248da69e4411,{'primary_email': 'John.Ham@coldwellbanker.com'},{'primary_email': 'john.ham@coldwellbanker.com'}
+01db307a-088f-4deb-b8c3-eb6ba25ceb53,{'primary_email': 'Patrick.Coulter@lnf.com'},{'primary_email': 'patrick.coulter@lnf.com'}
+01db6d60-277f-4c55-a6e9-8e605f4476fe,"{'primary_email': 'AngelaMolitoris@howardhanna.com', 'direct_phone': ''}","{'primary_email': 'angelamolitoris@howardhanna.com', 'direct_phone': '(216) 299-9503'}"
+01e04d4d-6b85-4439-b61e-506d347f0a24,{'primary_email': 'Amy.Evans@cbexchange.com'},{'primary_email': 'amy.evans@cbexchange.com'}
+01e0657d-87d3-469a-8903-62dbcded641f,{'primary_email': 'Yolanda.Drakeford@CBCarolinas.com'},{'primary_email': 'yolanda.drakeford@cbcarolinas.com'}
+01e0ac50-bf9d-454a-8382-5a7f665ba440,"{'office_addressline1': '4209 Mayfair Street Suite A', 'direct_phone': '843-333-3806', 'mobile_phone': '843-333-3806'}","{'office_addressline1': '4209 Mayfair Street', 'direct_phone': '(843) 907-7607', 'mobile_phone': '(843) 333-8066'}"
+01e17854-c772-4496-898c-b8faa9672fe3,{'primary_email': 'Becky.Meadows@LongandFoster.com'},{'primary_email': 'becky.meadows@longandfoster.com'}
+01e28237-23e6-4786-899f-9589a1ef455f,{'primary_email': 'Latonya.Billups@LongandFoster.com'},{'primary_email': 'latonya.billups@longandfoster.com'}
+01e28cb1-6e5a-4820-9087-1d6dd36e51a4,{'primary_email': 'Roya.Hakimzadeh@LongandFoster.com'},{'primary_email': 'roya.hakimzadeh@longandfoster.com'}
+01e2a745-2b55-4d3a-907d-3fd87dcd6d43,"{'office_addressline1': '8395 W Sunset Rd Ste. 190', 'direct_phone': '702-246-1475', 'mobile_phone': '702-246-1475'}","{'office_addressline1': '8395 W Sunset Rd', 'direct_phone': '(702) 898-1010', 'mobile_phone': '(702) 461-4750'}"
+01e51591-616a-40ca-98a4-de260014c968,{'primary_email': 'Travis.Senenfelder@cbburnet.com'},{'primary_email': 'travis.senenfelder@cbburnet.com'}
+01e56ae2-24ff-41c9-8aef-eb272f75f170,{'direct_phone': ''},{'direct_phone': '(941) 493-2500'}
+01e6df07-5b8c-4546-b550-13d034cc3f38,{'primary_email': 'CATHERINE.DIPASQUALE@lnf.com'},{'primary_email': 'catherine.dipasquale@lnf.com'}
+01eb6531-2b30-4711-8574-5bb312428ba1,{'direct_phone': ''},{'direct_phone': '(717) 903-0174'}
+01ec2e57-2a79-4669-b3d7-c56d8cdee023,{'direct_phone': ''},{'direct_phone': '(831) 460-1100'}
+01ef085e-455e-4ef2-8bea-3c162409d8eb,{'primary_email': 'MichelleandCompany@raveis.com'},{'primary_email': 'michelleandcompany@raveis.com'}
+01f5e869-9a84-47a7-ac6b-8525bdca7bc3,{'primary_email': 'Tmaloney@cbmove.com'},{'primary_email': 'tmaloney@cbmove.com'}
+01f6af95-fee5-481d-ae6a-85e2dc6ad456,{'primary_email': 'Alejandro.Lievano@ColdwellBankerAtlanta.com'},{'primary_email': 'alejandro.lievano@coldwellbankeratlanta.com'}
+01f6e529-caaf-4aba-9d70-5749d5fc9b07,{'primary_email': 'Indera.Seaurattan@nrteast.com'},{'primary_email': 'indera.seaurattan@nrteast.com'}
+01f85ef5-4853-474b-9cab-d03af24f7772,{'direct_phone': ''},{'direct_phone': '8452587290'}
+01f878b3-38ed-40f1-9c73-0f32f7fa3a00,{'primary_email': 'kellylukich@windermere.com'},{'primary_email': 'kellyl@windermere.com'}
+01fd1c46-fbea-4cb4-a2bb-f925796f48d1,{'primary_email': 'ColleenFix@howardhanna.com'},{'primary_email': 'colleenfix@howardhanna.com'}
+0200b6f9-048c-4d43-abc9-6d6b84f2ca90,{'primary_email': 'Sarah.Pechukas@raveis.com'},{'primary_email': 'sarah.pechukas@raveis.com'}
+02019eea-1a9d-43ae-aaa8-91d4cba1e1eb,{'primary_email': 'Kelly.Fleischmann@longandfoster.com'},{'primary_email': 'kelly.fleischmann@longandfoster.com'}
+0201d00f-23c0-4657-94b9-8977a234da61,{'primary_email': 'Kathy.Anderson@cbmoves.com'},{'primary_email': 'kathy.anderson@cbmoves.com'}
+0204066a-9dc6-43f8-8783-80ac0c7aba20,{'primary_email': 'Timothy.Miller@longandfoster.com'},{'primary_email': 'timothy.miller@longandfoster.com'}
+020448c8-363d-4fad-a1be-2ff03a29967e,"{'office_addressline1': '8395 W Sunset Rd Ste. 190', 'direct_phone': '702-227-5900', 'mobile_phone': '702-227-5900'}","{'office_addressline1': '8395 W Sunset Rd', 'direct_phone': '(702) 898-1010', 'mobile_phone': '(702) 275-9000'}"
+02051bf0-b065-4421-a207-26315a361810,{'direct_phone': ''},{'direct_phone': '(908) 782-0100'}
+02064161-09dd-4228-8c14-404667c0ad39,{'direct_phone': ''},{'direct_phone': '(941) 388-4447'}
+0206b1f6-f8a0-4bea-bd70-3c980397ea97,{'primary_email': 'Cindy@Cindymannteam.com'},{'primary_email': 'cindy@cindymannteam.com'}
+0206b9c5-2682-44a9-b2e6-877603a7086d,{'primary_email': 'Steve.Taylor@raveis.com'},{'primary_email': 'steve.taylor@raveis.com'}
+020712c9-df64-4cc4-b40b-2570c4df4269,{'primary_email': 'JEAN.LEGAL@LongandFoster.com'},{'primary_email': 'jean.legal@longandfoster.com'}
+02082c4a-f9d1-475e-88db-475d343081ad,{'primary_email': 'Carolyn.McCloskey@LongandFoster.com'},{'primary_email': 'carolyn.mccloskey@longandfoster.com'}
+0208a241-98ef-4f91-b403-bbc8e0176c7a,{'primary_email': 'RAY.ARNOLD@lnf.com'},{'primary_email': 'ray.arnold@lnf.com'}
+0208fd1a-1de1-4f35-987b-8d73ea42a40d,{'direct_phone': ''},{'direct_phone': '(310) 820-0195'}
+02098897-68c7-4387-aa75-439a7cb03ddb,{'primary_email': 'Dena.Leonard@LongandFoster.com'},{'primary_email': 'dena.leonard@longandfoster.com'}
+020f6ce5-0f51-4674-b716-3b514743bdb9,"{'office_addressline1': '17235 N. 75th Ave Ste. C-190', 'direct_phone': '623-323-6141', 'mobile_phone': '623-323-6141'}","{'office_addressline1': '17235 N. 75th Ave', 'direct_phone': '(623) 236-1414', 'mobile_phone': '(623) 236-1414'}"
+020f8f00-b3b4-43f4-bdf0-eab707117260,{'primary_email': 'Jennifer.Thomas@raveis.com'},{'primary_email': 'jennifer.thomas@raveis.com'}
+02121df0-763d-4614-a43c-e385815a1d74,{'mobile_phone': ''},{'mobile_phone': '(630) 325-7500'}
+02131bb0-a064-46b0-b5f3-bf8ccc496d1d,{'primary_email': 'Wanda.Scheifele@coldwellbankermoves.com'},{'primary_email': 'wanda.scheifele@coldwellbankermoves.com'}
+0213bb07-dff0-4a21-a1d8-c8d6ddb631a3,{'primary_email': 'JenniferTodaro@howardhanna.com'},{'primary_email': 'jennifertodaro@howardhanna.com'}
+021465b2-5463-4276-822a-f29f2c8aca32,{'primary_email': '##_228_#Nicole@ConsuNova.com'},{'primary_email': '##_228_#nicole@consunova.com'}
+02159e08-efc3-4267-b55e-90dcc3b98acf,{'direct_phone': ''},{'direct_phone': '(310) 820-0195'}
+021735d7-d948-43a0-87f3-ef7363eac20e,{'primary_email': 'CWLaForge@cbburnet.com'},{'primary_email': 'cwlaforge@cbburnet.com'}
+021964a8-19f7-4a69-853f-0fef8ac7aa9e,{'primary_email': 'Jill.Cianchini@longandfoster.com'},{'primary_email': 'jill.cianchini@longandfoster.com'}
+021c0104-a78e-4d1e-bae0-f98fd3737e91,{'primary_email': 'Justine.Augenstern@nemoves.com'},{'primary_email': 'justine.augenstern@nemoves.com'}
+021c53df-4de9-494e-842d-5f7139487037,{'primary_email': 'Rick.Gaviati@camoves.com'},{'primary_email': 'rick.gaviati@camoves.com'}
+021d221b-06c7-46bb-8fc7-50195e418899,{'primary_email': 'Jennifer.Peleponuk@raveis.com'},{'primary_email': 'jennifer.peleponuk@raveis.com'}
+02206138-e20b-4f57-94ee-7215a3fc2c38,"{'primary_email': 'TinaLCameron@aol.com', 'direct_phone': ''}","{'primary_email': 'tinalcameron@aol.com', 'direct_phone': '(310) 820-0195'}"
+02211e39-9779-4bb4-9532-e04e5f542cee,"{'office_addressline1': '2076 S Woodlands Village Blvd #101', 'direct_phone': '938-877-4339', 'mobile_phone': '938-877-4339'}","{'office_addressline1': '2076 S Woodlands Village Blvd', 'direct_phone': '(928) 774-3392', 'mobile_phone': '(938) 774-3392'}"
+0221882b-9ad6-4896-9055-2da6521d0c8f,"{'primary_email': 'Laddie.Cook@NEMoves.com', 'date_deactivated': 'None'}","{'primary_email': 'laddie.cook@nemoves.com', 'date_deactivated': '2018-10-04'}"
+02219004-7ef9-40e0-9ae9-88052e76f17a,{'primary_email': 'P.K@camoves.com'},{'primary_email': 'p.k@camoves.com'}
+0221a2f4-2d35-43fa-9823-41ecb1fde7ff,{'primary_email': 'Paulette.Crowley@raveis.com'},{'primary_email': 'paulette.crowley@raveis.com'}
+02227827-e771-49bf-aa00-a393aaa22b77,{'primary_email': 'Laura.Arellano@camoves.com'},{'primary_email': 'laura.arellano@camoves.com'}
+0222dcba-6e34-44ab-afa8-89853e6b07bf,{'primary_email': 'Tj.Ponczko@gmail.com'},{'primary_email': 'tj.ponczko@gmail.com'}
+022338dd-6c3d-4fb6-9ffa-d413309d5d8a,{'primary_email': 'Margy.Sigerich@cbexchange.com'},{'primary_email': 'margy.sigerich@cbexchange.com'}
+0224bf8a-630b-49aa-9105-e194cb6bb424,{'primary_email': 'JANE.DODSON@PITTSBURGHMOVES.COM'},{'primary_email': 'jane.dodson@pittsburghmoves.com'}
+02250cfe-07ee-43ad-a803-6977a82ddb15,{'primary_email': 'Kerry.Meissner@cbexchange.com'},{'primary_email': 'kerry.meissner@cbexchange.com'}
+0225317b-5a20-4a2a-8cf7-4ad9d752f856,{'primary_email': 'Kay.Kellogg@cbexchange.com'},{'primary_email': 'kay.kellogg@cbexchange.com'}
+022613d2-ebb0-490d-be49-34527d2ca5bb,{'primary_email': 'Adriana.Pickard@cbnorcal.com'},{'primary_email': 'adriana.pickard@cbnorcal.com'}
+0228ac6a-89cc-4f2f-b434-ef7f14735d0a,{'primary_email': 'JOCELYN.RONCASE@Longandfoster.com'},{'primary_email': 'jocelyn.roncase@longandfoster.com'}
+022a9b30-6745-4a59-a679-b816ecb71cc7,{'primary_email': '##_625_#Patricia.Maley@longandfoster.com'},{'primary_email': '##_625_#patricia.maley@longandfoster.com'}
+022c3a46-074e-492d-aedf-6a5b348abeb6,"{'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '949-978-3240', 'mobile_phone': '949-978-3240'}","{'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(949) 783-2400', 'mobile_phone': '(949) 783-2400'}"
+022d48f9-eb8f-4da8-9937-a748f589dd8d,{'primary_email': 'Sue.Ryan@raveis.com'},{'primary_email': 'sue.ryan@raveis.com'}
+022e56fc-bd5b-48e1-baf6-ab0f8e558779,{'primary_email': '##_163_#Sarah.Hegan@cbmoves.com'},{'primary_email': '##_163_#sarah.hegan@cbmoves.com'}
+022ec7ea-cd9f-4330-8284-49901551a3c6,{'direct_phone': ''},{'direct_phone': '2023219132'}
+02306e56-0da2-4690-80ed-050175d23563,{'primary_email': 'Gopesh.Sanchiher@longandfoster.com'},{'primary_email': 'gopesh.sanchiher@longandfoster.com'}
+0231252e-feb1-4647-9ab6-2284034b14aa,{'primary_email': 'Ellen.Chan@carringtonres.com'},{'primary_email': 'ellen.chan@carringtonres.com'}
+02313623-dd73-4b67-9696-790b021db464,{'direct_phone': ''},{'direct_phone': '(831) 460-1100'}
+0231393e-1b56-4d38-8ec0-c49f3bc6c244,{'primary_email': '##_10_#MMontgomery@leadingre.com'},{'primary_email': '##_10_#mmontgomery@leadingre.com'}
+02338c96-8274-42b9-8732-0b918e8542f8,{'primary_email': 'Nathan.Ingham@NEMoves.com'},{'primary_email': 'nathan.ingham@nemoves.com'}
+02340764-8c54-4412-8798-9540acc021b3,{'primary_email': '##_580_#LauraGaglio@1stprioritymortgage.com'},{'primary_email': '##_580_#lauragaglio@1stprioritymortgage.com'}
+02367c97-d4d9-4282-a0eb-45637c762486,{'primary_email': 'Gail.Hall@NEMoves.com'},{'primary_email': 'gail.hall@nemoves.com'}
+0236b2ad-5863-4595-b040-825cf1b6fbfc,{'primary_email': 'Tina@BartlettRE.com'},{'primary_email': 'tina@bartlettre.com'}
+02386bd3-6f8e-4a11-b7df-333443951326,"{'primary_email': 'JohnDeSantis@howardhanna.com', 'direct_phone': ''}","{'primary_email': 'johndesantis@howardhanna.com', 'direct_phone': '(440) 974-7283'}"
+023a6de7-deeb-46b2-9c60-0c0347d6abab,{'primary_email': 'Alexander.Marks@raveis.com'},{'primary_email': 'alexander.marks@raveis.com'}
+023a81d4-d367-43c4-aec5-b59d6c528a3d,{'primary_email': 'Martin.Willigan@LongandFoster.com'},{'primary_email': 'martin.willigan@longandfoster.com'}
+023e3202-ce67-4774-9cd9-1476426c315f,"{'firstname': 'Michael', 'lastname': 'Latine', 'office_addressline1': '2603 West Market Suite 100', 'office_city': 'Akron', 'direct_phone': '', 'mobile_phone': '330-080-2645'}","{'firstname': 'MICHAEL', 'lastname': 'LATINE', 'office_addressline1': '2603 WEST MARKET', 'office_city': 'AKRON', 'direct_phone': '(330) 802-6459', 'mobile_phone': None}"
+023ee886-ce3f-4d77-b4a5-b4aa2d6a958a,{'primary_email': 'Maria.Forman@LongandFoster.com'},{'primary_email': 'maria.forman@longandfoster.com'}
+02404e5d-608d-4c11-bf8d-cceea7dd2171,{'primary_email': 'FranLittleton@WatsonRealtyCorp.com'},{'primary_email': 'franlittleton@watsonrealtycorp.com'}
+0242b93c-2669-4e95-9a7f-7f41c57514a4,{'primary_email': '##_727_#Patrick.Ferguson@LongandFoster.com'},{'primary_email': '##_727_#patrick.ferguson@longandfoster.com'}
+02440765-9282-46c1-96ab-4149b4e03a4d,{'direct_phone': ''},{'direct_phone': '(831) 460-1100'}
+0244f44d-362f-4d45-aba6-7e349d039d2f,{'primary_email': 'Catherine.Censullo@coldwellbankermoves.com'},{'primary_email': 'catherine.censullo@coldwellbankermoves.com'}
+0245c5c6-181f-4650-8b92-59ed1439ddfd,{'primary_email': 'Robyn.Graham@longandfoster.com'},{'primary_email': 'robyn.graham@longandfoster.com'}
+0248a78e-a765-4e10-a39a-0fca1ee1ae76,"{'office_addressline1': '3530 S. Val Vista Dr. Ste. 114', 'direct_phone': '623-321-7533', 'mobile_phone': '623-321-7533'}","{'office_addressline1': '3530 S. Val Vista Dr.', 'direct_phone': '(480) 321-8100', 'mobile_phone': '(623) 217-5335'}"
+0249a973-8b83-404a-bcbc-fec07609efc2,"{'firstname': 'BJ', 'office_addressline1': '17550 North Perimeter Drive 160', 'direct_phone': '602-251-0747', 'mobile_phone': '602-251-0747'}","{'firstname': 'B.J.', 'office_addressline1': '17550 North Perimeter Drive', 'direct_phone': '(480) 285-0000', 'mobile_phone': '(602) 510-7478'}"
+0249fe7e-06fa-44e1-83b5-f15167a19b79,{'primary_email': 'Alfonso.Diaz@longandfoster.com'},{'primary_email': 'alfonso.diaz@longandfoster.com'}
+024a9ae4-e21b-42b3-ba70-a2e3c3a236cd,{'primary_email': 'Barbara@kimhaley.com'},{'primary_email': 'barbara@kimhaley.com'}
+024c2499-8aeb-483d-afb4-b73c522d5196,{'primary_email': 'Reuben.Guidry@longandfoster.com'},{'primary_email': 'reuben.guidry@longandfoster.com'}
+024c6a60-45cf-4016-9889-85278d79caad,{'primary_email': 'Susan.Froehlich@raveis.com'},{'primary_email': 'susan.froehlich@raveis.com'}
+024dcf20-6b14-4869-a271-3a2778ef1871,"{'primary_email': 'BillBurns@howardhanna.com', 'direct_phone': ''}","{'primary_email': 'billburns@howardhanna.com', 'direct_phone': '(216) 509-0006'}"
+024dd4ac-9f4e-481a-9672-d0734e077594,{'mobile_phone': ''},{'mobile_phone': '(847) 556-5816'}
+024dfe08-f831-4828-af2a-00fca117742b,{'primary_email': 'Tracy.Kutt@camoves.com'},{'primary_email': 'tracy.kutt@camoves.com'}
+024f946f-d3f1-4d2c-b24d-fd08dc1539c8,{'primary_email': 'Roseann.Guagenti@LongandFoster.com'},{'primary_email': 'roseann.guagenti@longandfoster.com'}
+0250534e-e636-4e9a-8428-c9f135a3da7d,{'primary_email': '##_915_#Cheryl.Romig@camoves.com'},{'primary_email': '##_915_#cheryl.romig@camoves.com'}
+0250d401-bc83-4819-9832-261f5bab5d4a,"{'office_addressline1': '940 E. Santa Clara St. Suite 100', 'direct_phone': '805-570-5550', 'mobile_phone': '805-570-5550'}","{'office_addressline1': '940 E. Santa Clara St.', 'direct_phone': '(805) 978-5764', 'mobile_phone': '(805) 705-5507'}"
+02552800-3da6-425c-aebd-3bba75de9cf3,{'primary_email': '##_10_#Austin.Alhajj@raveis.com'},{'primary_email': '##_10_#austin.alhajj@raveis.com'}
+02595351-1c3d-4e13-b1b8-4a4c6d73347d,{'primary_email': 'Deanna.Reina@longandfoster.com'},{'primary_email': 'deanna.reina@longandfoster.com'}
+02597fe4-79e5-465f-bd50-fdcd4db891d3,"{'office_addressline1': '8395 W Sunset Rd Ste. 190', 'direct_phone': '706-697-9130', 'mobile_phone': '706-697-9130'}","{'office_addressline1': '8395 W Sunset Rd', 'direct_phone': '(702) 898-1010', 'mobile_phone': '(706) 979-1304'}"
+025cda49-936c-493d-b9b9-01bfda0ace5d,{'primary_email': 'Mason.Fuller@camoves.com'},{'primary_email': 'mason.fuller@camoves.com'}
+025e1a77-7d3d-4a33-8477-430d58169e48,{'primary_email': '##_451_#Myagentnick@gmail.com'},{'primary_email': '##_451_#myagentnick@gmail.com'}
+025ee5d6-0a3c-4395-be8a-54bbd186b098,{'primary_email': 'Amir.Ingram@LongandFoster.com'},{'primary_email': 'amir.ingram@longandfoster.com'}
+02602e5d-d288-49bc-a0bf-0eefc5861ed9,{'primary_email': 'brianS.watson@floridamoves.com'},{'primary_email': 'brians.watson@floridamoves.com'}
+02603c3c-5d6c-42b2-b9db-978e6b971f2c,{'primary_email': 'Mario.Fajardo@raveis.com'},{'primary_email': 'mario.fajardo@raveis.com'}
+02611244-ac01-40d1-a712-c41599a1cdfa,{'primary_email': 'Rachel.Guerin@westrsc.com'},{'primary_email': 'rachel.guerin@westrsc.com'}
+02635d6c-ac47-4e01-bab6-0bffb630d7b1,{'primary_email': 'Raynale.Bell@longandfoster.com'},{'primary_email': 'raynale.bell@longandfoster.com'}
+0263c9cd-fba8-4975-a112-7ecbc32c6640,"{'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '949-978-3240', 'mobile_phone': '949-978-3240'}","{'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(949) 783-2400', 'mobile_phone': '(949) 783-2400'}"
+0266ccca-1498-42dd-9a44-b64aef00dd17,{'direct_phone': ''},{'direct_phone': '(814) 403-6841'}
+02685397-9cef-4872-ace8-6013a796674c,{'direct_phone': ''},{'direct_phone': '(814) 450-0316'}
+026890f7-5ad5-4323-b3a3-7630286529c8,{'primary_email': 'Sally.Giltinan@LongandFoster.com'},{'primary_email': 'sally.giltinan@longandfoster.com'}
+026a72f7-7a1f-4fe3-86c4-2f8c6450501d,{'primary_email': 'ROB.ALLEN@lnf.com'},{'primary_email': 'rob.allen@lnf.com'}
+026a85f4-b5d0-4e8d-82d0-05f9bd3af306,{'primary_email': 'Patti.Murphy@Lnf.com'},{'primary_email': 'patti.murphy@lnf.com'}
+026b403d-f0c1-4391-ac4e-53eef702c060,{'primary_email': 'Peg.PannellSmith@cbdfw.com'},{'primary_email': 'peg.pannellsmith@cbdfw.com'}
+026cc374-2899-4afb-bfc1-8a654499d7e3,{'primary_email': 'Micaela.Smaglis@coldwellbankermoves.com'},{'primary_email': 'micaela.smaglis@coldwellbankermoves.com'}
+026d4640-b69e-4d8f-9cc7-c5c00a34e436,"{'primary_email': 'Wendy.Smith@raveis.com', 'mobile_phone': ''}","{'primary_email': 'wendy.smith@raveis.com', 'mobile_phone': '(860) 206-4272'}"
+026e0b2c-a1c5-478d-934d-ce8c183171f1,{'primary_email': 'Catherine.Auerbach@raveis.com'},{'primary_email': 'catherine.auerbach@raveis.com'}
+0273417b-437d-46b6-9a73-3b6ea0d2f11e,{'primary_email': 'NICOLE.GRINNAN@Longandfoster.com'},{'primary_email': 'nicole.grinnan@longandfoster.com'}
+0275e033-67f0-48ff-ae43-aac31658819e,"{'office_addressline1': '17550 North Perimeter Drive 160', 'direct_phone': '', 'mobile_phone': ''}","{'office_addressline1': '17550 North Perimeter Drive', 'direct_phone': '(480) 285-0000', 'mobile_phone': '480529'}"
+02766f68-21fe-41aa-bf61-76bb20e120a9,{'primary_email': 'Susie.Bowie@cbdfw.com'},{'primary_email': 'susie.bowie@cbdfw.com'}
+0279c243-318d-431d-ad24-3f16903602bd,{'primary_email': 'RuthGundy@howardhanna.com'},{'primary_email': 'ruthgundy@howardhanna.com'}
+027cf7ec-5c7e-4d00-9aa4-22d52c4671a6,{'primary_email': 'KareyHannegan@gmail.com'},{'primary_email': 'kareyhannegan@gmail.com'}
+027dba15-aab7-4b74-a040-8722e82ce90d,"{'primary_email': 'AngelaHarwood@howardhanna.com', 'direct_phone': ''}","{'primary_email': 'angelaharwood@howardhanna.com', 'direct_phone': '(216) 407-3197'}"
+027ef79a-85d9-4429-9b63-433809726463,{'primary_email': '##_546_#Sharon.Lee@longandfoster.com'},{'primary_email': '##_546_#sharon.lee@longandfoster.com'}
+0280b84c-7493-4877-895a-acbbf79a7499,"{'firstname': 'Lise Hannan', 'lastname': 'Kernan', 'office_addressline1': '4758 Dressler Road NW Suite 201', 'office_city': 'Canton', 'direct_phone': '', 'mobile_phone': '330-041-8551'}","{'firstname': 'LISE HANNAN', 'lastname': 'KERNAN', 'office_addressline1': '4758 DRESSLER ROAD NW', 'office_city': 'CANTON', 'direct_phone': '(330) 418-5511', 'mobile_phone': None}"
+0280e648-ccc1-43c7-867e-0a947a3afac9,{'primary_email': 'Heather.Marshall@LongandFoster.com'},{'primary_email': 'heather.marshall@longandfoster.com'}
+0284d242-fb88-42d1-8acd-d278271aebb9,"{'office_addressline1': '1500 NW 18th Ave Suite 102', 'direct_phone': '503-392-2930', 'mobile_phone': '503-392-2930'}","{'office_addressline1': '1500 NW 18th Ave', 'direct_phone': '(503) 957-1179', 'mobile_phone': '(503) 922-9307'}"
+02857422-0d6c-422b-95ad-cb0cf25d8831,{'primary_email': 'MichelleKempf@howardhanna.com'},{'primary_email': 'michellekempf@howardhanna.com'}
+0285b3cd-44bb-4826-862f-5fb75961bc51,{'primary_email': 'Marilyn@MarilynDana.com'},{'primary_email': 'marilyn@marilyndana.com'}
+0286bb17-7866-4b41-b723-07243eeb01d5,"{'firstname': 'Karen', 'lastname': 'Mandak', 'office_addressline1': '2400 Leechburg Road Suite 101', 'office_city': 'New Kensington', 'direct_phone': '', 'mobile_phone': '412-277-9266'}","{'firstname': 'KAREN', 'lastname': 'MANDAK', 'office_addressline1': '2400 LEECHBURG ROAD', 'office_city': 'NEW KENSINGTON', 'direct_phone': '(412) 779-2667', 'mobile_phone': None}"
+0287b9fe-1036-404c-a51b-9f653794764e,{'primary_email': 'CAROLYN.THOMAS@Longandfoster.com'},{'primary_email': 'carolyn.thomas@longandfoster.com'}
+028863eb-0015-454a-90ec-49515f31d6a9,{'primary_email': 'Estella.Almeida@coldwellbankermoves.com'},{'primary_email': 'estella.almeida@coldwellbankermoves.com'}
+028ae60b-6ed9-44b8-8ae7-06669bc0103c,{'primary_email': 'Kelly.Joyce@cbmove.com'},{'primary_email': 'kelly.joyce@cbmove.com'}
+028c265c-23ca-4918-8c15-bf2c24b40fac,{'primary_email': 'Vicki.Hamp@LNF.com'},{'primary_email': 'vicki.hamp@lnf.com'}
+028dd8fa-8cff-42ff-8631-99cebff19b60,{'primary_email': 'Lori.Bernard@cbexchange.com'},{'primary_email': 'lori.bernard@cbexchange.com'}
+028e63ec-ca0f-43ae-b8c1-5d0f7743825a,{'direct_phone': ''},{'direct_phone': '(408) 335-1400'}
+028f349e-a4a1-44c4-87f6-7552cc9669ad,{'primary_email': 'Vivek.Kumar@nrtllc.com'},{'primary_email': 'vivek.kumar@nrtllc.com'}
+02904c0d-7d51-4b0f-8f8c-b1faab690be4,"{'office_addressline1': '11211 N. Tatum Boulevard Ste. 120', 'direct_phone': '520-070-5627', 'mobile_phone': '520-070-5627'}","{'office_addressline1': '11211 N. Tatum Boulevard', 'direct_phone': '(602) 953-4000', 'mobile_phone': '(480) 392-9269'}"
+0291d5f0-b62b-4f12-8d0a-ae4a604a8eb6,{'direct_phone': ''},{'direct_phone': '(941) 505-5555'}
+029257f6-9fce-4dbc-8694-e4b770d1f28d,{'primary_email': 'Lily.Hosseini@cbexchange.com'},{'primary_email': 'lily.hosseini@cbexchange.com'}
+0293bf9e-cca3-481c-930f-e27b18ed75ac,{'primary_email': 'Brent.Beswick@longandfoster.com'},{'primary_email': 'brent.beswick@longandfoster.com'}
+0293eb89-6075-48a2-a1b8-8735d74a4e4a,{'primary_email': 'Ermina.Bojadzic@coldwellbankermoves.com'},{'primary_email': 'ermina.bojadzic@coldwellbankermoves.com'}
+0299be42-e956-4bbb-aa17-a4e98d73bffd,{'primary_email': '##_10_#SuzellenAngelaJones@interorealestate.com'},{'primary_email': '##_10_#suzellenangelajones@interorealestate.com'}
+029a6bb6-0997-4d58-bb00-bef4512d27e5,{'primary_email': '##_914_#Michael.Budzinski@coldwellbankermoves.com'},{'primary_email': '##_914_#michael.budzinski@coldwellbankermoves.com'}
+029ab09f-8868-4efd-bd74-b68e6be14d0c,{'primary_email': 'Iris.Zaff@raveis.com'},{'primary_email': 'iris.zaff@raveis.com'}
+029b7b83-f962-4abf-83e6-d8abc26f6ef1,{'primary_email': 'RobertGannonJr@howardhanna.com'},{'primary_email': 'robertgannonjr@howardhanna.com'}
+029cf17b-a934-4017-a94e-594a24cd8280,{'primary_email': 'Michael.Beaudoin@NEMoves.com'},{'primary_email': 'michael.beaudoin@nemoves.com'}
+029e1b33-c167-483e-924c-833e673accf3,{'primary_email': 'AudreyP@cbpacific.com'},{'primary_email': 'audreyp@cbpacific.com'}
+029e5874-d7d9-4a19-bfde-f6f6ae1e7ada,{'primary_email': 'EileenNalda@msn.com'},{'primary_email': 'eileennalda@msn.com'}
+029ea330-56ad-49b5-abd6-5bf636a4bec5,"{'primary_email': 'ROGIBroker@gmail.com', 'agent_moxi_websites': False}","{'primary_email': 'rogibroker@gmail.com', 'agent_moxi_websites': 'true'}"
+029f7674-c6e8-4709-ae5b-482fa17aac0b,"{'office_addressline1': '1260 Corona Pointe Suite 102', 'direct_phone': '951-189-3737', 'mobile_phone': '951-189-3737'}","{'office_addressline1': '1260 Corona Pointe', 'direct_phone': '(951) 547-8400', 'mobile_phone': '(951) 893-7370'}"
+029fc8dc-9acd-40ad-a367-66c6c88612fb,{'mobile_phone': ''},{'mobile_phone': '(630) 834-0582'}
+02a2e4ba-f324-47a1-baf4-d04c05736651,{'primary_email': 'Antonio.Rodriguez@longandfoster.com'},{'primary_email': 'antonio.rodriguez@longandfoster.com'}
+02a3bdce-b599-47a7-8b7a-bf0497419483,{'primary_email': 'John.Tandal@carringtonres.com'},{'primary_email': 'john.tandal@carringtonres.com'}
+02a3c4d1-8a6d-4d21-b887-1acb3ddc4c48,{'primary_email': 'Elida.Lunsford@carringtonres.com'},{'primary_email': 'elida.lunsford@carringtonres.com'}
+02a4139e-eaa9-4f70-85f4-4a21a787da48,{'primary_email': 'Shaoying.Ping@longandfoster.com'},{'primary_email': 'shaoying.ping@longandfoster.com'}
+02a7512e-cafa-4152-8cdc-d99963b01d7c,{'primary_email': 'Tracey.Ackourey@camoves.com'},{'primary_email': 'tracey.ackourey@camoves.com'}
+02a8142a-08b6-4d5b-98e7-440cb887a506,"{'office_addressline1': '2425 Canyon Blvd Ste 110', 'direct_phone': '', 'mobile_phone': '720-030-0568'}","{'office_addressline1': '2425 Canyon Blvd', 'direct_phone': '(303) 449-7000', 'mobile_phone': '(720) 300-5680'}"
+02aae219-d671-446f-8cc0-6867ec389646,{'primary_email': 'C.Korzeniowski@NEMoves.com'},{'primary_email': 'c.korzeniowski@nemoves.com'}
+02adb7b4-dff1-44bd-814b-d2d92d898038,{'primary_email': 'Ken.Hjulstrom@Raveis.com'},{'primary_email': 'ken.hjulstrom@raveis.com'}
+02ae6f4f-497f-47b7-97fe-ea314ec31773,"{'office_addressline1': '2124 Main St Suite 220', 'direct_phone': '714-434-2963', 'mobile_phone': '714-434-2963'}","{'office_addressline1': '2124 Main St', 'direct_phone': '(714) 698-5300', 'mobile_phone': '(714) 342-9636'}"
+02b06a57-e8eb-48d0-b6b8-63bd79c7c04e,{'primary_email': 'Elaine.Amundsen@raveis.com'},{'primary_email': 'elaine.amundsen@raveis.com'}
+02b2f8f8-70d9-48ec-8ec8-ada25f6f7e1c,{'primary_email': 'Rodney.Harvey@cbcnrt.com'},{'primary_email': 'rodney.harvey@cbcnrt.com'}
+02b3b466-86fb-42d5-89c0-94a2c86ee141,{'primary_email': 'CCadwell@cbmove.com'},{'primary_email': 'ccadwell@cbmove.com'}
+02b473a5-1555-4314-9cbd-cf25fb20a045,{'primary_email': 'Margie.Westerbeck@LongandFoster.com'},{'primary_email': 'margie.westerbeck@longandfoster.com'}
+02b5565e-eb63-4a24-9c7b-a8c68f01fb85,{'primary_email': 'Jaime.Hansen@cbcarolinas.com'},{'primary_email': 'jaime.hansen@cbcarolinas.com'}
+02b60dba-e61d-4366-9a30-ba36dbece378,{'primary_email': 'Chris.Remmes@NEMoves.com'},{'primary_email': 'chris.remmes@nemoves.com'}
+02b62cd0-2e48-44b3-ab47-dc55f60f9148,{'primary_email': '##_595_#Carla.Hoffman@Longandfoster.com'},{'primary_email': '##_595_#carla.hoffman@longandfoster.com'}
+02b64055-2e13-404b-a0df-b7d4ab4fe08b,{'primary_email': 'Ally.Litten@longandfoster.com'},{'primary_email': 'ally.litten@longandfoster.com'}
+02b6fa8e-249e-4651-9ae4-547f877409ba,{'primary_email': 'CBaheri@cbmove.com'},{'primary_email': 'cbaheri@cbmove.com'}
+02b9bf7f-0905-4468-8e74-7207151c4403,"{'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '626-697-5825', 'mobile_phone': '626-697-5825'}","{'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(626) 975-8259', 'mobile_phone': '(626) 975-8259'}"
+02b9dd40-b25e-4830-956c-f8fa077ca1c6,"{'primary_email': 'Melissa.Farley@longandfoster.com', 'date_deactivated': 'None'}","{'primary_email': 'melissa.farley@longandfoster.com', 'date_deactivated': '2019-01-22'}"
+02ba5495-de5f-44d5-ad3a-ab71b6070949,{'primary_email': 'Karl.Law@LongandFoster.com'},{'primary_email': 'karl.law@longandfoster.com'}
+02bb056a-fa2e-4b5d-840e-b720e705637a,{'primary_email': '##_145_#Ken.Kunz@longandfoster.com'},{'primary_email': '##_145_#ken.kunz@longandfoster.com'}
+02bb594f-af76-4ba1-a633-7c6e2c3821f2,{'primary_email': 'Pauline.Hwang@Longandfoster.com'},{'primary_email': 'pauline.hwang@longandfoster.com'}
+02bcd095-4138-4542-a3fd-829372c21064,{'primary_email': 'BillandEva@coldwellbankermoves.com'},{'primary_email': 'billandeva@coldwellbankermoves.com'}
+02be504d-53ab-4c51-9f3e-8cdf128908a6,{'primary_email': 'Angelique.Ilo@raveis.com'},{'primary_email': 'angelique.ilo@raveis.com'}
+02bebea2-437c-4910-ba78-5aa24df99e3a,{'primary_email': 'JIM.BUSHONG@Longandfoster.com'},{'primary_email': 'jim.bushong@longandfoster.com'}
+02bfa4a1-64ee-4d8a-9d74-67d8b24c5a3a,{'primary_email': '##_751_#NicoleSpaulding@howardhanna.com'},{'primary_email': '##_751_#nicolespaulding@howardhanna.com'}
+02c0658d-764a-4cac-b5b3-d993e2ed5b32,{'primary_email': '##_642_#David.McClain@longandfoster.com'},{'primary_email': '##_642_#david.mcclain@longandfoster.com'}
+02c078f7-414c-41a2-9d7c-535ce0f93bdc,{'primary_email': 'AngelaBrooke@windermere.com'},{'primary_email': 'angelabrooke@windermere.com'}
+02c1b709-bdad-4766-be63-17c057d351eb,"{'office_addressline1': '8395 W Sunset Rd Ste. 190', 'direct_phone': '702-276-8279', 'mobile_phone': '702-276-8279'}","{'office_addressline1': '8395 W Sunset Rd', 'direct_phone': '(702) 898-1010', 'mobile_phone': '(702) 768-2794'}"
+02c1d997-c76a-41ff-a433-4bde7014a5aa,"{'office_addressline1': '10681 E Foothill Blvd 140', 'direct_phone': '909-937-9825', 'mobile_phone': '909-937-9825'}","{'office_addressline1': '10681 E Foothill Blvd', 'direct_phone': '(909) 694-0160', 'mobile_phone': '(909) 379-8259'}"
+02c1fb03-1972-4637-ac30-bccfadda1845,{'primary_email': 'Gabriela.Ruiz@nrtsoutheast.com'},{'primary_email': 'gabriela.ruiz@nrtsoutheast.com'}
+02c25f5d-c6ff-48d3-b421-f4a7c2e6bbdc,"{'office_addressline1': '150 S. Rodeo Drive Suite 100', 'direct_phone': '323-354-7890', 'mobile_phone': '310-027-2800'}","{'office_addressline1': '150 S. Rodeo Drive', 'direct_phone': '(310) 272-8002', 'mobile_phone': '(310) 272-8002'}"
+02c33509-4808-4198-a690-ff8bc5f84337,{'primary_email': 'DanaWilliams@howardhanna.com'},{'primary_email': 'danawilliams@howardhanna.com'}
+02c3509c-75f0-47e9-a301-408cc80f66eb,{'primary_email': 'Marcos.Andrade@raveis.com'},{'primary_email': 'marcos.andrade@raveis.com'}
+02c375f5-68dc-4b36-bc3d-c6a76f8b650b,{'primary_email': 'Donna.Dillon@Longandfoster.com'},{'primary_email': 'donna.dillon@longandfoster.com'}
+02c3c219-c7c0-422c-90fb-a227b76d7742,"{'office_addressline1': '980 N. Michigan Avenue Suite 700', 'office_city': 'Chicago', 'office_zip': '60611', 'direct_phone': '312-226-4120', 'mobile_phone': ''}","{'office_addressline1': '35 S. Washington', 'office_city': 'Hinsdale', 'office_zip': '60521', 'direct_phone': '(630) 325-7500', 'mobile_phone': '(312) 264-1200'}"
+02c54948-29b3-4365-8dbe-99d0208b3b1b,{'mobile_phone': ''},{'mobile_phone': '(847) 510-5000'}
+02c6ecd0-f87e-42af-9ea5-d9f3bbbaa17a,{'primary_email': 'Michele.Nadaf@camoves.com'},{'primary_email': 'michele.nadaf@camoves.com'}
+02c74a0e-f806-423f-a03f-7ac0468f0253,{'primary_email': 'MarkOstrovsky@howardhanna.com'},{'primary_email': 'markostrovsky@howardhanna.com'}
+02c87f64-0138-4255-ae8e-454a07fa89a6,{'primary_email': 'Joseph.DeSimone@longandfoster.com'},{'primary_email': 'joseph.desimone@longandfoster.com'}
+02c8d969-0f92-4f59-b8b9-bfd4aca05e39,{'primary_email': 'Nancy.Buckley@NEMoves.com'},{'primary_email': 'nancy.buckley@nemoves.com'}
+02cb28f5-72cb-4917-ab52-7d39830172cb,{'primary_email': 'PBatstone@cbmove.com'},{'primary_email': 'pbatstone@cbmove.com'}
+02cd2b9c-1a44-4fac-a289-5a095209cb47,"{'agent_moxi_engage': True, 'agent_moxi_present': True}","{'agent_moxi_engage': 'false', 'agent_moxi_present': 'false'}"
+02d4a2cc-a3aa-497b-8453-2624e0464afc,{'primary_email': 'Lydia.Simon@camoves.com'},{'primary_email': 'lydia.simon@camoves.com'}
+02d68d4f-83e4-44ca-ab13-f2cd85ad76ae,{'primary_email': 'Lynn.Bake@Longandfoster.com'},{'primary_email': 'lynn.bake@longandfoster.com'}
+02d75499-eca0-4b27-8449-559f074d6bca,{'primary_email': 'JOE.OMALLEY@PITTSBURGHMOVES.COM'},{'primary_email': 'joe.omalley@pittsburghmoves.com'}
+02d785ec-16b2-4ed1-a5f2-430e82965e67,{'mobile_phone': ''},{'mobile_phone': '(847) 557-1516'}
+02d7f528-cfb5-44ed-aad5-6bd7d5efbd5a,{'primary_email': 'Gene.Taetsch@LongandFoster.com'},{'primary_email': 'gene.taetsch@longandfoster.com'}
+02d97251-5b02-4f1d-be4f-1396e1d8669b,{'primary_email': 'NSharma@Intero.com'},{'primary_email': 'nsharma@intero.com'}
+02da0e97-ed6e-4c11-afa6-c0f62c44079f,"{'office_addressline1': '7975 N. Hayden Rd. Ste. A-101', 'direct_phone': '719-949-4591', 'mobile_phone': '719-949-4591'}","{'office_addressline1': '7975 N. Hayden Rd.', 'direct_phone': '(480) 315-1240', 'mobile_phone': '(719) 494-5919'}"
+02da71f6-8082-4626-8a77-6e01b5f589fc,{'primary_email': 'Mike_Torkaman@yahoo.com'},{'primary_email': 'mike_torkaman@yahoo.com'}
+02dc16b0-a388-4627-9950-4a6c4f370473,{'primary_email': 'KellyStarzynski@howardhanna.com'},{'primary_email': 'kellystarzynski@howardhanna.com'}
+02dcf83c-536e-46b1-8f36-de4be5d9704c,{'primary_email': 'Mary.Olseth@azmoves.com'},{'primary_email': 'mary.olseth@azmoves.com'}
+02ddbbc6-53df-49c3-a699-2356d6b0e9bd,{'primary_email': 'Jim.Crowe@longandfoster.com'},{'primary_email': 'jim.crowe@longandfoster.com'}
+02de93f6-329c-4df5-a2cd-3728ed75782c,{'primary_email': '##_166_#Rachael.Pierre@longandfoster.com'},{'primary_email': '##_166_#rachael.pierre@longandfoster.com'}
+02e061c9-37ec-49d9-8fe4-45e05aa84a5a,{'primary_email': 'Elizabeth.DiMauro@raveis.com'},{'primary_email': 'elizabeth.dimauro@raveis.com'}
+02e0be69-d0fc-4b5b-a682-c03cb51d2c95,{'primary_email': 'Carole.Nicholson@longandfoster.com'},{'primary_email': 'carole.nicholson@longandfoster.com'}
+02e1404e-b19d-4258-bc94-e54d7161d801,{'primary_email': 'Steve.Daniller@longandfoster.com'},{'primary_email': 'steve.daniller@longandfoster.com'}
+02e24b14-20de-44e5-a46c-593f90b189b2,"{'office_addressline1': '23811  Aliso Creek Road Ste. 181', 'direct_phone': '714-449-2009', 'mobile_phone': '714-449-2009'}","{'office_addressline1': '23811  Aliso Creek Road', 'direct_phone': '(949) 297-2020', 'mobile_phone': '(714) 319-0288'}"
+02e4468a-b9a4-4c9e-b45b-d6d451cc76b7,{'primary_email': 'KRISTINE.CONDIE@Longandfoster.com'},{'primary_email': 'kristine.condie@longandfoster.com'}
+02e49d54-1c33-4a8c-b0ae-0aea24087ea0,{'primary_email': 'Barbara.Karp@lnf.com'},{'primary_email': 'barbara.karp@lnf.com'}
+02e77781-bfa8-48b7-9c74-4a415f2c114e,{'primary_email': 'AnneMarie.Smith@raveis.com'},{'primary_email': 'annemarie.smith@raveis.com'}
+02e845df-edae-4524-ba13-919f330275dd,"{'primary_email': 'Ryan.Bielat@LNF.com', 'direct_phone': ''}","{'primary_email': 'ryan.bielat@lnf.com', 'direct_phone': '7576721716'}"
+02ea675b-ff7c-45a7-b51a-822fe8866a6f,{'primary_email': 'LoniRShirley@gmail.com'},{'primary_email': 'lonirshirley@gmail.com'}
+02ea8a67-5596-4a8a-ab84-267f8f0d9abd,{'primary_email': 'PerrieSangha@howardhanna.com'},{'primary_email': 'perriesangha@howardhanna.com'}
+02ed4994-3fc2-48a3-82cc-94e454946274,{'primary_email': 'Erika.Washington@camoves.com'},{'primary_email': 'erika.washington@camoves.com'}
+02ee81d2-145b-460e-8190-d1496fd7ef8d,{'primary_email': '##_10_#SUSSY.HERRERAGONZALEZ@CARRINGTONRES.COM'},{'primary_email': '##_10_#sussy.herreragonzalez@carringtonres.com'}
+02f136a6-9830-42da-8c87-3e96ae821ffb,{'primary_email': 'Laura.Dunkel@lnf.com'},{'primary_email': 'laura.dunkel@lnf.com'}
+02f541e1-3cbd-49a9-991b-c0cbfb4ec840,{'primary_email': 'Glenn@AllAmericanRealEstate.com'},{'primary_email': 'glenn@allamericanrealestate.com'}
+02f56a4f-fe09-4a7a-a637-1a0afa4fae38,{'primary_email': 'Robin@Robinlanger.com'},{'primary_email': 'robin@robinlanger.com'}
+02f9b625-fa49-4bbe-89c6-37f66a041a79,{'primary_email': '##_127_#johnny@MBTHrealty.com'},{'primary_email': '##_127_#johnny@mbthrealty.com'}
+02fe7815-f975-4aa9-95c5-d8cdeca850a8,{'primary_email': 'Cate.Shea@NEMoves.com'},{'primary_email': 'cate.shea@nemoves.com'}
+02ff626d-7125-433a-834c-472aa9b554a0,{'primary_email': 'Emelyn.Anunciacion@Carringtonres.com'},{'primary_email': 'emelyn.anunciacion@carringtonres.com'}
+02ff7860-0516-49a3-a300-a8e866444898,{'primary_email': '##_622_#DAVID.COOPER@Longandfoster.com'},{'primary_email': '##_622_#david.cooper@longandfoster.com'}
+03000727-0e4b-4509-9722-83f96cabcf34,{'primary_email': 'Stan.Kozlowski@raveis.com'},{'primary_email': 'stan.kozlowski@raveis.com'}
+0300b5f1-e79e-46d7-9b7e-c30dfccc2295,{'primary_email': 'AnneMarie.Radel@camoves.com'},{'primary_email': 'annemarie.radel@camoves.com'}
+0301bffa-5483-4b3e-9a9e-6f71cdf8418a,{'primary_email': '##_637_#MARK.LEE@Longandfoster.com'},{'primary_email': '##_637_#mark.lee@longandfoster.com'}
+03021a8a-1c7d-4bd5-9fee-a04154f373c9,{'primary_email': 'George.Charuhas@Longandfoster.com'},{'primary_email': 'george.charuhas@longandfoster.com'}
+03055573-af1c-4441-bb5a-cda789c0b2e5,"{'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '714-460-9886', 'mobile_phone': '714-460-9886'}","{'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(949) 783-2400', 'mobile_phone': '(714) 609-8866'}"
+0305776b-d61c-4b4e-9fac-efb7a2e0fe70,{'direct_phone': ''},{'direct_phone': '(941) 349-3444'}
+0307ebbc-d0bf-4b6b-896f-399f8b2c76e0,{'primary_email': 'MATT.ROMANI@Longandfoster.com'},{'primary_email': 'matt.romani@longandfoster.com'}
+03089036-a3d9-4d75-bc66-2514999fec4b,"{'primary_email': 'EAtsaves@leadingre.com', 'direct_phone': ''}","{'primary_email': 'eatsaves@leadingre.com', 'direct_phone': '(312) 424-0430'}"
+030dc38a-4c61-40fa-a853-6eb5532cc790,{'primary_email': 'SHANE.BROWN@Longandfoster.com'},{'primary_email': 'shane.brown@longandfoster.com'}
+030f1755-8209-4988-a116-6b7ba2850baa,{'primary_email': 'Rainy.Snyder@longandfoster.com'},{'primary_email': 'rainy.snyder@longandfoster.com'}
+030f43f8-e813-4268-bf42-b602a651c227,"{'alternate_email': '', 'direct_phone': ''}","{'alternate_email': 'carol.kruckenberg@gmail.com', 'direct_phone': '(805) 683-7345'}"
+030f7038-3448-4ee6-9c20-2cb91055cae5,{'primary_email': 'William.Zimmer@LongandFoster.com'},{'primary_email': 'william.zimmer@longandfoster.com'}
+03102df4-1da8-47e5-be83-333cf3d7780d,{'primary_email': 'Terence.Salazar@camoves.com'},{'primary_email': 'terence.salazar@camoves.com'}
+031192aa-a258-4e39-b224-e39a3a9ee7da,{'primary_email': '##_10_#BellaL@JBGoodwin.com'},{'primary_email': '##_10_#bellal@jbgoodwin.com'}
+0311ec35-b753-4939-817c-4b8fdff9c68d,{'primary_email': 'Julia.Pollard@cbhomes.com'},{'primary_email': 'julia.pollard@cbhomes.com'}
+0312722a-b988-4cad-abf9-7a279f98298a,{'primary_email': 'CherylKempf@howardhanna.com'},{'primary_email': 'cherylkempf@howardhanna.com'}
+0313dfd8-9341-44a7-8c3a-e3c02cac6089,{'primary_email': '##_259_#EileenRich@1stprioritymortgage.com'},{'primary_email': '##_259_#eileenrich@1stprioritymortgage.com'}
+03144a8f-9817-4756-8683-30b4f3c14eca,"{'office_addressline1': '2831 St. Rose Parkway Ste. 100', 'direct_phone': '702-230-3004', 'mobile_phone': '702-230-3004'}","{'office_addressline1': '2831 St. Rose Parkway', 'direct_phone': '(702) 898-7575', 'mobile_phone': '(702) 303-0043'}"
+0318aa67-8519-4c7f-b358-7c56b788c0e5,{'primary_email': 'Shea.Eliasen@cbburnet.com'},{'primary_email': 'shea.eliasen@cbburnet.com'}
+031b72fc-cb88-45f4-bbfa-2aab85a7ca7c,{'primary_email': 'JobelDaugherty@howardhanna.com'},{'primary_email': 'jobeldaugherty@howardhanna.com'}
+031b9db4-75d7-4050-bb28-98ee424b18ce,{'primary_email': 'AidaDaniels@Earthlink.net'},{'primary_email': 'aidadaniels@earthlink.net'}
+031bfd0b-28c0-4d7f-8acc-e2e9aa913070,{'primary_email': 'Sam@samhomesgroup.com'},{'primary_email': 'sam@samhomesgroup.com'}
+031cce56-dbd0-474c-bafe-27704c137a31,{'primary_email': 'DianaVanRooyen@Windermere.com'},{'primary_email': 'dianavanrooyen@windermere.com'}
+031d957b-7860-4ae7-a6e2-5b067cc0f2a1,{'primary_email': 'KathyMarie@windermere.com'},{'primary_email': 'kathymarie@windermere.com'}
+03205fe5-e197-498e-a15a-0dfbf392469f,{'primary_email': 'Patricia.Margotta@coldwellbankermoves.com'},{'primary_email': 'patricia.margotta@coldwellbankermoves.com'}
+0321dd73-beab-4530-aef7-26bc65c738a2,{'primary_email': 'ChristineL@cbpacific.com'},{'primary_email': 'christinel@cbpacific.com'}
+03237fd5-23e8-4312-b4c3-33432d1e66e9,"{'primary_email': 'JLS@LNF.com', 'direct_phone': ''}","{'primary_email': 'jls@lnf.com', 'direct_phone': '7036877261'}"
+0325d2dc-2695-4f55-bd72-15d03726b0ef,"{'office_addressline1': '18503 Sigma Rd #100', 'mobile_phone': '210-056-3215'}","{'office_addressline1': '18503 Sigma Rd', 'mobile_phone': '(210) 563-2157'}"
+0328472d-0ef2-40f6-b664-9391287b2a88,{'primary_email': 'Peter.Green@LongandFoster.com'},{'primary_email': 'peter.green@longandfoster.com'}
+03289aee-5f18-417a-a153-c8cb68a620b6,{'primary_email': 'ACitrano@cbmove.com'},{'primary_email': 'acitrano@cbmove.com'}
+0329946a-51c5-420d-9ba6-e055850fce86,{'direct_phone': ''},{'direct_phone': '(818) 783-7721'}
+032eae6e-ba95-4c7c-a61e-bdac4ccb0958,{'direct_phone': ''},{'direct_phone': '(412) 401-2170'}
+032f00dc-dedd-43eb-8a94-6abf8aa58a14,{'primary_email': 'Lisa@sf-realty.com'},{'primary_email': 'lisa@sf-realty.com'}
+032fb67f-cdc1-459c-b776-0f2bfc0a2cc2,{'primary_email': 'Julie@GeorgeCooke.com'},{'primary_email': 'julie@georgecooke.com'}
+03310286-9e5a-4f6a-964b-eff2f32c57e5,{'primary_email': 'Miky.Jeung@raveis.com'},{'primary_email': 'miky.jeung@raveis.com'}
+03317163-f9a8-4ff8-a3f9-7c1d22ca2e2b,{'primary_email': '##_10_#Patrick.Eldredge@raveis.com'},{'primary_email': '##_10_#patrick.eldredge@raveis.com'}
+03333031-cb70-47e2-ba8d-0b5f09b8095b,"{'office_addressline1': '3933 Steck Ave B-110', 'mobile_phone': '832-255-2666'}","{'office_addressline1': '3933 Steck Ave', 'mobile_phone': '(832) 552-6663'}"
+0334ae62-7522-473e-ab31-f3e362d81d24,{'primary_email': 'David.Digregorio@NEMoves.com'},{'primary_email': 'david.digregorio@nemoves.com'}
+03351470-713b-4b36-be73-dadc5bcc7874,{'direct_phone': ''},{'direct_phone': '(831) 460-1100'}
+03357c87-a4b1-4255-bfbc-35cb6682363d,"{'office_addressline1': '17235 N. 75th Ave Ste. C-190', 'primary_email': '##_252_#joechingrealtor@gmail.com', 'direct_phone': '480-078-8762', 'mobile_phone': '480-078-8762', 'date_deactivated': '2019-02-12', 'agent_active': False}","{'office_addressline1': '17235 N. 75th Ave', 'primary_email': 'joechingrealtor@gmail.com', 'direct_phone': '(623) 236-1414', 'mobile_phone': '(480) 788-7624', 'date_deactivated': 'None', 'agent_active': 'true'}"
+03364300-8ab6-42a3-9b41-6d42d674b085,{'primary_email': 'Bill.Jones@cbws.com'},{'primary_email': 'bill.jones@cbws.com'}
+033647df-b855-4446-a98a-a4245ca6f52b,{'primary_email': 'Lucas.Kinney@camoves.com'},{'primary_email': 'lucas.kinney@camoves.com'}
+033788c0-9c7c-4121-b7d2-8f6330f49bff,{'primary_email': 'Melanie.Trainer@cbmove.com'},{'primary_email': 'melanie.trainer@cbmove.com'}
+0337bd91-71af-4136-ab56-1ff3e90e416f,{'primary_email': 'Terry.Bater@raveis.com'},{'primary_email': 'terry.bater@raveis.com'}
+03391c2e-e297-4b3c-be4f-1eef63113e66,{'primary_email': 'LibbyRandles@windermere.com'},{'primary_email': 'libbyrandles@windermere.com'}
+033a34cb-286e-42e1-81c5-7841c2b7f62f,{'primary_email': 'VincentJoelMeyer@cbburnet.com'},{'primary_email': 'vincentjoelmeyer@cbburnet.com'}
+033b9556-b986-4781-89fd-f1e16847b801,{'primary_email': 'Sonia.Phillips@cbexchange.com'},{'primary_email': 'sonia.phillips@cbexchange.com'}
+033c4f3c-2992-449b-8d90-19b3a1216eb0,{'primary_email': 'DOUGLAS.LUZIK@LongandFoster.com'},{'primary_email': 'douglas.luzik@longandfoster.com'}
+033cf877-6ecb-4687-99c7-749d9b4a3941,{'primary_email': 'Hope.Jacopino@raveis.com'},{'primary_email': 'hope.jacopino@raveis.com'}
+033d7248-8195-4d57-b50f-b21def58dd3c,{'primary_email': 'Alyssa.Coleman@lnf.com'},{'primary_email': 'alyssa.coleman@lnf.com'}
+033e0796-22eb-4265-a81c-81483d92dbca,{'primary_email': 'Tom.Pav@cbexchange.com'},{'primary_email': 'tom.pav@cbexchange.com'}
+033f3016-e4be-4210-bac1-73dcd11f71fb,"{'primary_email': 'louca@domainmarin.com', 'alternate_email': 'loucab@zephyrre.com'}","{'primary_email': 'loucab@zephyrre.com', 'alternate_email': 'louca@domainmarin.com'}"
+0340074a-c5b9-4932-b3d3-db4539636569,{'primary_email': 'Brian.Sheerin@raveis.com'},{'primary_email': 'brian.sheerin@raveis.com'}
+03407599-b7d4-4c21-9029-0bfd832e508c,{'primary_email': 'Portia.Owens@longandfoster.com'},{'primary_email': 'portia.owens@longandfoster.com'}
+03428f98-5caf-4c8e-a6bd-ba96653628d6,"{'primary_email': 'ChristinaMassat@johngreeneRealtor.com', 'direct_phone': ''}","{'primary_email': 'christinamassat@johngreenerealtor.com', 'direct_phone': '(630) 554-4400'}"
+034507e0-d6b3-4ad2-baa4-b6c0f38dfe3e,{'primary_email': 'Shalley@windermere.com'},{'primary_email': 'shalley@windermere.com'}
+03461d17-96b2-4f18-af41-c6b23aa58f8a,{'primary_email': 'LAURA.DELLASALA@lnf.com'},{'primary_email': 'laura.dellasala@lnf.com'}
+0346b657-012a-4f76-9fe6-b1b32b2d781f,"{'office_addressline1': '7975 N. Hayden Rd. Ste. A-101', 'direct_phone': '480-023-6583', 'mobile_phone': '480-023-6583'}","{'office_addressline1': '7975 N. Hayden Rd.', 'direct_phone': '(480) 315-1240', 'mobile_phone': '(480) 236-5832'}"
+0346b8b4-448b-4673-b9e8-e85c841d6f09,{'primary_email': '##_819_#Cindy.Herbeck@cbcnrt.com'},{'primary_email': '##_819_#cindy.herbeck@cbcnrt.com'}
+0347bcaa-e462-462e-9dee-89f9f90613bc,{'primary_email': 'Karen.Kostas@cbexchange.com'},{'primary_email': 'karen.kostas@cbexchange.com'}
+03494d5d-c853-4479-a35f-a3513f280ce3,{'primary_email': 'Judd.Brotman@NEMoves.com'},{'primary_email': 'judd.brotman@nemoves.com'}
+0355bd7e-e2f4-408a-bf81-8974b16b636b,{'primary_email': 'Stacy.Sheehan@Raveis.com'},{'primary_email': 'stacy.sheehan@raveis.com'}
+0356503b-5c66-4381-ad2a-b62ffdb6e9d1,{'primary_email': 'Lee.Barr@raveis.com'},{'primary_email': 'lee.barr@raveis.com'}
+03577c59-b444-42ac-9fc8-ba3f2e84bcda,{'primary_email': '##_10_#HeatherWhite@jbgoodwin.com'},{'primary_email': '##_10_#heatherwhite@jbgoodwin.com'}
+035887c1-2a3c-4aa4-8cfa-45224e043677,{'office_addressline1': '355 Lancaster Avenue Suite 100'},{'office_addressline1': '355 Lancaster Avenue'}
+0358a9f1-ab37-4a49-94f6-75cf001e4617,{'primary_email': 'StaceyNichols@howardhanna.com'},{'primary_email': 'staceynichols@howardhanna.com'}
+0358ea81-bb27-4cd9-9a70-040c068d47b6,{'primary_email': 'Vincent.Curcio@raveis.com'},{'primary_email': 'vincent.curcio@raveis.com'}
+035b532b-0392-422f-a0ce-292d48aaa428,{'primary_email': 'Kyle.Kissane@raveis.com'},{'primary_email': 'kyle.kissane@raveis.com'}
+035d624a-e306-497b-96e3-4804918a4364,"{'primary_email': 'Katie@sacdreamhome.com', 'direct_phone': ''}","{'primary_email': 'katie@sacdreamhome.com', 'direct_phone': '(916) 491-1516'}"
+03608d0a-dcd3-4656-b7e7-30a59cb80d06,"{'office_addressline1': '5550 Painted Mirage Rd. Ste 140', 'office_state': 'NV', 'direct_phone': '702-288-4530', 'mobile_phone': '702-288-4530'}","{'office_addressline1': '5550 Painted Mirage Rd.', 'office_state': 'CA', 'direct_phone': '(702) 898-0101', 'mobile_phone': '(702) 884-5300'}"
+0360f28a-5e57-44fb-bd99-4b5356d5f254,{'primary_email': 'Christine.Olsen@coldwellbankermoves.com'},{'primary_email': 'christine.olsen@coldwellbankermoves.com'}
+036105c7-efc7-4681-ae90-102a8b725cb9,"{'firstname': 'Tracey P.', 'office_addressline1': '150 Second Avenue North 100', 'direct_phone': '727-750-1329', 'mobile_phone': '727-750-1329'}","{'firstname': 'Tracey', 'office_addressline1': '150 Second Avenue North', 'direct_phone': '(727) 896-1800', 'mobile_phone': '(727) 501-3298'}"
+03623e28-6b87-40ff-95d4-1a6f9962088c,{'primary_email': 'Melissa.Pet@cbexchange.com'},{'primary_email': 'melissa.pet@cbexchange.com'}
+0362882f-a9e1-4ca8-8ff1-3df638fdb71a,{'primary_email': '##_859_#Mira.Scott@longandfoster.com'},{'primary_email': '##_859_#mira.scott@longandfoster.com'}
+0362b8c4-a997-402c-83b4-3e2648a5a698,{'primary_email': 'FGSheldon@windermere.com'},{'primary_email': 'fgsheldon@windermere.com'}
+03630c5d-02b7-4171-814e-81cbb1c2ab06,{'primary_email': 'DEBRA.ATTMAN@LongandFoster.com'},{'primary_email': 'debra.attman@longandfoster.com'}
+0363ef29-37f0-4f28-aa1c-20ab90715c10,{'date_deactivated': 'None'},{'date_deactivated': '2018-11-17'}
+0364a43d-12fa-46d0-8a67-4d0041f246d2,{'primary_email': 'Maria.Carretero@longandfoster.com'},{'primary_email': 'maria.carretero@longandfoster.com'}
+0364b2bf-818e-479e-97aa-e08716236e43,{'mobile_phone': ''},{'mobile_phone': '(773) 552-4817'}
+03652bc5-d35a-441e-bed2-b152147708a9,{'primary_email': '##_737_#Diane.Leach@longandfoster.com'},{'primary_email': '##_737_#diane.leach@longandfoster.com'}
+0366257d-91ac-4fa7-836c-d0a7c517cb2a,{'primary_email': '##_10_#Lynne.Florian@carringtonres.com'},{'primary_email': '##_10_#lynne.florian@carringtonres.com'}
+036651ab-8771-44d0-ab8a-7ce518026597,"{'office_addressline1': '10681 E Foothill Blvd 140', 'direct_phone': '909-963-3552', 'mobile_phone': '909-963-3552'}","{'office_addressline1': '10681 E Foothill Blvd', 'direct_phone': '(909) 694-0160', 'mobile_phone': '(909) 633-5528'}"
+0366a1a6-9d1b-42ae-b01a-abd8c6c224fe,{'primary_email': 'Danielle.Posillico@floridamoves.com'},{'primary_email': 'danielle.posillico@floridamoves.com'}
+0367057f-00a7-4692-989a-03a18242fa71,"{'primary_email': 'Scott@JBGoodwin.com', 'direct_phone': ''}","{'primary_email': 'scott@jbgoodwin.com', 'direct_phone': '210-264-2508'}"
+03671a17-2534-4f7d-a081-9a181ebd4a80,{'primary_email': 'Judy.Sklare@cbexchange.com'},{'primary_email': 'judy.sklare@cbexchange.com'}
+0367e734-cb92-47f1-b602-ec12eb09ee14,{'primary_email': 'Sara.Stone@raveis.com'},{'primary_email': 'sara.stone@raveis.com'}
+03688cd4-fc35-4ab4-a447-d73ff1bd0118,{'primary_email': 'Stephanie.Gliamas@coldwellbankermoves.com'},{'primary_email': 'stephanie.gliamas@coldwellbankermoves.com'}
+0369472f-c3dd-4af5-81e0-059d4f2ae341,{'primary_email': 'MMBriggs@windermere.com'},{'primary_email': 'mmbriggs@windermere.com'}
+036981a8-b26e-4152-9b73-5701bfdb778c,{'primary_email': 'DeanRDugger@gmail.com'},{'primary_email': 'ddugger@ascentrealestate.com'}
+0369d357-1f5e-4862-9626-44c47b3bdabf,"{'office_addressline1': '1151 Fairview Ave North Suite 105', 'office_zip': '98109', 'mobile_phone': '206-652-7380'}","{'office_addressline1': '', 'office_zip': '', 'mobile_phone': None}"
+036bf62b-90e2-40ed-9659-5882c6f993fa,{'primary_email': 'KPorebski@cbzhomes.com'},{'primary_email': 'kporebski@cbzhomes.com'}
+036eac95-3cbb-45ed-a0e3-6adafaef8a0b,{'primary_email': 'Philip.Chaves@NEMoves.com'},{'primary_email': 'philip.chaves@nemoves.com'}
+036f0bcf-b1e3-4db8-abed-2922ebf962ce,"{'office_addressline1': '1150 Sunset Blvd Suite 150', 'direct_phone': '916-671-6606', 'mobile_phone': '916-671-6606'}","{'office_addressline1': '1150 Sunset Blvd', 'direct_phone': '(916) 435-0404', 'mobile_phone': '(916) 716-6066'}"
+0371f81b-3489-414a-a8ec-c79cdc830abf,{'direct_phone': ''},{'direct_phone': '7723597544'}
+03731a31-ba17-46e8-a7ce-59000188f72d,{'primary_email': '##_838_#ScottHayduk@howardhanna.com'},{'primary_email': '##_838_#scotthayduk@howardhanna.com'}
+03743e36-e6ba-4230-a192-64d0ebe35912,"{'primary_email': 'CHERYL.PRYOR@Longandfoster.com', 'direct_phone': ''}","{'primary_email': 'cheryl.pryor@longandfoster.com', 'direct_phone': '(703) 801-9985'}"
+03757ed4-e348-4c46-9096-2997530aa151,{'primary_email': 'Jonathan.Butt@Longandfoster.com'},{'primary_email': 'jonathan.butt@longandfoster.com'}
+0377a7f6-f3bd-446e-b4e6-33183e67adee,{'primary_email': 'WIL.BELL@lnf.com'},{'primary_email': 'wil.bell@lnf.com'}
+037889fe-a392-422c-82b7-77108d82f0fe,{'primary_email': 'SandyMackless@howardhanna.com'},{'primary_email': 'sandymackless@howardhanna.com'}
+0378a30a-5eff-4d69-a04c-212d1bf2c6cf,"{'office_addressline1': '980 N. Michigan Avenue Suite 700', 'direct_phone': '312-254-3596', 'mobile_phone': ''}","{'office_addressline1': '980 N. Michigan Avenue', 'direct_phone': '(312) 944-8900', 'mobile_phone': '(312) 543-5964'}"
+0379be76-aacb-4f8b-bb44-39ee51c83458,{'primary_email': 'Carol.Wiltshire-Toth@raveis.com'},{'primary_email': 'carol.wiltshire-toth@raveis.com'}
+037a6965-7e9c-4474-8aed-7fa6397744ee,{'primary_email': 'Christina.Richard@raveis.com'},{'primary_email': 'christina.richard@raveis.com'}
+037c7642-5024-4f45-be3e-279d001436a0,{'primary_email': 'Tim.Close@NEMoves.com'},{'primary_email': 'tim.close@nemoves.com'}
+037e8412-036f-4b9e-a5fc-ab79540a285c,{'primary_email': 'SAM.POWELL@LongandFoster.com'},{'primary_email': 'sam.powell@longandfoster.com'}
+037f9fac-11e0-4852-9a6d-f1f3318092de,{'primary_email': 'MichaelFreeman@1stprioritymortgage.com'},{'primary_email': 'michaelfreeman@1stprioritymortgage.com'}
+0381093e-d483-4afe-9c03-a51c08e52d4a,{'primary_email': 'Kimberly.Raifsnider@cbhomes.com'},{'primary_email': 'kimberly.raifsnider@cbhomes.com'}
+0382d324-9801-4bfd-8463-3f6f9ef04f4e,{'primary_email': 'Augusto.Concepcion@carringtonres.com'},{'primary_email': 'augusto.concepcion@carringtonres.com'}
+03831399-d28c-46ff-8ee9-a99068dad678,{'primary_email': 'Stephanie.Kuper@LongandFoster.com'},{'primary_email': 'stephanie.kuper@longandfoster.com'}
+0383d448-cbca-4312-bd96-6d9b5d579fb7,{'primary_email': 'Tony.Medeiros@camoves.com'},{'primary_email': 'tony.medeiros@camoves.com'}
+03848c3a-6146-4c83-8346-239b400a9856,{'primary_email': 'Melanie.White@ColdwellBankerAtlanta.com'},{'primary_email': 'melanie.white@coldwellbankeratlanta.com'}
+0384e0f7-ace8-4090-bbb6-d2eebb1db570,{'direct_phone': ''},{'direct_phone': '(626) 792-4420'}
+03857646-15b2-4221-9a61-0f791ccd30a8,"{'office_addressline1': '11211 N. Tatum Boulevard Ste. 120', 'direct_phone': '602-262-8315', 'mobile_phone': '602-262-8315', 'agent_moxi_engage': False}","{'office_addressline1': '11211 N. Tatum Boulevard', 'direct_phone': '(602) 953-4000', 'mobile_phone': '(602) 628-3157', 'agent_moxi_engage': 'true'}"
+0387476f-c762-46bd-999d-49b97889cc4f,{'mobile_phone': ''},{'mobile_phone': '(847) 790-8423'}
+0387f208-c2e5-4add-8486-042f9ea44e0d,{'primary_email': 'LuannSisson@windermere.com'},{'primary_email': 'luannsisson@windermere.com'}
+038847b9-3850-44cd-a3c2-0546272d8c47,{'primary_email': 'Marc.Dulaimy@raveis.com'},{'primary_email': 'marc.dulaimy@raveis.com'}
+03898b55-3e62-4a38-ad0f-23b248ad5b11,{'primary_email': 'Julie.Gray-Roller@Longandfoster.com'},{'primary_email': 'julie.gray-roller@longandfoster.com'}
+0389e11b-8228-40bb-85a8-f01d8103d12d,{'primary_email': 'Brooke.Gaffney@longandfoster.com'},{'primary_email': 'brooke.gaffney@longandfoster.com'}
+038a7d9c-94e6-4151-90fb-c85ce24b1de2,{'primary_email': 'Trisha.Lee@NEMoves.com'},{'primary_email': 'trisha.lee@nemoves.com'}
+038bd026-868d-4817-93f4-f279ae2b7258,{'primary_email': 'KATHARINA.FORMYDUVAL@lnf.com'},{'primary_email': 'katharina.formyduval@lnf.com'}
+038c3796-8f6a-4613-b17f-884b2416e946,{'primary_email': 'BBlom@cbmove.com'},{'primary_email': 'bblom@cbmove.com'}
+038d5590-ef06-456b-9dc9-d4fe544208a3,{'direct_phone': ''},{'direct_phone': '(941) 955-8200'}
+038e2c82-ab40-4fe4-af44-4bf26db4bb6b,{'direct_phone': ''},{'direct_phone': '(603) 413-7600'}
+03940499-2845-4be9-b0f5-6fa7ffcc6b81,{'primary_email': 'Babs.Danhoff@cbexchange.com'},{'primary_email': 'babs.danhoff@cbexchange.com'}
+03941b9e-40b7-4365-84c7-a1a1469e014a,{'direct_phone': ''},{'direct_phone': '(802) 565-8136'}
+039436ee-da73-42cb-af9e-a758d9c8a80e,{'primary_email': 'Matt.mika@cbexchange.com'},{'primary_email': 'matt.mika@cbexchange.com'}
+0394b015-7015-4fa5-b21a-e954b91fd459,{'primary_email': 'SoldByTaylorEgeland@gmail.com'},{'primary_email': 'soldbytayloregeland@gmail.com'}
+03958f58-3561-4454-b7b0-e552c70ac1bd,"{'office_addressline1': '10750 W. Charleston Blvd. Ste. 180', 'direct_phone': '808-859-0044', 'mobile_phone': '808-859-0044'}","{'office_addressline1': '10750 W. Charleston Blvd.', 'direct_phone': '(702) 898-1221', 'mobile_phone': '(808) 590-0444'}"
+039849ed-bd1f-4136-9c28-dc0e912e5672,{'primary_email': 'ECallahan@cbmove.com'},{'primary_email': 'ecallahan@cbmove.com'}
+039bf742-b89d-4ecd-983c-f6ac9bfa76c4,"{'office_zip': '', 'primary_email': 'Felicia.Frey@raveis.com'}","{'office_zip': '10583', 'primary_email': 'felicia.frey@raveis.com'}"
+039c1835-e464-4ac0-95b7-14c1373bf7b5,{'primary_email': 'Kay.Potter@lnf.com'},{'primary_email': 'kay.potter@lnf.com'}
+039cf280-ac02-430f-bef6-e966e600ee93,"{'office_addressline1': '980 N. Michigan Avenue Suite 700', 'office_zip': '60611', 'direct_phone': '312-226-8765', 'mobile_phone': ''}","{'office_addressline1': '1800 N. Clybourn', 'office_zip': '60614', 'direct_phone': '(312) 642-1400', 'mobile_phone': '(312) 268-7654'}"
+039dec9b-0b47-49eb-8641-339231978ecf,{'agent_moxi_engage': True},{'agent_moxi_engage': 'false'}
+039e44b7-f2a0-403d-ae9c-3286d495bbdc,{'primary_email': 'tmurphy@interoRealEstate.com'},{'primary_email': 'tmurphy@interorealestate.com'}
+039f5db0-416c-4cc3-9310-dd48b8fe25c8,{'primary_email': 'Joel.Castillo@cbexchange.com'},{'primary_email': 'joel.castillo@cbexchange.com'}
+039ff8d9-4ced-4247-a90a-c82eba374438,{'primary_email': 'Debbie.Heaton@coldwellbankeratlanta.com'},{'primary_email': 'debbie.heaton@coldwellbankeratlanta.com'}
+03a054b7-aec5-48f9-ba3b-4f3082d2406d,{'primary_email': 'Shannon@BergerHomeSales.com'},{'primary_email': 'shannon@bergerhomesales.com'}
+03a1865f-81fd-46c3-9320-56efdc8374fe,{'primary_email': 'Marcia.Bernstein@cbexchange.com'},{'primary_email': 'marcia.bernstein@cbexchange.com'}
+03a1e051-a9dc-49ae-ad46-008d1bc1d5ca,{'primary_email': '##_760_#Kevin.Guinan@Longandfoster.com'},{'primary_email': '##_760_#kevin.guinan@longandfoster.com'}
+03a2b4ae-173d-4378-a7ea-d11c9c07a2ce,"{'office_addressline1': '2058 E. Franklin Road Suite 100', 'direct_phone': '208-844-0305', 'mobile_phone': '208-844-0305', 'agent_moxi_websites': True}","{'office_addressline1': '2058 E. Franklin Road', 'direct_phone': '(208) 794-2220', 'mobile_phone': '(208) 440-3053', 'agent_moxi_websites': 'false'}"
+03a4eb95-23cf-47ca-a1a6-b7f6c0a548d7,{'primary_email': 'Valerie@vjohnsonhomes.com'},{'primary_email': 'valerie@vjohnsonhomes.com'}
+03a73b76-28e3-4414-b1ae-4041b1cd0467,{'primary_email': 'Kim.Holloway@LongandFoster.com'},{'primary_email': 'kim.holloway@longandfoster.com'}
+03ac531b-1c24-4cde-99c7-fa9964d3b880,{'primary_email': 'Don.Stewart@carringtonres.com'},{'primary_email': 'don.stewart@carringtonres.com'}
+03ae626e-a34a-41fa-bcd0-b6d6f3fe27e6,{'primary_email': 'Donna.Mansfield@raveis.com'},{'primary_email': 'donna.mansfield@raveis.com'}
+03aef48b-6871-4a4e-b91a-815f5e1806df,{'primary_email': 'Lorin.Soto@coldwellbankermoves.com'},{'primary_email': 'lorin.soto@coldwellbankermoves.com'}
+03b122f6-8026-410e-8f0a-a739a5aee652,{'primary_email': 'Victoria.Perryman@cbexchange.com'},{'primary_email': 'victoria.perryman@cbexchange.com'}
+03b296c4-6b6d-4aab-88ea-6af57a8ec7e8,{'primary_email': '##_235_#Xavier.Mensah@longandfoster.com'},{'primary_email': '##_235_#xavier.mensah@longandfoster.com'}
+03b3347e-8876-49c3-9962-6ea66a1fd046,"{'office_addressline1': '8600 Park Meadows Drive 300', 'direct_phone': '720-090-0635', 'mobile_phone': '720-090-0635'}","{'office_addressline1': '8600 Park Meadows Drive', 'direct_phone': '(303) 798-4300', 'mobile_phone': '(720) 900-6350'}"
+03b7d926-ab69-429c-be8b-97db2307c630,{'primary_email': 'Noelle@winutah.com'},{'primary_email': 'noelle@winutah.com'}
+03b9771d-d1e9-418f-a0ae-38e53e831399,"{'office_addressline1': '210 N. York Street Unit 101', 'office_city': 'Elmhurst', 'office_zip': '60126', 'direct_phone': '312-226-4120', 'mobile_phone': ''}","{'office_addressline1': '778 N Western Avenue', 'office_city': 'Lake Forest', 'office_zip': '60045', 'direct_phone': '(847) 234-2500', 'mobile_phone': '(312) 264-1200'}"
+03bb2684-41a1-465d-871f-56112de7711d,{'primary_email': 'Clint.Wolf@cbexchange.com'},{'primary_email': 'clint.wolf@cbexchange.com'}
+03bc08da-4346-41af-af52-208ad8db5780,{'primary_email': 'BUrbanPurtell@cbnorcal.com'},{'primary_email': 'burbanpurtell@cbnorcal.com'}
+03bcfa0f-8fb4-4ed4-be2b-9d04c23dc337,{'direct_phone': ''},{'direct_phone': '(941) 388-4447'}
+03bdefd3-89a3-42a0-a473-4217f291ad6d,{'primary_email': 'Eilleen.Sabillon@cbunited.com'},{'primary_email': 'eilleen.sabillon@cbunited.com'}
+03c02d6c-ff04-4cea-b4f7-73ef7d7b68be,"{'primary_email': 'NoelleMcCutchen@pacunionla.com', 'direct_phone': ''}","{'primary_email': 'noellemccutchen@pacunionla.com', 'direct_phone': '(310) 820-0195'}"
+03c55f32-6fb1-439c-987e-c430db066328,{'primary_email': 'Melissa.Carter@longandfoster.com'},{'primary_email': 'melissa.carter@longandfoster.com'}
+03c8355e-893b-4586-8971-31a06666328a,{'mobile_phone': ''},{'mobile_phone': '(630) 325-7500'}
+03c8be00-62ef-40d5-a58b-035b39f7a50d,"{'office_addressline1': '4010 Barranca Pkwy Ste. 120', 'direct_phone': '714-432-6640', 'mobile_phone': '714-432-6640'}","{'office_addressline1': '4010 Barranca Pkwy', 'direct_phone': '(949) 783-2400', 'mobile_phone': '(714) 326-6408'}"
+03c8dddc-453b-4246-b688-7c5bf050e1d6,{'primary_email': 'Marilyn.Brown@longandfoster.com'},{'primary_email': 'marilyn.brown@longandfoster.com'}
+03c90ce8-bdbe-4ace-b986-40c3fe3ff6d2,{'primary_email': 'MARYLOU.DELL@LNF.COM'},{'primary_email': 'marylou.dell@lnf.com'}
+03c99d64-cb3b-48f3-8baf-cc31468bdcb1,{'primary_email': 'mario@rogPreferred.com'},{'primary_email': 'mario@rogpreferred.com'}
+03c9c978-2389-4406-988d-8b816aa0e2bd,{'primary_email': 'Janis.Whittaker@LongandFoster.com'},{'primary_email': 'janis.whittaker@longandfoster.com'}
+03ca56b9-fc31-4742-a5d0-666b82205b87,{'primary_email': 'Barbara.Abram@raveis.com'},{'primary_email': 'barbara.abram@raveis.com'}
+03cb0a69-858e-4e94-80dc-b0bad1c9444d,"{'office_addressline1': '2831 St. Rose Parkway Ste. 100', 'direct_phone': '702-225-0682', 'mobile_phone': '702-225-0682'}","{'office_addressline1': '2831 St. Rose Parkway', 'direct_phone': '(702) 898-7575', 'mobile_phone': '(702) 250-6821'}"
+03cb6da4-4b44-4018-9bd4-52ad28bbec44,"{'office_addressline1': '1140 Pitt School Road A', 'direct_phone': '707-724-9177'}","{'office_addressline1': '1140 Pitt School Road', 'direct_phone': '(707) 678-4663'}"
+03d0556a-733f-48bb-a229-5d9d44eed70a,{'primary_email': 'Rain@InteroGetty.com'},{'primary_email': 'rain@interogetty.com'}
+03d0a3c8-16f6-4e1c-bb7d-630979b82674,"{'office_addressline1': '41463 Margarita Rd. Suite 100', 'direct_phone': '951-174-6792', 'mobile_phone': '951-174-6792'}","{'office_addressline1': '41463 Margarita Rd.', 'direct_phone': '(951) 216-2000', 'mobile_phone': '(951) 746-7921'}"
+03d23734-5f62-4b7f-8eeb-e8d4b9d04d39,"{'office_addressline1': '3717 S. La Brea Ave. #102', 'direct_phone': '', 'mobile_phone': '310-074-8595'}","{'office_addressline1': '3717 S. La Brea Ave.', 'direct_phone': '(310) 652-6285', 'mobile_phone': '(310) 748-5959'}"
+03d287de-e81f-48c2-9a26-a55e247fcfb3,{'primary_email': 'James.OSullivan@cbexchange.com'},{'primary_email': 'james.osullivan@cbexchange.com'}
+03d2a60f-6d86-44f7-a4c9-8a0fde0984bf,{'primary_email': 'DianePowall@howardhanna.com'},{'primary_email': 'dianepowall@howardhanna.com'}
+03d31fcd-bf84-4f65-8488-fca61e1828e7,"{'office_addressline1': '27401 Los Altos Suite 100', 'office_city': 'Mission Viejo', 'direct_phone': '949-978-3249', 'mobile_phone': '949-978-3249'}","{'office_addressline1': '27401 Los Altos', 'office_city': 'Irvine', 'direct_phone': '(949) 783-2499', 'mobile_phone': '(949) 783-2499'}"
+03d8a958-4ed7-41d8-85b3-a7e6c09f4e23,{'primary_email': 'Peggy.Meehan@coldwellbankermoves.com'},{'primary_email': 'peggy.meehan@coldwellbankermoves.com'}
+03d912d5-3b55-4777-83ed-991b68e7c241,{'primary_email': 'Gretchen.Parker@NEMoves.com'},{'primary_email': 'gretchen.parker@nemoves.com'}
+03d938ed-99b3-41bf-ad8c-02c2d9237fc6,{'primary_email': 'kathleen.lanell@NEMoves.com'},{'primary_email': 'kathleen.lanell@nemoves.com'}
+03d9565b-8ac9-483c-bc8e-33086fdb265e,{'primary_email': 'RealtorMeatha@gmail.com'},{'primary_email': 'realtormeatha@gmail.com'}
+03da0f51-66b0-407a-8494-09b3330fabfa,{'primary_email': '##_10_#SHOWTIMECHERSELLSFAST@GMAIL.COM'},{'primary_email': '##_10_#showtimechersellsfast@gmail.com'}
+03db2d7f-fdbe-4f83-a1c4-628fedcdd3de,{'primary_email': 'Danielle.Waldera@longandfoster.com'},{'primary_email': 'danielle.waldera@longandfoster.com'}
+03dcc589-54e6-4cff-bef3-a113474a7c64,{'primary_email': 'Christi.Nicklas@azmoves.com'},{'primary_email': 'christi.nicklas@azmoves.com'}
+03dd7f0c-4ab0-4e63-8b43-a411b891908f,{'primary_email': 'MariaLaurendi@howardhanna.com'},{'primary_email': 'marialaurendi@howardhanna.com'}
+03ddb08e-c729-42f0-9393-00c00b188269,{'primary_email': 'ASchram@cbmove.com'},{'primary_email': 'aschram@cbmove.com'}
+03ddbf91-382b-4e8a-b051-193ed42960c2,"{'primary_email': 'Geeta.Kidambi@LongandFoster.com', 'alternate_email': 'Geeta.Kidambi@LongandFoster.com'}","{'primary_email': 'geetanjali.kidambi@longandfoster.com', 'alternate_email': 'Geetanjali.Kidambi@longandfoster.com'}"
+03de6580-377d-49dd-ae7f-2d4bdb1fa501,"{'office_addressline1': '980 N. Michigan Avenue Suite 700', 'office_city': 'Chicago', 'office_zip': '60611', 'direct_phone': '312-289-3357', 'mobile_phone': ''}","{'office_addressline1': '607 Elm Place', 'office_city': 'Highland Park', 'office_zip': '60035', 'direct_phone': '(847) 432-3200', 'mobile_phone': '(312) 893-3570'}"
+03df681e-e6a4-482b-a85b-51235d3167d5,{'primary_email': '##_268_#David.Eisenhauer@camoves.com'},{'primary_email': '##_268_#david.eisenhauer@camoves.com'}
+03e34436-4ccf-456f-a43d-e0631d644bea,{'primary_email': '##_155_#Andrew.Galambos@coldwellbankermoves.com'},{'primary_email': '##_155_#andrew.galambos@coldwellbankermoves.com'}
+03e589d0-f771-43d7-9b28-8306b98fe9bc,{'primary_email': 'WendyCutrightRealtor@gmail.com'},{'primary_email': 'wendycutrightrealtor@gmail.com'}
+03e6317b-61de-4b47-8d7b-508e6867cea7,{'primary_email': '##_802_#SHARON.HAYMAN@lnf.com'},{'primary_email': '##_802_#sharon.hayman@lnf.com'}
+03e78b92-7303-46eb-8d79-aeb0a0d3ca1c,"{'primary_email': 'JIM.HOLZGREFE@LongandFoster.com', 'direct_phone': ''}","{'primary_email': 'jim.holzgrefe@longandfoster.com', 'direct_phone': '8047544510'}"
+03e8108d-6ad8-4346-aa6e-cd6347220b2f,{'primary_email': 'DianeSadowski@1stprioritymortgage.com'},{'primary_email': 'dianesadowski@1stprioritymortgage.com'}
+03e994c2-8e09-4567-a8ed-b96138864fd7,{'primary_email': 'Jules5889@yahoo.com'},{'primary_email': 'jules5889@yahoo.com'}
+03e9af4b-c333-4e41-9159-b2174a08c896,{'primary_email': 'Bethany.Dinger@cbmove.com'},{'primary_email': 'bethany.dinger@cbmove.com'}
+03e9b060-1baa-4269-b528-71fec2a9c5bb,{'primary_email': 'Janet.Cramer@NEMoves.com'},{'primary_email': 'janet.cramer@nemoves.com'}
